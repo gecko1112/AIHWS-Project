@@ -1,0 +1,16 @@
+[project]
+name = "aihws"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "ipykernel>=7.2.0",
+    "keras>=3.13.2",
+    "matplotlib>=3.10.8",
+    "numpy>=2.4.2",
+    "pandas>=3.0.1",
+    "scikit-learn>=1.8.0",
+    "statsmodels>=0.14.6",
+    "tensorflow>=2.20.0",
+]

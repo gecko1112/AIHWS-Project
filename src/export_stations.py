@@ -5,22 +5,19 @@ DATA_DIR = "data/Dataset/Country-Wise Data"
 OUT_DIR  = "output"
 os.makedirs(OUT_DIR, exist_ok=True)
 
-# Ireland — real place names, geocodable on Geonames
-ireland = pd.read_csv(
-    os.path.join(DATA_DIR, "Ireland_dataset.csv"),
-    usecols=["Country", "Area", "Waterbody Type"]
-).drop_duplicates().sort_values(["Waterbody Type", "Area"]).reset_index(drop=True)
-ireland.to_csv(os.path.join(OUT_DIR, "ireland_stations.csv"), index=False)
-print(f"Ireland: {len(ireland)} unique stations -> output/ireland_stations.csv")
+df = pd.read_csv(os.path.join(DATA_DIR, "Ireland_dataset.csv"),
+                 usecols=["Area", "Waterbody Type"])
 
-# China — single station, included for completeness
-china = pd.read_csv(
-    os.path.join(DATA_DIR, "China_dataset.csv"),
-    usecols=["Country", "Area", "Waterbody Type"]
-).drop_duplicates().reset_index(drop=True)
-china.to_csv(os.path.join(OUT_DIR, "china_stations.csv"), index=False)
-print(f"China  : {len(china)} unique station  -> output/china_stations.csv")
+counts = df.groupby(["Area", "Waterbody Type"]).size().reset_index(name="n_measurements")
+top150 = (counts[counts["n_measurements"] >= 30]
+          .sort_values("n_measurements", ascending=False)
+          .head(150)
+          .reset_index(drop=True))
 
-print()
-print("England/Canada/USA skipped — their 'Area' columns are internal codes,")
-print("not place names, so they cannot be resolved on Geonames.")
+top150["latitude"]  = ""
+top150["longitude"] = ""
+
+out = os.path.join(OUT_DIR, "ireland_stations_geocode.csv")
+top150.to_csv(out, index=False)
+print(f"Saved {len(top150)} stations -> {out}")
+print(top150.head(10).to_string(index=False))

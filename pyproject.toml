@@ -5,11 +5,14 @@ description = "Add your description here"
 readme = "README.md"
 requires-python = ">=3.13"
 dependencies = [
+    "dotenv>=0.9.9",
     "ipykernel>=7.2.0",
+    "ipyleaflet>=0.20.0",
     "keras>=3.13.2",
     "matplotlib>=3.10.8",
     "numpy>=2.4.2",
     "pandas>=3.0.1",
+    "requests>=2.32.5",
     "scikit-learn>=1.8.0",
     "statsmodels>=0.14.6",
     "tensorflow>=2.20.0",

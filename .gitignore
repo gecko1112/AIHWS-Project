@@ -6,6 +6,9 @@ dist/
 wheels/
 *.egg-info
 
+# Git
+.git/
+
 # Data
 data/
 output/

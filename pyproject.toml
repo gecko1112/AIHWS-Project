@@ -8,6 +8,7 @@ dependencies = [
     "dotenv>=0.9.9",
     "ipykernel>=7.2.0",
     "ipyleaflet>=0.20.0",
+    "joblib>=1.5.3",
     "keras>=3.13.2",
     "matplotlib>=3.10.8",
     "nbconvert>=7.17.0",

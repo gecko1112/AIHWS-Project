@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# In[39]:
+# In[1]:
 
 
 import os
@@ -14,11 +14,11 @@ from sklearn.preprocessing import StandardScaler
 from sklearn.metrics import mean_squared_error, mean_absolute_error, r2_score
 
 
-# In[40]:
+# In[2]:
 
 
 # ── Config ─────────────────────────────────────────────────────────────────
-DATA_PATH  = "data/Dataset/Combined Data/Combined_dataset.csv"
+DATA_PATH  = "data/Dataset/Country-Wise Data/Ireland_dataset.csv"
 OUTPUT_DIR = "output"
 FEATURES = [
     "Ammonia (mg/l)",
@@ -38,7 +38,7 @@ VAL_SIZE    = 0.1
 os.makedirs(OUTPUT_DIR, exist_ok=True)
 
 
-# In[ ]:
+# In[3]:
 
 
 # ── 1. Load data ─────────────────────────────────────────────────────────────
@@ -55,7 +55,7 @@ print(f"  Min:   {y.min():.2f}")
 print(f"  Max:   {y.max():.2f}")
 
 
-# In[ ]:
+# In[4]:
 
 
 # ── 2. IQR outlier removal (1.5× inner fence, matching baseline) ─────────────
@@ -70,7 +70,7 @@ y = df_clean[TARGET].values.astype(float)
 print(f"After outlier removal: {len(df_clean):,} rows  (removed {len(df) - len(df_clean):,})")
 
 
-# In[ ]:
+# In[5]:
 
 
 # ── 3. Train / val / test split ──────────────────────────────────────────────
@@ -83,7 +83,7 @@ X_train, X_val, y_train, y_val = train_test_split(
 print(f"Train: {X_train.shape[0]:,}  Val: {X_val.shape[0]:,}  Test: {X_test.shape[0]:,}")
 
 
-# In[ ]:
+# In[6]:
 
 
 # ── 4. Feature scaling ──────────────────────────────────────────────────────
@@ -91,7 +91,7 @@ print(f"Train: {X_train.shape[0]:,}  Val: {X_val.shape[0]:,}  Test: {X_test.shap
 pass
 
 
-# In[ ]:
+# In[7]:
 
 
 # ── 5. Scale features + target ───────────────────────────────────────────────
@@ -109,7 +109,7 @@ y_val_s   = y_scaler.transform(y_val.reshape(-1, 1)).flatten()
 print("Features: StandardScaler | Target: MinMaxScaler (fit on train only)")
 
 
-# In[ ]:
+# In[8]:
 
 
 # ── 6. Build regression model ────────────────────────────────────────────────
@@ -141,7 +141,7 @@ model.compile(
 model.summary()
 
 
-# In[ ]:
+# In[9]:
 
 
 # ── 7. Callbacks ────────────────────────────────────────────────────────────
@@ -155,7 +155,7 @@ callbacks = [
 ]
 
 
-# In[ ]:
+# In[10]:
 
 
 # ── 8. Train ─────────────────────────────────────────────────────────────────
@@ -169,7 +169,7 @@ history = model.fit(
 )
 
 
-# In[ ]:
+# In[11]:
 
 
 # ── 9. Evaluate ──────────────────────────────────────────────────────────────
@@ -200,7 +200,7 @@ plt.savefig(f"{OUTPUT_DIR}/actual_vs_predicted_ann.png", dpi=150)
 plt.show()
 
 
-# In[ ]:
+# In[12]:
 
 
 # ── 10. Training curves ───────────────────────────────────────────────────────
@@ -227,7 +227,7 @@ plt.show()
 print(f"Saved to {OUTPUT_DIR}/training_curves.png")
 
 
-# In[ ]:
+# In[13]:
 
 
 import joblib
@@ -243,7 +243,7 @@ print(f"Saved: {OUTPUT_DIR}/wqi_ann_model.keras | scaler.joblib | y_scaler.jobli
 # 
 # We use a Random Forest to rank feature importances, then iteratively remove the least important feature and re-train to observe the impact on macro F1-score.
 
-# In[ ]:
+# In[14]:
 
 
 from sklearn.ensemble import RandomForestRegressor
@@ -287,7 +287,7 @@ for i, (name, imp) in enumerate(zip(ranked_features, importances[sorted_idx])):
     print(f"  {i+1}. {name:45s}  {imp:.4f}")
 
 
-# In[ ]:
+# In[15]:
 
 
 # ── Feature importance bar chart ─────────────────────────────────────────────
@@ -295,7 +295,7 @@ fig, ax = plt.subplots(figsize=(9, 5))
 short_names = [n.split(" (")[0] for n in ranked_features]
 bars = ax.barh(short_names, importances[sorted_idx], color="steelblue")
 ax.set_xlabel("Mean Decrease in Impurity (Feature Importance)")
-ax.set_title("Random Forest Feature Importances — Combined Dataset (All Countries)")
+ax.set_title("Random Forest Feature Importances — Ireland Dataset")
 ax.bar_label(bars, fmt="%.4f", padding=3, fontsize=9)
 ax.set_xlim(0, importances.max() * 1.18)
 plt.tight_layout()
@@ -304,7 +304,7 @@ plt.show()
 print(f"Saved to {OUTPUT_DIR}/feature_importances.png")
 
 
-# In[ ]:
+# In[16]:
 
 
 # ── Ablation: remove least important feature one by one ──────────────────────
@@ -342,7 +342,7 @@ results_df = pd.DataFrame(results)
 print("\n", results_df[["n_features", "removed", "r2", "rmse"]].to_string(index=False))
 
 
-# In[ ]:
+# In[17]:
 
 
 # ── Ablation curve ────────────────────────────────────────────────────────────
@@ -350,7 +350,7 @@ fig, ax = plt.subplots(figsize=(9, 5))
 ax.plot(results_df["n_features"], results_df["r2"], marker="o", linewidth=2, color="steelblue")
 ax.set_xlabel("Number of Features")
 ax.set_ylabel("R²")
-ax.set_title("Feature Ablation — Combined Dataset (All Countries) (RF Regressor)")
+ax.set_title("Feature Ablation — Ireland Dataset (RF Regressor)")
 ax.set_xticks(results_df["n_features"])
 ax.set_ylim(0, 1.05)
 ax.grid(True, linestyle="--", alpha=0.5)
@@ -371,7 +371,7 @@ print(f"Saved to {OUTPUT_DIR}/ablation_curve.png")
 # 
 # Permutation importance measures how much macro F1 drops when a single feature's values are randomly shuffled on the **test set**. Unlike MDI, it is evaluated on held-out data and is not biased toward high-cardinality features.
 
-# In[ ]:
+# In[18]:
 
 
 from sklearn.inspection import permutation_importance
@@ -394,7 +394,7 @@ for i in perm_order:
     print(f"  {FEATURES[i]:45s}  {perm_means[i]:.4f} +/- {perm_stds[i]:.4f}")
 
 
-# In[ ]:
+# In[19]:
 
 
 # ── Side-by-side MDI vs Permutation importance ───────────────────────────────
@@ -414,7 +414,7 @@ ax.bar(x + width/2, perm_norm, width, label="Permutation (normalised)", color="d
 ax.set_xticks(x)
 ax.set_xticklabels(short, rotation=30, ha="right")
 ax.set_ylabel("Normalised Importance")
-ax.set_title("Feature Importance: MDI vs. Permutation (R²) — Combined Dataset (All Countries)")
+ax.set_title("Feature Importance: MDI vs. Permutation (R²) — Ireland Dataset")
 ax.legend()
 ax.grid(axis="y", linestyle="--", alpha=0.4)
 
@@ -422,104 +422,4 @@ plt.tight_layout()
 plt.savefig(f"{OUTPUT_DIR}/importance_comparison.png", dpi=150)
 plt.show()
 print(f"Saved to {OUTPUT_DIR}/importance_comparison.png")
-
-
-# ## ANN Ablation Study
-# 
-# Retrain the MLP from scratch for each feature subset (removal order determined by RF importance above). This gives the true degradation curve for the focus model.
-
-# In[58]:
-
-
-ann_results = []
-active_indices = list(range(len(FEATURES)))
-
-for step in range(len(FEATURES)):
-    col_idx = active_indices[:]
-    n_feat  = len(col_idx)
-
-    # ── Scale features for this subset ───────────────────────────────────────
-    sc_x = StandardScaler()
-    X_tr_sub = sc_x.fit_transform(X_tr[:, col_idx])
-    X_te_sub = sc_x.transform(X_te[:, col_idx])
-    X_v_sub  = sc_x.transform(X_v[:, col_idx])
-
-    sc_y = MinMaxScaler()
-    y_tr_s = sc_y.fit_transform(y_tr.reshape(-1, 1)).flatten()
-    y_v_s  = sc_y.transform(y_v.reshape(-1, 1)).flatten()
-
-    # ── Build ANN ─────────────────────────────────────────────────────────────
-    tf.random.set_seed(RANDOM_SEED)
-    ann = tf.keras.Sequential([
-        tf.keras.layers.Input(shape=(n_feat,)),
-        tf.keras.layers.Dense(128, activation="relu"),
-        tf.keras.layers.BatchNormalization(),
-        tf.keras.layers.Dropout(0.3),
-        tf.keras.layers.Dense(64, activation="relu"),
-        tf.keras.layers.BatchNormalization(),
-        tf.keras.layers.Dropout(0.3),
-        tf.keras.layers.Dense(32, activation="relu"),
-        tf.keras.layers.Dropout(0.2),
-        tf.keras.layers.Dense(1),
-    ])
-    ann.compile(optimizer=tf.keras.optimizers.Adam(1e-3), loss="mse", metrics=["mae"])
-
-    cbs = [
-        tf.keras.callbacks.EarlyStopping(monitor="val_loss", patience=10, restore_best_weights=True),
-        tf.keras.callbacks.ReduceLROnPlateau(monitor="val_loss", factor=0.5, patience=5, min_lr=1e-6, verbose=0),
-    ]
-
-    ann.fit(X_tr_sub, y_tr_s, validation_data=(X_v_sub, y_v_s),
-            epochs=100, batch_size=256, callbacks=cbs, verbose=0)
-
-    # ── Evaluate ──────────────────────────────────────────────────────────────
-    y_pred_s  = ann.predict(X_te_sub, verbose=0).flatten()
-    y_pred    = sc_y.inverse_transform(y_pred_s.reshape(-1, 1)).flatten()
-
-    r2_val   = r2_score(y_te, y_pred)
-    rmse_val = np.sqrt(mean_squared_error(y_te, y_pred))
-    removed  = FEATURES[removal_order[step - 1]] if step > 0 else "—"
-
-    ann_results.append({
-        "n_features": n_feat,
-        "removed":    removed,
-        "r2":         r2_val,
-        "rmse":       rmse_val,
-    })
-    print(f"n={n_feat:2d}  R²={r2_val:.4f}  RMSE={rmse_val:.4f}  (removed: {removed})")
-
-    if active_indices:
-        drop = removal_order[step]
-        active_indices = [i for i in active_indices if i != drop]
-
-ann_results_df = pd.DataFrame(ann_results)
-print("\n", ann_results_df[["n_features", "removed", "r2", "rmse"]].to_string(index=False))
-
-
-# In[59]:
-
-
-# ── ANN ablation curve ────────────────────────────────────────────────────────
-fig, (ax1, ax2) = plt.subplots(1, 2, figsize=(14, 5))
-
-for ax, metric, label in [(ax1, "r2", "R²"), (ax2, "rmse", "RMSE")]:
-    ax.plot(ann_results_df["n_features"], ann_results_df[metric],
-            marker="o", linewidth=2, color="steelblue")
-    ax.set_xlabel("Number of Features")
-    ax.set_ylabel(label)
-    ax.set_title(f"ANN Ablation — {label} vs Features Removed")
-    ax.set_xticks(ann_results_df["n_features"])
-    ax.grid(True, linestyle="--", alpha=0.5)
-
-    for _, row in ann_results_df.iterrows():
-        lbl = row["removed"].split(" (")[0] if row["removed"] != "—" else "all"
-        ax.annotate(lbl, xy=(row["n_features"], row[metric]),
-                    xytext=(0, 10), textcoords="offset points",
-                    ha="center", fontsize=7.5, rotation=30)
-
-plt.suptitle("ANN Feature Ablation — Combined Dataset (All Countries)", fontsize=13)
-plt.tight_layout()
-plt.savefig(f"{OUTPUT_DIR}/ablation_curve_ann.png", dpi=150)
-plt.show()
-print(f"Saved to {OUTPUT_DIR}/ablation_curve_ann.png")
 

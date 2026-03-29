@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# In[39]:
+# In[5]:
 
 
 import os
@@ -14,7 +14,7 @@ from sklearn.preprocessing import StandardScaler
 from sklearn.metrics import mean_squared_error, mean_absolute_error, r2_score
 
 
-# In[40]:
+# In[6]:
 
 
 # ── Config ─────────────────────────────────────────────────────────────────
@@ -38,7 +38,7 @@ VAL_SIZE    = 0.1
 os.makedirs(OUTPUT_DIR, exist_ok=True)
 
 
-# In[ ]:
+# In[7]:
 
 
 # ── 1. Load data ─────────────────────────────────────────────────────────────
@@ -55,7 +55,7 @@ print(f"  Min:   {y.min():.2f}")
 print(f"  Max:   {y.max():.2f}")
 
 
-# In[ ]:
+# In[8]:
 
 
 # ── 2. IQR outlier removal (1.5× inner fence, matching baseline) ─────────────
@@ -70,7 +70,7 @@ y = df_clean[TARGET].values.astype(float)
 print(f"After outlier removal: {len(df_clean):,} rows  (removed {len(df) - len(df_clean):,})")
 
 
-# In[ ]:
+# In[10]:
 
 
 # ── 3. Train / val / test split ──────────────────────────────────────────────
@@ -91,7 +91,7 @@ print(f"Train: {X_train.shape[0]:,}  Val: {X_val.shape[0]:,}  Test: {X_test.shap
 pass
 
 
-# In[ ]:
+# In[12]:
 
 
 # ── 5. Scale features + target ───────────────────────────────────────────────
@@ -243,7 +243,7 @@ print(f"Saved: {OUTPUT_DIR}/wqi_ann_model.keras | scaler.joblib | y_scaler.jobli
 # 
 # We use a Random Forest to rank feature importances, then iteratively remove the least important feature and re-train to observe the impact on macro F1-score.
 
-# In[ ]:
+# In[13]:
 
 
 from sklearn.ensemble import RandomForestRegressor
@@ -287,7 +287,7 @@ for i, (name, imp) in enumerate(zip(ranked_features, importances[sorted_idx])):
     print(f"  {i+1}. {name:45s}  {imp:.4f}")
 
 
-# In[ ]:
+# In[15]:
 
 
 # ── Feature importance bar chart ─────────────────────────────────────────────
@@ -304,7 +304,7 @@ plt.show()
 print(f"Saved to {OUTPUT_DIR}/feature_importances.png")
 
 
-# In[ ]:
+# In[16]:
 
 
 # ── Ablation: remove least important feature one by one ──────────────────────
@@ -428,7 +428,7 @@ print(f"Saved to {OUTPUT_DIR}/importance_comparison.png")
 # 
 # Retrain the MLP from scratch for each feature subset (removal order determined by RF importance above). This gives the true degradation curve for the focus model.
 
-# In[58]:
+# In[ ]:
 
 
 ann_results = []
@@ -522,4 +522,296 @@ plt.tight_layout()
 plt.savefig(f"{OUTPUT_DIR}/ablation_curve_ann.png", dpi=150)
 plt.show()
 print(f"Saved to {OUTPUT_DIR}/ablation_curve_ann.png")
+
+
+# ## LSTM Ablation Study
+# 
+# Same removal ordering as ANN (RF importance). 1 LSTM layer, 50 units, matching baseline architecture. Input reshaped to `(samples, 1, n_features)` for each subset.
+
+# In[17]:
+
+
+lstm_results = []
+active_indices = list(range(len(FEATURES)))
+
+for step in range(len(FEATURES)):
+    col_idx = active_indices[:]
+    n_feat  = len(col_idx)
+
+    # ── Scale ─────────────────────────────────────────────────────────────────
+    sc_x = StandardScaler()
+    X_tr_sub = sc_x.fit_transform(X_tr[:, col_idx]).reshape(-1, 1, n_feat)
+    X_te_sub = sc_x.transform(X_te[:, col_idx]).reshape(-1, 1, n_feat)
+    X_v_sub  = sc_x.transform(X_v[:, col_idx]).reshape(-1, 1, n_feat)
+
+    sc_y = MinMaxScaler()
+    y_tr_s = sc_y.fit_transform(y_tr.reshape(-1, 1)).flatten()
+    y_v_s  = sc_y.transform(y_v.reshape(-1, 1)).flatten()
+
+    # ── Build LSTM (matching baseline: 1 layer, 50 units) ─────────────────────
+    tf.random.set_seed(RANDOM_SEED)
+    lstm = tf.keras.Sequential([
+        tf.keras.layers.Input(shape=(1, n_feat)),
+        tf.keras.layers.LSTM(50),
+        tf.keras.layers.Dense(1),
+    ])
+    lstm.compile(optimizer=tf.keras.optimizers.Adam(1e-3), loss="mse", metrics=["mae"])
+
+    cbs = [
+        tf.keras.callbacks.EarlyStopping(monitor="val_loss", patience=10, restore_best_weights=True),
+        tf.keras.callbacks.ReduceLROnPlateau(monitor="val_loss", factor=0.5, patience=5, min_lr=1e-6, verbose=0),
+    ]
+
+    lstm.fit(X_tr_sub, y_tr_s, validation_data=(X_v_sub, y_v_s),
+             epochs=100, batch_size=256, callbacks=cbs, verbose=0)
+
+    # ── Evaluate ──────────────────────────────────────────────────────────────
+    y_pred_s = lstm.predict(X_te_sub, verbose=0).flatten()
+    y_pred   = sc_y.inverse_transform(y_pred_s.reshape(-1, 1)).flatten()
+
+    r2_val   = r2_score(y_te, y_pred)
+    rmse_val = np.sqrt(mean_squared_error(y_te, y_pred))
+    removed  = FEATURES[removal_order[step - 1]] if step > 0 else "—"
+
+    lstm_results.append({
+        "n_features": n_feat,
+        "removed":    removed,
+        "r2":         r2_val,
+        "rmse":       rmse_val,
+    })
+    print(f"n={n_feat:2d}  R²={r2_val:.4f}  RMSE={rmse_val:.4f}  (removed: {removed})")
+
+    if active_indices:
+        drop = removal_order[step]
+        active_indices = [i for i in active_indices if i != drop]
+
+lstm_results_df = pd.DataFrame(lstm_results)
+print("\n", lstm_results_df[["n_features", "removed", "r2", "rmse"]].to_string(index=False))
+
+
+# In[ ]:
+
+
+# ── Combined 3-model ablation comparison ─────────────────────────────────────
+fig, (ax1, ax2) = plt.subplots(1, 2, figsize=(14, 5))
+
+models = [
+    (results_df,      "RF",   "steelblue"),
+    (ann_results_df,  "ANN",  "darkorange"),
+    (lstm_results_df, "LSTM", "green"),
+]
+
+for ax, metric, ylabel in [(ax1, "r2", "R²"), (ax2, "rmse", "RMSE")]:
+    for df_m, label, color in models:
+        ax.plot(df_m["n_features"], df_m[metric],
+                marker="o", linewidth=2, label=label, color=color)
+    ax.set_xlabel("Number of Features")
+    ax.set_ylabel(ylabel)
+    ax.set_title(f"{ylabel} vs Features Removed")
+    ax.set_xticks(results_df["n_features"])
+    ax.legend()
+    ax.grid(True, linestyle="--", alpha=0.5)
+
+# Annotate x-axis with feature removed at each step (use ANN df as reference)
+x_labels = [r.split(" (")[0] if r != "—" else "all"
+            for r in ann_results_df["removed"]]
+for ax in (ax1, ax2):
+    ax.set_xticklabels(
+        [f"{n}\n({lbl})" for n, lbl in zip(ann_results_df["n_features"], x_labels)],
+        fontsize=7.5
+    )
+
+plt.suptitle("Ablation Study: RF vs ANN vs LSTM — Combined Dataset (All Countries)", fontsize=13)
+plt.tight_layout()
+plt.savefig(f"{OUTPUT_DIR}/ablation_comparison_all_models.png", dpi=150)
+plt.show()
+print(f"Saved to {OUTPUT_DIR}/ablation_comparison_all_models.png")
+
+
+# ## Data Investigation: Which Parameters Drive the CCME Score?
+# 
+# We examine correlations, per-category distributions, and guideline failure rates to understand why Orthophosphate dominates the ablation results.
+
+# In[ ]:
+
+
+# ── 1. Spearman correlation of each feature with CCME_Values ─────────────────
+from scipy.stats import spearmanr
+import pandas as pd
+
+df_raw = pd.read_csv(DATA_PATH)
+
+corr_rows = []
+for feat in FEATURES:
+    col = df_raw[feat].dropna()
+    wqi = df_raw.loc[col.index, "CCME_Values"]
+    r, p = spearmanr(col, wqi)
+    corr_rows.append({"feature": feat.split(" (")[0], "spearman_r": r, "p_value": p})
+
+corr_df = pd.DataFrame(corr_rows).sort_values("spearman_r", key=abs, ascending=False)
+print("Spearman correlation with CCME_Values (absolute):")
+print(corr_df.to_string(index=False))
+
+
+# In[ ]:
+
+
+# ── 2. Variance of each feature by WQI category ──────────────────────────────
+cat_order = ["Excellent", "Good", "Fair", "Marginal", "Poor"]
+short_feats = [f.split(" (")[0] for f in FEATURES]
+
+fig, axes = plt.subplots(2, 4, figsize=(16, 8))
+axes = axes.flatten()
+
+for ax, feat, short in zip(axes, FEATURES, short_feats):
+    data = [df_raw[df_raw["CCME_WQI"] == cat][feat].dropna() for cat in cat_order]
+    ax.boxplot(data, labels=cat_order, showfliers=False)
+    ax.set_title(short, fontsize=10)
+    ax.tick_params(axis="x", rotation=30, labelsize=8)
+
+plt.suptitle("Feature Distribution by WQI Category — Combined Dataset", fontsize=13)
+plt.tight_layout()
+plt.savefig(f"{OUTPUT_DIR}/feature_distributions_by_category.png", dpi=150)
+plt.show()
+print(f"Saved to {OUTPUT_DIR}/feature_distributions_by_category.png")
+
+
+# In[ ]:
+
+
+# ── 3. Failure rate proxy: % of samples per feature that are outliers ─────────
+# CCME counts "failures" as values that don't meet objectives.
+# We approximate failure as values above the 95th percentile of each feature
+# (high values = more likely to exceed guideline for pollutants like Orthophosphate).
+# For DO and pH, low values indicate failure — handled separately.
+
+low_fail  = {"Dissolved Oxygen (mg/l)", "pH (ph units)"}   # fail when LOW
+high_fail = set(FEATURES) - low_fail                        # fail when HIGH
+
+fail_rates = {}
+for feat in FEATURES:
+    if feat in high_fail:
+        threshold = df_raw[feat].quantile(0.95)
+        rate = (df_raw[feat] > threshold).mean() * 100
+    else:
+        threshold = df_raw[feat].quantile(0.05)
+        rate = (df_raw[feat] < threshold).mean() * 100
+    fail_rates[feat.split(" (")[0]] = rate
+
+fail_df = pd.Series(fail_rates).sort_values(ascending=False)
+print("Approximate failure rate (% samples exceeding directional 95th/5th percentile):")
+print(fail_df.to_string())
+
+fig, ax = plt.subplots(figsize=(9, 4))
+fail_df.plot(kind="bar", ax=ax, color="steelblue", alpha=0.85)
+ax.set_ylabel("% samples (proxy failure rate)")
+ax.set_title("Proxy Failure Rate per Parameter — Combined Dataset")
+ax.tick_params(axis="x", rotation=30)
+ax.grid(axis="y", linestyle="--", alpha=0.4)
+plt.tight_layout()
+plt.savefig(f"{OUTPUT_DIR}/proxy_failure_rates.png", dpi=150)
+
+
+# ## LSTM Ablation Study
+# 
+# Same removal ordering as ANN (RF importance). 1 LSTM layer, 50 units, matching baseline architecture.
+
+# In[ ]:
+
+
+lstm_results = []
+active_indices = list(range(len(FEATURES)))
+
+for step in range(len(FEATURES)):
+    col_idx = active_indices[:]
+    n_feat  = len(col_idx)
+
+    # ── Scale ─────────────────────────────────────────────────────────────────
+    sc_x = StandardScaler()
+    X_tr_sub = sc_x.fit_transform(X_tr[:, col_idx]).reshape(-1, 1, n_feat)
+    X_te_sub = sc_x.transform(X_te[:, col_idx]).reshape(-1, 1, n_feat)
+    X_v_sub  = sc_x.transform(X_v[:, col_idx]).reshape(-1, 1, n_feat)
+
+    sc_y = MinMaxScaler()
+    y_tr_s = sc_y.fit_transform(y_tr.reshape(-1, 1)).flatten()
+    y_v_s  = sc_y.transform(y_v.reshape(-1, 1)).flatten()
+
+    # ── Build LSTM (matching baseline: 1 layer, 50 units) ─────────────────────
+    tf.random.set_seed(RANDOM_SEED)
+    lstm = tf.keras.Sequential([
+        tf.keras.layers.Input(shape=(1, n_feat)),
+        tf.keras.layers.LSTM(50),
+        tf.keras.layers.Dense(1),
+    ])
+    lstm.compile(optimizer=tf.keras.optimizers.Adam(1e-3), loss="mse", metrics=["mae"])
+
+    cbs = [
+        tf.keras.callbacks.EarlyStopping(monitor="val_loss", patience=10, restore_best_weights=True),
+        tf.keras.callbacks.ReduceLROnPlateau(monitor="val_loss", factor=0.5, patience=5, min_lr=1e-6, verbose=0),
+    ]
+
+    lstm.fit(X_tr_sub, y_tr_s, validation_data=(X_v_sub, y_v_s),
+             epochs=100, batch_size=256, callbacks=cbs, verbose=0)
+
+    # ── Evaluate ──────────────────────────────────────────────────────────────
+    y_pred_s = lstm.predict(X_te_sub, verbose=0).flatten()
+    y_pred   = sc_y.inverse_transform(y_pred_s.reshape(-1, 1)).flatten()
+
+    r2_val   = r2_score(y_te, y_pred)
+    rmse_val = np.sqrt(mean_squared_error(y_te, y_pred))
+    removed  = FEATURES[removal_order[step - 1]] if step > 0 else "—"
+
+    lstm_results.append({
+        "n_features": n_feat,
+        "removed":    removed,
+        "r2":         r2_val,
+        "rmse":       rmse_val,
+    })
+    print(f"n={n_feat:2d}  R²={r2_val:.4f}  RMSE={rmse_val:.4f}  (removed: {removed})")
+
+    if active_indices:
+        drop = removal_order[step]
+        active_indices = [i for i in active_indices if i != drop]
+
+lstm_results_df = pd.DataFrame(lstm_results)
+print("\n", lstm_results_df[["n_features", "removed", "r2", "rmse"]].to_string(index=False))
+
+
+# In[ ]:
+
+
+# ── Combined 3-model ablation comparison ─────────────────────────────────────
+fig, (ax1, ax2) = plt.subplots(1, 2, figsize=(14, 5))
+
+models = [
+    (results_df,      "RF",   "steelblue"),
+    (ann_results_df,  "ANN",  "darkorange"),
+    (lstm_results_df, "LSTM", "green"),
+]
+
+for ax, metric, ylabel in [(ax1, "r2", "R²"), (ax2, "rmse", "RMSE")]:
+    for df_m, label, color in models:
+        ax.plot(df_m["n_features"], df_m[metric],
+                marker="o", linewidth=2, label=label, color=color)
+    ax.set_xlabel("Number of Features")
+    ax.set_ylabel(ylabel)
+    ax.set_title(f"{ylabel} vs Features Removed")
+    ax.set_xticks(results_df["n_features"])
+    ax.legend()
+    ax.grid(True, linestyle="--", alpha=0.5)
+
+# Annotate x-axis with feature removed at each step (use ANN df as reference)
+x_labels = [r.split(" (")[0] if r != "—" else "all"
+            for r in ann_results_df["removed"]]
+for ax in (ax1, ax2):
+    ax.set_xticklabels(
+        [f"{n}\n({lbl})" for n, lbl in zip(ann_results_df["n_features"], x_labels)],
+        fontsize=7.5
+    )
+
+plt.suptitle("Ablation Study: RF vs ANN vs LSTM — Combined Dataset (All Countries)", fontsize=13)
+plt.tight_layout()
+plt.savefig(f"{OUTPUT_DIR}/ablation_comparison_all_models.png", dpi=150)
+plt.show()
+print(f"Saved to {OUTPUT_DIR}/ablation_comparison_all_models.png")
 

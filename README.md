@@ -51,6 +51,9 @@ AIHWS/
 
 ### `main.ipynb` — Main Experiment
 Full pipeline on the combined 5-country dataset:
+
+![Preprocessing Workflow](static/PreProcessingWorkflow.drawio.png)
+
 1. IQR outlier removal -> 70/15/15 split -> StandardScaler (X) + MinMaxScaler (y)
 2. ANN regression: `Dense(128)→BN→Dropout → Dense(64)→BN→Dropout → Dense(32)→Dropout → Dense(1)`
 3. RF feature importance (MDI + permutation) → feature removal ordering
@@ -65,8 +68,13 @@ Replicates Table 6 & 7 with Linear Regression, Decision Tree, RF, XGBoost, ANN, 
 - **Temporal:** ACF per station + Durbin-Watson; lag-1 mean=0.089, DW≈0.00 for densest stations
 - **Spatial proxy:** ICC=0.310 (no lat/lon → Moran's I not computable)
 
+![ACF Top Stations](static/autocorr_acf.png)
+![Lag-1 Distribution](static/autocorr_lag1_dist.png)
+
 ### `geocode_map.ipynb` — Geospatial
 Geonames API geocoding of 150 Ireland stations; 108/150 resolved; interactive ipyleaflet map with marker clusters.
+
+![Ireland Stations Map](static/ireland_map.png)
 
 ---
 
@@ -75,12 +83,18 @@ Geonames API geocoding of 150 Ireland stations; 108/150 resolved; interactive ip
 ### Baseline (Karim et al. replication)
 All tree models and neural networks achieve R²≈0.99. RF/DT reach R²≈1.000 — they overfit the deterministic CCME formula.
 
+![Baseline Actual vs Predicted](static/baseline_actual_vs_predicted.png)
+
 ### Feature Importance
 Orthophosphate dominates RF MDI (≈0.98). Remaining features near zero due to multicollinearity, despite Spearman correlations of 0.5–0.72 with the target.
+
+![MDI vs Permutation Importance](static/importance_comparison.png)
 
 Removal order (least -> most important): BOD -> Nitrate -> Nitrogen -> DO -> Temperature -> pH -> Ammonia -> Orthophosphate
 
 ### Ablation Study
+
+![RF vs ANN vs LSTM Ablation Comparison](static/ablation_comparison_all_models.png)
 
 | n features | ANN R² | ANN RMSE | LSTM R² | LSTM RMSE |
 |-----------|--------|----------|---------|-----------|

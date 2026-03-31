@@ -676,7 +676,7 @@ plt.show()
 print(f"Saved to {OUTPUT_DIR}/feature_distributions_by_category.png")
 
 
-# In[24]:
+# In[ ]:
 
 
 # ── 3. Failure rate proxy: % of samples per feature that are outliers ─────────
@@ -686,7 +686,7 @@ print(f"Saved to {OUTPUT_DIR}/feature_distributions_by_category.png")
 # For DO and pH, low values indicate failure — handled separately.
 
 low_fail  = {"Dissolved Oxygen (mg/l)", "pH (ph units)"}   # fail when LOW
-high_fail = set(FEATURES) - low_fail                        # fail when HIGH
+high_fail = set(FEATURES) - low_fail                       # fail when HIGH
 
 fail_rates = {}
 for feat in FEATURES:

@@ -27,6 +27,7 @@ Multi-country water quality index (WQI) regression using ANN, LSTM, and Random F
 
 ```
 AIHWS/
+├── config.py                           # Configuration file (i.e dataset selection)
 ├── main.ipynb                          # Combined dataset: ANN/LSTM/RF ablation study (main experiment)
 ├── baseline.ipynb                      # Replication of Karim et al. 2025 — 6-model comparison
 ├── main_ireland.ipynb                  # Ireland-only dataset (legacy, classification version)

@@ -121,6 +121,34 @@ Key packages: `tensorflow`, `scikit-learn`, `pandas`, `numpy`, `matplotlib`, `st
 
 ---
 
+## Running with Test Data (Quick Mode)
+
+A stratified subsample (~10k rows per country, ~44k total) is provided in `test_data/` so the notebooks run in minutes instead of hours.
+
+All notebooks share a single config file: **`config.py`** in the project root.
+
+### Switching datasets — edit one line in `config.py`
+
+```python
+MODE = "TEST"    # ~44k rows — runs in 2–5 min  ← default
+MODE = "FULL"    # ~1.5M rows — runs in 30–60 min
+MODE = "CUSTOM"  # point to any compatible CSV via CUSTOM_PATH below
+```
+
+For a custom file also set:
+```python
+CUSTOM_PATH = "path/to/your_data.csv"
+```
+
+`main.ipynb`, `baseline.ipynb`, and `src/autocorrelation_analysis.ipynb` all import from `config.py` automatically — no other files need to be changed.
+
+### Notes
+- All other settings (features, target, random seed, output dir) are also in `config.py`
+- Results on test data will differ slightly from the paper numbers — use `FULL` for final results
+- Individual country test files: `test_data/Ireland_dataset_test.csv`, `England_dataset_test.csv`, etc.
+
+---
+
 ## Pre-commit Hook
 
 Staged `.ipynb` files are automatically converted to `.py` via nbconvert on commit (for readable diffs):

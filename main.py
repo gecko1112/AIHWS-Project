@@ -14,28 +14,17 @@ from sklearn.preprocessing import StandardScaler
 from sklearn.metrics import mean_squared_error, mean_absolute_error, r2_score
 
 
-# In[6]:
+# In[ ]:
 
 
-# ── Config ─────────────────────────────────────────────────────────────────
-DATA_PATH  = "data/Dataset/Combined Data/Combined_dataset.csv"
-OUTPUT_DIR = "output"
-FEATURES = [
-    "Ammonia (mg/l)",
-    "Biochemical Oxygen Demand (mg/l)",
-    "Dissolved Oxygen (mg/l)",
-    "Orthophosphate (mg/l)",
-    "pH (ph units)",
-    "Temperature (cel)",
-    "Nitrogen (mg/l)",
-    "Nitrate (mg/l)",
-]
-TARGET      = "CCME_Values"   # numeric WQI score (0–100); CCME_WQI is the category label
-RANDOM_SEED = 42
-TEST_SIZE   = 0.1
-VAL_SIZE    = 0.1
-
-os.makedirs(OUTPUT_DIR, exist_ok=True)
+# ── Config — edit config.py in the project root to switch between datasets ───
+import sys, os
+sys.path.insert(0, os.path.abspath('..') if os.path.basename(os.getcwd()) == 'src' else os.getcwd())
+from config import DATA_PATH, OUTPUT_DIR, FEATURES, TARGET, RANDOM_SEED, TEST_SIZE, VAL_SIZE
+import os; os.makedirs(OUTPUT_DIR, exist_ok=True)
+print(f"Dataset : {DATA_PATH}")
+print(f"Target  : {TARGET}")
+print(f"Features: {len(FEATURES)}")
 
 
 # In[7]:

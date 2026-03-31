@@ -15,12 +15,15 @@ from statsmodels.stats.stattools import durbin_watson
 # In[6]:
 
 
-# ── Config ───────────────────────────────────────────────────────────────────
-IRELAND_PATH = "..\\data\\Dataset\\Country-Wise Data\\Ireland_dataset.csv"
-TARGET_NUM   = "CCME_Values"   # continuous WQI score — better for autocorr than label
-TARGET_CAT   = "CCME_WQI"
-MIN_OBS      = 30              # minimum measurements to include a station in temporal analysis
-N_STATIONS   = 6               # stations to show in ACF plot
+# ── Config — edit config.py in the project root to switch between datasets ───
+import sys, os
+sys.path.insert(0, os.path.abspath('..'))
+from config import IRELAND_PATH, OUTPUT_DIR, FEATURES, TARGET, RANDOM_SEED
+TARGET_NUM = TARGET
+TARGET_CAT = 'CCME_WQI'
+MIN_OBS    = 30
+N_STATIONS = 6
+print(f"Dataset : {IRELAND_PATH}")
 
 
 # In[7]:

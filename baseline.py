@@ -40,11 +40,21 @@ FEATURES = [
 TARGET = "CCME_Values"
 
 
+# In[ ]:
+
+
+# ── Config — edit config.py in the project root to switch between datasets ───
+import sys, os
+sys.path.insert(0, os.getcwd())
+from config import DATA_PATH, OUTPUT_DIR, FEATURES, TARGET, RANDOM_SEED
+print(f"Dataset : {DATA_PATH}")
+
+
 # In[2]:
 
 
 # ── 1. Load combined dataset ─────────────────────────────────────────────────
-df = pd.read_csv("data/Dataset/Combined Data/Combined_dataset.csv")
+df = pd.read_csv(DATA_PATH)
 print(f"Raw shape: {df.shape}")
 df = df[FEATURES + [TARGET]].dropna()
 print(f"After dropna: {df.shape}")

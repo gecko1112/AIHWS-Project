@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# In[8]:
+# In[2]:
 
 
 import re
@@ -16,7 +16,7 @@ import dotenv
 dotenv.load_dotenv()
 
 
-# In[9]:
+# In[3]:
 
 
 # ── Config ───────────────────────────────────────────────────────────────────
@@ -28,7 +28,7 @@ STATIONS_CSV = "../output/ireland_stations_geocode_prep.csv"
 OUT_CSV      = "../output/ireland_stations_geocode_coded.csv"  # overwrite with coords filled
 
 
-# In[10]:
+# In[4]:
 
 
 # ── 1. Clean station name -> search query ────────────────────────────────────
@@ -56,7 +56,7 @@ df["query"] = df["Area"].apply(make_query)
 print(df[["Area", "query"]].head(10).to_string(index=False))
 
 
-# In[ ]:
+# In[5]:
 
 
 # ── 2. Geonames API lookup ───────────────────────────────────────────────────
@@ -105,7 +105,7 @@ found = df["latitude"].notna() & (df["latitude"] != "")
 print(f"\nGeocoded {found.sum()} / {len(df)} stations. Saved to {OUT_CSV}")
 
 
-# In[12]:
+# In[6]:
 
 
 # ── 3. ipyleaflet map ────────────────────────────────────────────────────────

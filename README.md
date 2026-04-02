@@ -34,7 +34,9 @@ AIHWS/
 ├── geocode_map.ipynb                   # Geonames geocoding + ipyleaflet interactive map
 ├── src/
 │   ├── autocorrelation_analysis.ipynb  # Temporal ACF + station-level ICC (Ireland subset)
-│   ├── minority_analysis.ipynb         # Minority class investigation
+│   ├── validation_study.ipynb          # Temporal & spatial validation (Moran's I, holdout splits)
+│   ├── geocode_bulk.py                 # Bulk Geonames geocoding (2188 stations, resumable)
+│   ├── minority_analysis.ipynb         # Minority class investigation (legacy)
 │   ├── china_eval.ipynb                # Cross-region evaluation on China
 │   └── export_stations.py              # Exports top-150 Ireland stations for geocoding
 ├── data/
@@ -67,15 +69,27 @@ Replicates Table 6 & 7 with Linear Regression, Decision Tree, RF, XGBoost, ANN, 
 
 ### `src/autocorrelation_analysis.ipynb` — Autocorrelation
 - **Temporal:** ACF per station + Durbin-Watson; lag-1 mean=0.089, DW≈0.00 for densest stations
-- **Spatial proxy:** ICC=0.310 (no lat/lon → Moran's I not computable)
+- **Spatial proxy:** ICC=0.310 — no lat/lon in dataset, so Moran's I not computable here
 
 ![ACF Top Stations](static/autocorr_acf.png)
 ![Lag-1 Distribution](static/autocorr_lag1_dist.png)
 
-### `geocode_map.ipynb` — Geospatial
-Geonames API geocoding of 150 Ireland stations; 108/150 resolved; interactive ipyleaflet map with marker clusters.
+### `geocode_map.ipynb` + `src/geocode_bulk.py` — Geospatial
+- `geocode_map.ipynb`: geocodes top 150 Ireland stations via Geonames API; interactive ipyleaflet map
+- `src/geocode_bulk.py`: bulk geocodes all 2,188 stations with ≥20 measurements; resumes from checkpoint; rate-limited to ~970 req/hour. Result: **1,659 / 2,188 stations geocoded (75.8%)**
 
 ![Ireland Stations Map](static/ireland_map.png)
+
+### `src/validation_study.ipynb` — Temporal & Spatial Validation
+Investigates whether the main experiment's random split produces inflated results by testing two stricter strategies on the Ireland subset.
+
+**Part 1 — Temporal split** (train <2018, test ≥2018, 60k rows):
+- Data sorted by `(Area, Date)` — consecutive rows within each station are chronological
+- LSTM uses proper per-station sequences (SEQ_LEN=4) rather than single-row reshape
+
+**Part 2 — Spatial split** (15% of geocoded stations held out as test):
+- 1,659 geocoded stations used; 229 peripheral stations (furthest from centroid) withheld
+- Moran's I computed with inverse-distance weights + 999-iteration permutation test
 
 ---
 
@@ -105,7 +119,23 @@ Removal order (least -> most important): BOD -> Nitrate -> Nitrogen -> DO -> Tem
 | 2         | 0.9962 | 0.350    | 0.9863  | 0.650     |
 | 1 (Orthophosphate only) | 0.9786 | 0.800 | 0.9723 | 0.925 |
 
-**ANN is the most robust architecture.** Both models degrade gracefully; critical drop only at n=2. RF excluded from degradation conclusions (R²≈1.000 throughout - formula overfitting).
+**ANN is the most robust architecture.** Both models degrade gracefully; critical drop only at n=1. RF excluded from degradation conclusions (R²≈1.000 throughout — formula overfitting).
+
+### Validation Study
+
+| Strategy | RF R² | ANN R² | LSTM R² |
+|----------|-------|--------|---------|
+| Random split (main experiment) | 1.000 | 0.998 | 0.991 |
+| Temporal split (train <2018) | 1.000 | 0.964 | −0.77 |
+| Spatial split (peripheral holdout) | 1.000 | −25.7 | −2.28 |
+
+**Moran's I = 0.660 (p=0.001)** — strong positive spatial autocorrelation across 1,533 geocoded Ireland stations. Nearby stations share similar WQI levels, confirming spatial leakage in the random split.
+
+**Interpretation:**
+- RF is immune to both leakage effects — it memorises the deterministic CCME formula regardless of split
+- ANN generalises well temporally (R²=0.964) but collapses under spatial holdout — it exploits station identity rather than generalisable physicochemical patterns
+- LSTM underperforms in all strategies; Ireland's sparse per-station time series (median ~2 obs/station) provides insufficient sequences for temporal learning
+- The ablation study's relative rankings (ANN > LSTM) and degradation pattern remain valid — both models were evaluated under identical conditions
 
 ---
 

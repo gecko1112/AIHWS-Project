@@ -28,7 +28,7 @@ STATIONS_CSV = "../output/ireland_stations_geocode_prep.csv"
 OUT_CSV      = "../output/ireland_stations_geocode_coded.csv"  # overwrite with coords filled
 
 
-# In[4]:
+# In[ ]:
 
 
 # ── 1. Clean station name -> search query ────────────────────────────────────
@@ -38,7 +38,7 @@ def make_query(area: str) -> str:
     Pattern: 'CatchmentName, SpecificStation_CODE'
     Strategy: prefer the specific station part (after comma), strip codes.
     """
-    # Split on comma — take specific station part if available
+    # Split on comma - take specific station part if available
     parts = area.split(",", 1)
     name = parts[1].strip() if len(parts) > 1 else parts[0].strip()
 

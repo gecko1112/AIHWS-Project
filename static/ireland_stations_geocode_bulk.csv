@@ -1,0 +1,2189 @@
+Area,n_measurements,waterbody_type,query,latitude,longitude
+"Blackwater_Munster, Blackwater (Munster)",8798,River,Blackwater,51.85,-9.75
+"Blacksod-Broadhaven, Blacksod-Broadhaven",1424,Lake,Blacksod-Broadhaven,,
+"Laune-Maine-Dingle Bay, FLESK (KERRY)_060",777,River,FLESK,52.03333,-9.51667
+"Liffey and Dublin Bay, LIFFEY_160",545,River,LIFFEY,53.34556,-6.21694
+"Lower Shannon (D), SHANNON (LOWER)_060",466,River,SHANNON,52.58194,-9.68167
+"Upper Shannon (A), SHANNON (Upper)_040",391,River,SHANNON,52.58194,-9.68167
+"Tralee Bay-Feale, FEALE_060",386,River,FEALE,52.444,-9.62211
+"Laune-Maine-Dingle Bay, LAUNE_010",385,River,LAUNE,52.13333,-9.78333
+"Shannon Estuary South, MAIGUE_080",380,River,MAIGUE,52.65667,-8.79778
+"Slaney _ Wexford Harbour, SLANEY_170",379,River,SLANEY,52.65662,-6.65117
+"Shannon Estuary North, FERGUS_060",358,River,FERGUS,52.95528,-9.18167
+"Upper Shannon (F), INNY_010",350,River,INNY,51.85722,-10.18167
+"Slaney _ Wexford Harbour, SLANEY_120",338,River,SLANEY,52.65662,-6.65117
+"Boyne, BOYNE_010",334,River,BOYNE,53.72236,-6.24629
+"Newry, Fane, Glyde and Dee, FANE_040",331,River,FANE,53.95222,-6.46583
+"Liffey and Dublin Bay, DODDER_050",330,River,DODDER,53.34356,-6.23037
+"Nore, BALLYROAN_020",329,River,BALLYROAN,52.94556,-7.30417
+"Upper Shannon (D), SUCK_120",321,River,SUCK,53.27222,-8.05306
+"Cork Harbour, Moy Killala, DARGLE_030",320,River,DARGLE,53.27361,-6.26778
+"Boyne, BOYNE_160",320,River,BOYNE,53.72236,-6.24629
+"Nore, KING'S (KILKENNY)_050",318,River,KING'S,53.31528,-7.94722
+"Boyne, Boyne_180",316,River,Boyne,53.72236,-6.24629
+"Donagh-Moville, BREDAGH_010",315,River,BREDAGH,55.18333,-7.03333
+"Liffey and Dublin Bay, LIFFEY_100",313,River,LIFFEY,53.34556,-6.21694
+"Lower Shannon (A), TULLAMORE_040",309,River,TULLAMORE,53.27722,-7.5775
+"Laune-Maine-Dingle Bay, MAINE_010",309,River,MAINE,52.15,-9.75
+"Lough Neagh _ Lower Bann, BLACKWATER (MONAGHAN)_040",306,River,BLACKWATER,51.85,-9.75
+"Lower Shannon (B), LITTLE BROSNA_020",306,River,LITTLE BROSNA,53.16556,-8.075
+"Tralee Bay-Feale, TYSHE_010",304,River,TYSHE,,
+"Lee, Cork Harbour and Youghal Bay, LEE (CORK)_090",298,River,LEE,54.53583,-8.05944
+"Slaney _ Wexford Harbour, SLANEY_030",297,River,SLANEY,52.65662,-6.65117
+"Lower Shannon (D), BILBOA_010",296,River,BILBOA,52.58222,-8.32972
+"Liffey and Dublin Bay, Pollaphuca",295,Lake,Pollaphuca,53.13333,-6.51667
+"Corrib, CORRIB_020",295,River,CORRIB,53.43333,-9.23333
+"Cork Harbour, Moy Killala, LEE (CORK)_090",293,River,LEE,54.53583,-8.05944
+"Sligo Bay _ Drowse, OWENMORE (SLIGO)_080",292,River,OWENMORE,54.19111,-8.48306
+"Laune-Maine-Dingle Bay, DEENAGH_020",292,River,DEENAGH,52.05,-9.53333
+"Sligo Bay _ Drowse, BONET_050",291,River,BONET,54.2525,-8.34028
+"Tralee Bay-Feale, SMEARLAGH_040",291,River,SMEARLAGH,52.43917,-9.42889
+"Shannon Estuary North, FERGUS_010",290,River,FERGUS,52.95528,-9.18167
+"Slaney _ Wexford Harbour, DOUGLAS (BALLON)_010",289,River,DOUGLAS,52.88333,-6.95
+"Ovoca-Vartry, VARTRY_040",288,River,VARTRY,53.00278,-6.05528
+"Lough Swilly, BURNFOOT_020",286,River,BURNFOOT,55.05782,-7.40302
+"Lower Shannon (D), DEAD_010",284,River,DEAD,52.58167,-8.3475
+"Lower Shannon (D), NEWPORT (TIPPERARY)_030",283,River,NEWPORT,52.71111,-8.40972
+"Laune-Maine-Dingle Bay, MAINE_040",281,River,MAINE,52.15,-9.75
+"Upper Shannon (A), FEORISH (BALLYFARNON)_030",280,River,FEORISH,54.03333,-8.08333
+"Liffey and Dublin Bay, LIFFEY_050",277,River,LIFFEY,53.34556,-6.21694
+"Corrib, OWENRIFF (CORRIB)_020",274,River,OWENRIFF,,
+"Laune-Maine-Dingle Bay, LAUNE_020",273,River,LAUNE,52.13333,-9.78333
+"Laune-Maine-Dingle Bay, GWEESTIN_040",271,River,GWEESTIN,52.1,-9.7
+"Upper Shannon (C), SCRAMOGE_030",271,River,SCRAMOGE,53.76667,-8.05
+"Shannon Estuary South, DEEL (NEWCASTLEWEST)_060",270,River,DEEL,52.61806,-8.98694
+"Sligo Bay _ Drowse, GARAVOGUE_010",270,River,GARAVOGUE,,
+"Lower Shannon (A), MOATE STREAM_010",269,River,MOATE STREAM,,
+"Liffey and Dublin Bay, LIFFEY_030",269,River,LIFFEY,53.34556,-6.21694
+"Suir, AHERLOW_080",268,River,AHERLOW,52.41889,-7.995
+"Nore, NORE_040",267,River,NORE,52.42417,-6.95806
+"Donegal Bay North, EANY WATER_010",267,River,EANY WATER,54.6475,-8.28389
+"Lough Swilly, GLASKEELAN_010",267,River,GLASKEELAN,,
+"Upper Shannon (B), BOYLE_030",266,River,BOYLE,53.95889,-8.11167
+"Liffey and Dublin Bay, LIFFEY_060",266,River,LIFFEY,53.34556,-6.21694
+"Upper Shannon (C), STROKESTOWN_010",264,River,STROKESTOWN,53.78333,-8.1
+"Liffey and Dublin Bay, LIFFEY_170",263,River,LIFFEY,53.34556,-6.21694
+"Nore, NORE_240",263,River,NORE,52.42417,-6.95806
+"Dunmanus-Bantry-Kenmare, CUMMERAGH_020",261,River,CUMMERAGH,51.84556,-10.10806
+"Gweebarra-Sheephaven, CLADY (DONEGAL)_020",261,River,CLADY,55.05806,-8.31417
+"Lower Shannon (A), BROSNA_070",260,River,BROSNA,53.16556,-8.075
+"Owenavorragh, OWENAVORRAGH_050",259,River,OWENAVORRAGH,52.64222,-6.22111
+"Tralee Bay-Feale, FEALE_090",259,River,FEALE,52.444,-9.62211
+"Liffey and Dublin Bay, LIFFEY_110",259,River,LIFFEY,53.34556,-6.21694
+"Liffey and Dublin Bay, LIFFEY_180",259,River,LIFFEY,53.34556,-6.21694
+"Colligan-Mahon, COLLIGAN_020",257,River,COLLIGAN,52.10444,-7.63667
+"Gweebarra-Sheephaven, CRONANIV BURN_010",256,River,CRONANIV BURN,,
+"Erne, DROMORE_030",256,River,DROMORE,52.91962,-8.97256
+"Gweebarra-Sheephaven, OWENTOCKER_020",255,River,OWENTOCKER,54.76278,-8.42278
+"Moy _ Killala Bay, MOY_090",255,River,MOY,54.18524,-9.1396
+"Upper Shannon (C), SHANNON (Upper)_100",254,River,SHANNON,52.58194,-9.68167
+"Upper Shannon (B), LUNG_050",254,River,LUNG,53.88903,-8.5505
+"Cork Harbour, Moy Killala, MOY_090",252,River,MOY,54.18524,-9.1396
+"Boyne, BOYNE_150",252,River,BOYNE,53.72236,-6.24629
+"Slaney _ Wexford Harbour, SLANEY_070",251,River,SLANEY,52.65662,-6.65117
+"Boyne, BOYNE_100",250,River,BOYNE,53.72236,-6.24629
+"Boyne, BOYNE_120",249,River,BOYNE,53.72236,-6.24629
+"Ovoca-Vartry, DARGLE_030",249,River,DARGLE,53.27361,-6.26778
+"Corrib, BLACK (SHRULE)_010",249,River,BLACK,54.08222,-7.14611
+"Shannon Estuary South, LOOBAGH_020",248,River,LOOBAGH,52.39944,-8.67278
+"Erne, FINN (MONAGHAN)_040",248,River,FINN,54.86111,-8.13861
+"Nore, DININ (MAIN CHANNEL)_020",246,River,DININ,52.59611,-6.91889
+"Lower Shannon (D), Derg TN",246,Lake,Derg TN,,
+"Lower Shannon (C), Derg TN",246,Lake,Derg TN,,
+"Boyne, ATHBOY_040",245,River,ATHBOY,53.59191,-6.88222
+"Erne, ERNE_070",245,River,ERNE,54.50534,-8.24507
+"Cork Harbour, Moy Killala, GLENCREE_010",245,River,GLENCREE,53.16944,-6.20111
+"Lee, Cork Harbour and Youghal Bay, WOMANAGH_020",245,River,WOMANAGH,51.92444,-7.97056
+"Suir, SUIR_200",244,River,SUIR,52.27333,-6.99556
+"Moy _ Killala Bay, MOY_120",244,River,MOY,54.18524,-9.1396
+"Moy _ Killala Bay, CASTLEBAR_020",241,River,CASTLEBAR,53.83893,-9.3466
+"Lower Shannon (A), LITTLE (CLOGHAN)_020",241,River,LITTLE,53.98472,-9.24122
+"Moy _ Killala Bay, CLYDAGH (CASTLEBAR)_010",241,River,CLYDAGH,53.94833,-9.17894
+"Boyne, KINNEGAD_020",240,River,KINNEGAD,53.45222,-7.09972
+"Ovoca-Vartry, GLENCREE_010",240,River,GLENCREE,53.16944,-6.20111
+"Nanny-Delvin, NANNY (MEATH)_050",239,River,NANNY,53.66667,-6.23333
+"Slaney _ Wexford Harbour, SLANEY_060",239,River,SLANEY,52.65662,-6.65117
+"Suir, ANNER_030",238,River,ANNER,52.42472,-7.6375
+"Cork Harbour, Moy Killala, MOY_120",238,River,MOY,54.18524,-9.1396
+"Newry, Fane, Glyde and Dee, DEE_050",238,River,DEE,53.8825,-6.34972
+"Liffey and Dublin Bay, RYE WATER_030",237,River,RYE WATER,53.365,-6.49111
+"Suir, SUIR_020",237,River,SUIR,52.27333,-6.99556
+"Moy _ Killala Bay, DEEL (CROSSMOLINA)_050",237,River,DEEL,52.61806,-8.98694
+"Cork Harbour, Moy Killala, CLYDAGH (CASTLEBAR)_010",236,River,CLYDAGH,53.94833,-9.17894
+"Cork Harbour, Moy Killala, CASTLEBAR_020",236,River,CASTLEBAR,53.83893,-9.3466
+"Lower Shannon (C), BALLYFINBOY_070",235,River,BALLYFINBOY,53.0325,-8.25111
+"Nore, NUENNA_010",235,River,NUENNA,52.73056,-7.365
+"Suir, MULTEEN_050",234,River,MULTEEN,52.51667,-8.01667
+"Laune-Maine-Dingle Bay, Leane",234,Lake,Leane,52.03333,-9.55
+"Ovoca-Vartry, AVONBEG_040",234,River,AVONBEG,52.88333,-6.23333
+"Slaney _ Wexford Harbour, DERRY_040",234,River,DERRY,53.76861,-8.9387
+"Cork Harbour, Moy Killala, DEEL (CROSSMOLINA)_050",232,River,DEEL,52.61806,-8.98694
+"Suir, ARA_040",232,River,ARA,52.40556,-7.9475
+"Erne, ANNALEE_100",232,River,ANNALEE,54.04,-7.4075
+"Lower Shannon (B), LITTLE BROSNA_040",232,River,LITTLE BROSNA,53.16556,-8.075
+"Moy _ Killala Bay, GLORE (MAYO)_020",232,River,GLORE,53.88208,-9.00208
+"Boyne, BLACKWATER (KELLS)_070",232,River,BLACKWATER,51.85,-9.75
+"Lower Shannon (C), NENAGH_040",232,River,NENAGH,52.92639,-8.27278
+"Foyle, MOURNE BEG_010",231,River,MOURNE BEG,,
+"Owenavorragh, BANOGE_030",231,River,BANOGE,52.64417,-6.28417
+"Tralee Bay-Feale, GALEY_010",231,River,GALEY,52.43982,-9.60695
+"Suir, DUAG_010",230,River,DUAG,52.28028,-7.9825
+"Liffey and Dublin Bay, TOLKA_060",230,River,TOLKA,53.35781,-6.23287
+"Erne, SWANLINBAR_020",229,River,SWANLINBAR,54.24073,-7.60112
+"Cork Harbour, Moy Killala, GLORE (MAYO)_020",228,River,GLORE,53.68333,-7.25
+"Erne, CULLIES_030",228,River,CULLIES,53.96222,-7.60361
+"Lower Shannon (A), BROSNA_030",227,River,BROSNA,53.16556,-8.075
+"Colligan-Mahon, MAHON_040",226,River,MAHON,52.13806,-7.36278
+"Laune-Maine-Dingle Bay, LONG RANGE_010",226,River,LONG RANGE,52.0,-9.55
+"Lower Shannon (C), NENAGH_060",226,River,NENAGH,52.92639,-8.27278
+"Boyne, BOYNE_110",226,River,BOYNE,53.72236,-6.24629
+"Erne, ERNE_090",225,River,ERNE,54.50534,-8.24507
+"Upper Shannon (A), Drumshanbo stream_010",225,River,Drumshanbo stream,,
+"Upper Shannon (F), MOUNTNUGENT_040",225,River,MOUNTNUGENT,53.81783,-7.2557
+"Lower Shannon (A), BROSNA_140",222,River,BROSNA,53.16556,-8.075
+"Lough Swilly, SWILLY_010",222,River,SWILLY,55.16667,-7.53333
+"Upper Shannon (F), YELLOW (CASTLEPOLLARD)_030",221,River,YELLOW,53.38556,-7.08361
+"Lower Shannon (A), BROSNA_010",221,River,BROSNA,53.16556,-8.075
+"Foyle, STRANAGOPPOGE_010",220,River,STRANAGOPPOGE,55.17472,-7.23722
+"Upper Shannon (E), HIND_010",220,River,HIND,,
+"Tralee Bay-Feale, FEALE_080",220,River,FEALE,52.444,-9.62211
+"Boyne, BLACKWATER (LONGWOOD)_030",218,River,BLACKWATER,51.85,-9.75
+"Laune-Maine-Dingle Bay, CARAGH_030",218,River,CARAGH,52.05083,-9.86333
+"Boyne, BOYNE_060",216,River,BOYNE,53.72236,-6.24629
+"Lower Shannon (D), MULKEAR (LIMERICK)_010",216,River,MULKEAR,52.67833,-8.54389
+"Lee, Cork Harbour and Youghal Bay, Inniscarra",216,Lake,Inniscarra,,
+"Upper Shannon (C), SHANNON (Upper)_060",216,River,SHANNON,52.58194,-9.68167
+"Lower Shannon (A), Owel Main",215,Lake,Owel Main,,
+"Sligo Bay _ Drowse, BALLYSODARE_010",214,River,BALLYSODARE,,
+"Laune-Maine-Dingle Bay, OWENREAGH_020",213,River,OWENREAGH,51.98333,-9.61667
+"Lower Shannon (D), MULKEAR (LIMERICK)_030",213,River,MULKEAR,52.67833,-8.54389
+"Shannon Estuary South, MORNINGSTAR_060",213,River,MORNINGSTAR,52.45028,-8.6825
+"Upper Shannon (C), RINN_010",213,River,RINN,53.88333,-7.85
+"Liffey and Dublin Bay, LIFFEY_040",212,River,LIFFEY,53.34556,-6.21694
+"Shannon Estuary North, BROADFORD_030",212,River,BROADFORD,52.81111,-8.66389
+"Slaney _ Wexford Harbour, SLANEY_100",211,River,SLANEY,52.65662,-6.65117
+"Upper Shannon (F), INNY_090",211,River,INNY,51.85722,-10.18167
+"Galway Bay South East, OWENDALULLEEGH_050",210,River,OWENDALULLEEGH,53.025,-8.77833
+"Cork Harbour, Moy Killala, Inniscarra",210,Lake,Inniscarra,,
+"Tralee Bay-Feale, OWVEG (KERRY)_010",210,River,OWVEG,52.35,-9.35
+"Upper Shannon (B), CARRICKNABRAHER_020",210,River,CARRICKNABRAHER,,
+"Lower Shannon (D), DEAD_020",209,River,DEAD,52.58167,-8.3475
+"Lower Shannon (A), BROSNA_100",209,River,BROSNA,53.16556,-8.075
+"Suir, SUIR_080",208,River,SUIR,52.27333,-6.99556
+"Boyne, KINNEGAD_030",208,River,KINNEGAD,53.45222,-7.09972
+"Boyne, BOYNE_140",208,River,BOYNE,53.72236,-6.24629
+"Moy _ Killala Bay, MULLAGHANOE_010",206,River,MULLAGHANOE,53.98845,-8.90936
+"Dunmanus-Bantry-Kenmare, BLACKWATER (KERRY)_020",206,River,BLACKWATER,51.85,-9.75
+"Moy _ Killala Bay, BEHY (NORTH MAYO)_010",205,River,BEHY,52.06556,-9.95667
+"Nore, NORE_030",205,River,NORE,52.42417,-6.95806
+"Corrib, ROBE_050",203,River,ROBE,53.63333,-9.28333
+"Moy _ Killala Bay, MOY_080",203,River,MOY,54.18524,-9.1396
+"Erriff-Clew Bay, BUNDORRAGHA_020",203,River,BUNDORRAGHA,53.6,-9.75
+"Erriff-Clew Bay, BUNOWEN (LOUISBURGH)_020",203,River,BUNOWEN,53.76667,-9.81667
+"Newry, Fane, Glyde and Dee, FANE_050",203,River,FANE,53.95222,-6.46583
+"Corrib, Corrib Upper",202,Lake,Corrib Upper,,
+"Nanny-Delvin, NANNY (MEATH)_040",202,River,NANNY,53.66667,-6.23333
+"Sligo Bay _ Drowse, GOWLAN (SLIGO)_010",202,River,GOWLAN,54.19139,-8.93417
+"Moy _ Killala Bay, TUBBERCURRY_020",201,River,TUBBERCURRY,54.05,-8.73333
+"Cork Harbour, Moy Killala, BEHY (NORTH MAYO)_010",201,River,BEHY,52.06556,-9.95667
+"Laune-Maine-Dingle Bay, Caragh",201,Lake,Caragh,52.05083,-9.86333
+"Newry, Fane, Glyde and Dee, Muckno",201,Lake,Muckno,54.11056,-6.69167
+"Galway Bay North, SCREEB_010",201,River,SCREEB,53.38694,-9.5525
+"Corrib, ABBERT_040",201,River,ABBERT,53.41667,-8.88333
+"foyal, SCREEB_010",201,River,SCREEB,53.38694,-9.5525
+"Corrib, CLARE (GALWAY)_060",200,River,CLARE,52.91962,-8.97256
+"Nore, NORE_130",200,River,NORE,52.42417,-6.95806
+"Slaney _ Wexford Harbour, BANN_060",199,River,BANN,52.545,-6.54306
+"Cork Harbour, Moy Killala, MOY_080",199,River,MOY,54.18524,-9.1396
+"Corrib, Corrib Lower",199,Lake,Corrib Lower,,
+"Boyne, CASTLEJORDAN_010",199,River,CASTLEJORDAN,53.39194,-7.11361
+"Moy _ Killala Bay, MOY_020",199,River,MOY,54.18524,-9.1396
+"Sligo Bay _ Drowse, DUNNEILL_020",199,River,DUNNEILL,54.265,-8.85972
+"Shannon Estuary North, GOURNA_010",198,River,GOURNA,,
+"Lower Shannon (C), GRANEY (SHANNON)_010",198,River,GRANEY,52.9825,-8.66056
+"Erriff-Clew Bay, GLENAMONG_010",197,River,GLENAMONG,,
+"Upper Shannon (A), ARIGNA (ROSCOMMON)_020",197,River,ARIGNA,52.72417,-7.33278
+"Lower Shannon (C), KILCROW_070",197,River,KILCROW,53.08611,-8.30583
+"Boyne, BLACKWATER (KELLS)_110",197,River,BLACKWATER,51.85,-9.75
+"Slaney _ Wexford Harbour, DERREEN_060",197,River,DERREEN,53.82816,-9.17346
+"Newry, Fane, Glyde and Dee, PROULES_020",197,River,PROULES,,
+"Suir, Knockaderry",196,Lake,Knockaderry,52.20528,-7.27694
+"Lower Shannon (C), BOW_010",196,River,BOW,52.91056,-8.47778
+"Suir, Ballyshunnock",196,Lake,Ballyshunnock,,
+"Donagh-Moville, BALLYHALLAN_010",196,River,BALLYHALLAN,55.26222,-7.41472
+"Boyne, BLACKWATER (KELLS)_100",196,River,BLACKWATER,51.85,-9.75
+"Nore, NORE_110",196,River,NORE,52.42417,-6.95806
+"Newry, Fane, Glyde and Dee, BIG (LOUTH)_010",195,River,BIG,53.98595,-9.23715
+"Boyne, RIVERSTOWN_020",195,River,RIVERSTOWN,54.13167,-8.39444
+"Moy _ Killala Bay, MANULLA_040",195,River,MANULLA,53.83333,-9.18333
+"Nore, NORE_200",194,River,NORE,52.42417,-6.95806
+"Upper Shannon (F), INNY_020",194,River,INNY,51.85722,-10.18167
+"Lee, Cork Harbour and Youghal Bay, LEE (CORK)_020",194,River,LEE,54.53583,-8.05944
+"Laune-Maine-Dingle Bay, Guitane",194,Lake,Guitane,52.0,-9.41667
+"Shannon Estuary North, FERGUS_070",193,River,FERGUS,52.95528,-9.18167
+"Moy _ Killala Bay, SPADDAGH_010",193,River,SPADDAGH,53.94487,-9.03287
+"Slaney _ Wexford Harbour, SLANEY_050",193,River,SLANEY,52.65662,-6.65117
+"Cork Harbour, Moy Killala, SPADDAGH_010",193,River,SPADDAGH,53.94487,-9.03287
+"Mal Bay, CAHER (CLARE)_020",193,River,CAHER,52.31667,-9.23333
+"Lower Shannon (A), SILVER (KILCORMAC)_050",193,River,SILVER,53.24333,-7.79139
+"Mal Bay, CREEGH_020",192,River,CREEGH,52.74603,-9.50422
+"Cork Harbour, Moy Killala, MANULLA_040",192,River,MANULLA,53.83333,-9.18333
+"Lower Shannon (A), CLODIAGH (TULLAMORE)_050",192,River,CLODIAGH,52.29,-7.28583
+"Lower Shannon (D), CAHERNAHALLIA_020",191,River,CAHERNAHALLIA,52.57306,-8.27139
+"Newry, Fane, Glyde and Dee, WHITE (LOUTH)_030",191,River,WHITE,54.1125,-6.97194
+"Lower Shannon (B), LITTLE BROSNA_010",191,River,LITTLE BROSNA,53.16556,-8.075
+"Upper Shannon (F), INNY_100",190,River,INNY,51.85722,-10.18167
+"Cork Harbour, Moy Killala, LEE (CORK)_020",190,River,LEE,54.53583,-8.05944
+"Erne, DROMORE_070",190,River,DROMORE,52.91962,-8.97256
+"foyal, OWENBOLISKA_010",189,River,OWENBOLISKA,53.29556,-9.31611
+"Dunmanus-Bantry-Kenmare, ADRIGOLE_010",189,River,ADRIGOLE,51.71222,-9.71528
+"Galway Bay North, OWENBOLISKA_010",189,River,OWENBOLISKA,53.29556,-9.31611
+"Upper Shannon (C), CAMLIN_070",188,River,CAMLIN,53.75,-7.91667
+"Ovoca-Vartry, AVONMORE_060",188,River,AVONMORE,52.88333,-6.23333
+"Erne, WATERFOOT_010",188,River,WATERFOOT,,
+"Boyne, BLACKWATER (LONGWOOD)_020",187,River,BLACKWATER,51.85,-9.75
+"Shannon Estuary South, OWVANE (LIMERICK)_030",187,River,OWVANE,51.73139,-9.44083
+"Slaney _ Wexford Harbour, CLODY_020",187,River,CLODY,,
+"Erne, Erne",186,River,Erne,54.50534,-8.24507
+"Ovoca-Vartry, Varty  Lower",185,Lake,Varty Lower,,
+"Tralee Bay-Feale, FEALE_050",185,River,FEALE,52.444,-9.62211
+"Shannon Estuary North, FERGUS_020",185,River,FERGUS,52.95528,-9.18167
+"Boyne, ATHBOY_050",185,River,ATHBOY,53.59191,-6.88222
+"Laune-Maine-Dingle Bay, WOODFORD (FLESK)_010",184,River,WOODFORD,53.02028,-8.31639
+"Boyne, BOYNE_030",184,River,BOYNE,53.72236,-6.24629
+"Nore, NORE_080",183,River,NORE,52.42417,-6.95806
+"Newry, Fane, Glyde and Dee, GLYDE_020",183,River,GLYDE,53.88306,-6.35
+"Erne, CAVAN_010",183,River,CAVAN,54.00222,-6.92222
+"Lower Shannon (B), LITTLE BROSNA_030",182,River,LITTLE BROSNA,53.16556,-8.075
+"Lee, Cork Harbour and Youghal Bay, SULLANE_050",182,River,SULLANE,51.88333,-8.93333
+"Laune-Maine-Dingle Bay, Upper KY",181,Lake,Upper KY,,
+"Lee, Cork Harbour and Youghal Bay, MARTIN_040",181,River,MARTIN,51.92944,-8.57167
+"Owenavorragh, BLACKWATER (WEXFORD)_010",181,River,BLACKWATER,51.85,-9.75
+"Nore, GLORY_030",181,River,GLORY,52.53861,-7.28861
+"Boyne, BOYNE_020",180,River,BOYNE,53.72236,-6.24629
+"Laune-Maine-Dingle Bay, Ross Bay",179,Lake,Ross Bay,52.58714,-9.87866
+"Cork Harbour, Moy Killala, SULLANE_050",178,River,SULLANE,51.88333,-8.93333
+"Lee, Cork Harbour and Youghal Bay, GLASHABOY (LOUGH MAHON)_010",178,River,GLASHABOY,51.90167,-8.3975
+"Boyne, BOYNE_090",177,River,BOYNE,53.72236,-6.24629
+"Galway Bay South East, CLARINBRIDGE_020",177,River,CLARINBRIDGE,53.22639,-8.88306
+"Galway Bay South East, CLARINBRIDGE_030",177,River,CLARINBRIDGE,53.22639,-8.88306
+"Laune-Maine-Dingle Bay, MAINE_020",175,River,MAINE,52.15,-9.75
+"Laune-Maine-Dingle Bay, Acoose",174,Lake,Acoose,52.00722,-9.81167
+"Corrib, BALLYCUIRKE_010",174,River,BALLYCUIRKE,53.32803,-9.1562
+"Corrib, CLARE (GALWAY)_040",174,River,CLARE,52.91962,-8.97256
+"Nanny-Delvin, NANNY (MEATH)_030",174,River,NANNY,53.66667,-6.23333
+"Moy _ Killala Bay, OWENGARVE (SLIGO)_030",174,River,OWENGARVE,53.43333,-9.7
+"Upper Shannon (C), SHANNON (Upper)_070",174,River,SHANNON,52.58194,-9.68167
+"Suir, SUIR_190",173,River,SUIR,52.27333,-6.99556
+"Moy _ Killala Bay, MOY_030",173,River,MOY,54.18524,-9.1396
+"Slaney _ Wexford Harbour, URRIN_020",173,River,URRIN,52.49278,-6.56722
+"Dunmanus-Bantry-Kenmare, Brin",172,Lake,Brin,51.93333,-9.76667
+"Suir, SUIR_140",171,River,SUIR,52.27333,-6.99556
+"Cork Harbour, Moy Killala, DARGLE_020",170,River,DARGLE,53.27361,-6.26778
+"Sligo Bay _ Drowse, UNSHIN_020",170,River,UNSHIN,54.52028,-8.07917
+"Lower Shannon (A), BROSNA_080",169,River,BROSNA,53.16556,-8.075
+"Shannon Estuary North, FERGUS_040",169,River,FERGUS,52.95528,-9.18167
+"Lower Shannon (A), TULLAMORE_030",169,River,TULLAMORE,53.27722,-7.5775
+"Shannon Estuary South, AHAVARRAGA STREAM_010",169,River,AHAVARRAGA STREAM,,
+"Ovoca-Vartry, DARGLE_020",169,River,DARGLE,53.27361,-6.26778
+"Suir, NIER_020",168,River,NIER,52.27722,-7.78444
+"Tralee Bay-Feale, Cam KY",168,Lake,Cam KY,,
+"Suir, SUIR_220",167,River,SUIR,52.27333,-6.99556
+"Upper Shannon (F), DUNGOLMAN_030",166,River,DUNGOLMAN,,
+"Laune-Maine-Dingle Bay, Muckross",166,Lake,Muckross,52.0113,-9.56493
+"Corrib, OWENBRIN_020",166,River,OWENBRIN,53.6,-9.43333
+"Nore, NORE_250",166,River,NORE,52.42417,-6.95806
+"Upper Shannon (F), GAINE_020",166,River,GAINE,,
+"Shannon Estuary South, MAHORE_020",166,River,MAHORE,,
+"Upper Shannon (D), SUCK_140",166,River,SUCK,53.27222,-8.05306
+"Lee, Cork Harbour and Youghal Bay, SHOURNAGH_030",165,River,SHOURNAGH,51.89833,-8.57111
+"Ovoca-Vartry, VARTRY_020",165,River,VARTRY,53.00278,-6.05528
+"Laune-Maine-Dingle Bay, MAINE_030",165,River,MAINE,52.15,-9.75
+"Slaney _ Wexford Harbour, SLANEY_140",165,River,SLANEY,52.65662,-6.65117
+"Upper Shannon (F), Sheelin",163,Lake,Sheelin,53.8,-7.31667
+"Corrib, NANNY (TUAM)_030",163,River,NANNY,53.66667,-6.23333
+"Ovoca-Vartry, GLENEALO_020",162,River,GLENEALO,53.0,-6.30167
+"Erne, DROMORE_040",162,River,DROMORE,52.91962,-8.97256
+"Lower Shannon (A), CLODIAGH (TULLAMORE)_030",162,River,CLODIAGH,52.29,-7.28583
+"Suir, SUIR_110",161,River,SUIR,52.27333,-6.99556
+"Slaney _ Wexford Harbour, SLANEY_010",161,River,SLANEY,52.65662,-6.65117
+"Lough Neagh _ Lower Bann, BLACKWATER (MONAGHAN)_010",161,River,BLACKWATER,51.85,-9.75
+"Cork Harbour, Moy Killala, SHOURNAGH_030",160,River,SHOURNAGH,51.89833,-8.57111
+"Shannon Estuary South, BUNOKE_010",159,River,BUNOKE,52.405,-9.00472
+"Lower Shannon (A), SILVER (KILCORMAC)_030",159,River,SILVER,53.24333,-7.79139
+"Cork Harbour, Moy Killala, MOY_070",158,River,MOY,54.18524,-9.1396
+"Moy _ Killala Bay, MOY_070",158,River,MOY,54.18524,-9.1396
+"Moy _ Killala Bay, TRIMOGE_030",158,River,TRIMOGE,53.91199,-9.02275
+"Moy _ Killala Bay, CASTLEBAR_040",158,River,CASTLEBAR,53.83893,-9.3466
+"Upper Shannon (B), BOYLE_040",158,River,BOYLE,53.95889,-8.11167
+"Lower Shannon (A), TULLAMORE_020",157,River,TULLAMORE,53.27722,-7.5775
+"Moy _ Killala Bay, CORROY_010",157,River,CORROY,54.06556,-9.18167
+"Moy _ Killala Bay, YELLOW (FOXFORD)_020",156,River,YELLOW,53.38556,-7.08361
+"Lower Shannon (A), BROSNA_120",156,River,BROSNA,53.16556,-8.075
+"Sligo Bay _ Drowse, Gill SO",156,Lake,Gill SO,,
+"Lower Shannon (A), BROSNA_130",156,River,BROSNA,53.16556,-8.075
+"Cork Harbour, Moy Killala, TRIMOGE_030",156,River,TRIMOGE,53.91199,-9.02275
+"Nore, NORE_180",156,River,NORE,52.42417,-6.95806
+"Boyne, BOYNE_080",156,River,BOYNE,53.72236,-6.24629
+"Boyne, BOYNE_070",156,River,BOYNE,53.72236,-6.24629
+"Cork Harbour, Moy Killala, YELLOW (FOXFORD)_020",156,River,YELLOW,53.38556,-7.08361
+"Boyne, BOYNE_050",156,River,BOYNE,53.72236,-6.24629
+"Sligo Bay _ Drowse, Glencar",155,River,Glencar,54.34111,-8.38667
+"Ballyteigue-Bannow, Southwestern Irish Sea (HAs 11;12)",155,River,Southwestern Irish Sea,,
+"Upper Shannon (A), FEORISH (BALLYFARNON)_020",155,River,FEORISH,54.03333,-8.08333
+"Foyle, ELATAGH_020",155,River,ELATAGH,,
+"Cork Harbour, Moy Killala, CORROY_010",155,River,CORROY,54.06556,-9.18167
+"Cork Harbour, Moy Killala, CASTLEBAR_040",155,River,CASTLEBAR,53.83893,-9.3466
+"Upper Shannon (D), SUCK_090",155,River,SUCK,53.27222,-8.05306
+"Owenavorragh, Southwestern Irish Sea (HAs 11;12)",155,Coastal,Southwestern Irish Sea,,
+"Lough Neagh _ Lower Bann, MOUNTAIN WATER_040",155,River,MOUNTAIN WATER,54.33225,-6.86812
+"Slaney _ Wexford Harbour, Southwestern Irish Sea (HAs 11;12)",155,Coastal,Southwestern Irish Sea,,
+"Laune-Maine-Dingle Bay, LAUNE_050",154,River,LAUNE,52.13333,-9.78333
+"Erne, MAGHERARNEY_020",154,River,MAGHERARNEY,,
+"Suir, Mitchelstown",153,River,Mitchelstown,52.26583,-8.26806
+"Boyne, ATHBOY_030",153,River,ATHBOY,53.59191,-6.88222
+"Moy _ Killala Bay, GWEESTION_020",153,River,GWEESTION,53.92921,-9.07359
+"Lower Shannon (B), CAMCOR_020",153,River,CAMCOR,53.09472,-7.91889
+"Cork Harbour, Moy Killala, GWEESTION_020",153,River,GWEESTION,53.92921,-9.07359
+"Lee, Cork Harbour and Youghal Bay, Cork Harbour",153,Coastal,Cork Harbour,51.8403,-8.26609
+"Suir, TAR_030",152,River,TAR,52.28333,-7.83333
+"Shannon Estuary South, CLONSHIRE_010",152,River,CLONSHIRE,52.56611,-8.84417
+"Shannon Estuary South, BARNAKYLE_020",151,River,BARNAKYLE,52.62333,-8.76639
+"Shannon Estuary South, CLONSHIRE_030",151,River,CLONSHIRE,52.56611,-8.84417
+"Nore, NORE_070",151,River,NORE,52.42417,-6.95806
+"Shannon Estuary South, OWVANE (LIMERICK)_020",151,River,OWVANE,51.73139,-9.44083
+"Cork Harbour, Moy Killala, CAMCOR_020",151,River,CAMCOR,53.09472,-7.91889
+"Lower Shannon (C), BALLYFINBOY_030",151,River,BALLYFINBOY,53.0325,-8.25111
+"Boyne, KNIGHTSBROOK_010",151,River,KNIGHTSBROOK,53.53229,-6.77584
+"Shannon Estuary South, MAIGUE_060",150,River,MAIGUE,52.65667,-8.79778
+"Shannon Estuary North, FERGUS_050",150,River,FERGUS,52.95528,-9.18167
+"Shannon Estuary South, SHANAGOLDEN STREAM_010",149,River,SHANAGOLDEN STREAM,,
+"Liffey and Dublin Bay, KING'S (LIFFEY)_010",149,River,KING'S,53.31528,-7.94722
+"Shannon Estuary South, MAIGUE_010",149,River,MAIGUE,52.65667,-8.79778
+"Laune-Maine-Dingle Bay, BROWN FLESK_010",149,River,BROWN FLESK,52.19667,-9.56417
+"Nore, NORE_150",149,River,NORE,52.42417,-6.95806
+"Shannon Estuary South, DEEL (NEWCASTLEWEST)_040",149,River,DEEL,52.61806,-8.98694
+"Lower Shannon (D), MULKEAR (LIMERICK)_050",148,River,MULKEAR,52.67833,-8.54389
+"Ovoca-Vartry, VARTRY_030",148,River,VARTRY,53.00278,-6.05528
+"Newry, Fane, Glyde and Dee, DEE_030",148,River,DEE,53.8825,-6.34972
+"Tralee Bay-Feale, CAHER (LIMERICK)_010",148,River,CAHER,52.31667,-9.23333
+"Nore, NORE_120",147,River,NORE,52.42417,-6.95806
+"Corrib, CORRIB_010",147,River,CORRIB,53.43333,-9.23333
+"Nore, NORE_170",147,River,NORE,52.42417,-6.95806
+"Nore, NORE_210",146,River,NORE,52.42417,-6.95806
+"Shannon Estuary South, Bleach",146,Lake,Bleach,52.63972,-8.82111
+"Laune-Maine-Dingle Bay, BROWN FLESK_030",146,River,BROWN FLESK,52.19667,-9.56417
+"Lower Shannon (A), SILVER (TULLAMORE)_040",145,River,SILVER,53.24333,-7.79139
+"Lower Shannon (C), GRANEY (SHANNON)_050",145,River,GRANEY,52.9825,-8.66056
+"Shannon Estuary South, DEEL (NEWCASTLEWEST)_050",145,River,DEEL,52.61806,-8.98694
+"Foyle, FINN (DONEGAL)_060",145,River,FINN,54.86111,-8.13861
+"Lower Shannon (C), BALLYFINBOY_050",145,River,BALLYFINBOY,53.0325,-8.25111
+"Liffey and Dublin Bay, Glenasmole  Upper",145,Lake,Glenasmole Upper,,
+"Lower Shannon (B), RAPEMILLS_010",144,River,RAPEMILLS,53.19,-8.00167
+"Cork Harbour, Moy Killala, GRANEY (SHANNON)_050",144,River,GRANEY,52.9825,-8.66056
+"Lough Swilly, LEANNAN_050",144,River,LEANNAN,55.05,-7.71667
+"Tralee Bay-Feale, FEALE_040",144,River,FEALE,52.444,-9.62211
+"Suir, AHERLOW_050",144,River,AHERLOW,52.41889,-7.995
+"Suir, AHERLOW_030",144,River,AHERLOW,52.41889,-7.995
+"Lower Shannon (A), POLLAGH STREAM (BROSNA)_010",144,River,POLLAGH STREAM,,
+"Lower Shannon (B), CAMCOR_050",144,River,CAMCOR,53.09472,-7.91889
+"Ovoca-Vartry, DARGLE_010",144,River,DARGLE,53.27361,-6.26778
+"Lower Shannon (D), GRANGE (TIPPERARY)_010",144,River,GRANGE,52.77444,-8.01194
+"Laune-Maine-Dingle Bay, LITTLE MAINE_020",144,River,LITTLE MAINE,52.22111,-9.53806
+"Nore, NORE_220",144,River,NORE,52.42417,-6.95806
+"Ovoca-Vartry, VARTRY_010",144,River,VARTRY,53.00278,-6.05528
+"Upper Shannon (D), SUCK_050",144,River,SUCK,53.27222,-8.05306
+"Lower Shannon (B), ROCK (BIRR)_020",143,River,ROCK,51.79444,-8.26333
+"Lough Neagh _ Lower Bann, SHAMBLES_010",143,River,SHAMBLES,,
+"Lower Shannon (A), BOORA_010",143,River,BOORA,53.20972,-7.75861
+"Upper Shannon (C), RHINE_010",143,River,RHINE,53.70992,-6.90957
+"Suir, AHERLOW_070",143,River,AHERLOW,52.41889,-7.995
+"Lower Shannon (B), SHANNON (LOWER)_010",143,River,SHANNON,52.58194,-9.68167
+"Upper Shannon (F), BLACK (WESTMEATH)_010",143,River,BLACK,54.08222,-7.14611
+"Slaney _ Wexford Harbour, SLANEY_020",142,River,SLANEY,52.65662,-6.65117
+"Nore, NORE_090",142,River,NORE,52.42417,-6.95806
+"Cork Harbour, Moy Killala, CAMCOR_050",142,River,CAMCOR,53.09472,-7.91889
+"Shannon Estuary North, MOYREE_030",142,River,MOYREE,52.94167,-8.95333
+"Lower Shannon (A), SILVER (KILCORMAC)_010",142,River,SILVER,53.24333,-7.79139
+"Nore, GLORY_010",142,River,GLORY,52.53861,-7.28861
+"Suir, SUIR_030",142,River,SUIR,52.27333,-6.99556
+"Nore, NORE_100",142,River,NORE,52.42417,-6.95806
+"Upper Shannon (A), SHANNON (Upper)_050",142,River,SHANNON,52.58194,-9.68167
+"Lower Shannon (A), GAGEBOROUGH_030",142,River,GAGEBOROUGH,53.3425,-7.64417
+"Cork Harbour, Moy Killala, DARGLE_010",142,River,DARGLE,53.27361,-6.26778
+"Upper Shannon (F), LENAMORE STREAM_010",142,River,LENAMORE STREAM,,
+"Boyne, STONYFORD_020",142,River,STONYFORD,52.53639,-7.22
+"Cork Harbour, Moy Killala, FINN (DONEGAL)_060",141,River,FINN,54.86111,-8.13861
+"Nore, NORE_050",141,River,NORE,52.42417,-6.95806
+"Sligo Bay _ Drowse, Easky",141,Lake,Easky,54.15667,-8.84944
+"Nore, New Ross Port",141,Transitional,New Ross Port,,
+"Corrib, Maumwee",141,Lake,Maumwee,,
+"Slaney _ Wexford Harbour, SLANEY_160",141,River,SLANEY,52.65662,-6.65117
+"Barrow, New Ross Port",141,River,New Ross Port,,
+"Corrib, CLARE (GALWAY)_100",141,River,CLARE,52.91962,-8.97256
+"Erne, Melvin",140,Lake,Melvin,54.43333,-8.16667
+"Nore, DININ (NORTH)_040",140,River,DININ,52.59611,-6.91889
+"Liffey and Dublin Bay, Glenasmole  Lower",140,Lake,Glenasmole Lower,,
+"Upper Shannon (D), CASTLEGAR_020",140,River,CASTLEGAR,53.2975,-9.01917
+"Upper Shannon (F), INNY_050",140,River,INNY,51.85722,-10.18167
+"Tralee Bay-Feale, FEALE_070",140,River,FEALE,52.444,-9.62211
+"Boyne, Lene",139,Lake,Lene,53.66028,-7.22833
+"Moy _ Killala Bay, Talt",139,Lake,Talt,54.08389,-8.92139
+"Upper Shannon (F), INNY_060",139,River,INNY,51.85722,-10.18167
+"Lower Shannon (A), BROSNA_090",139,River,BROSNA,53.16556,-8.075
+"Upper Shannon (C), CAMLIN_060",139,River,CAMLIN,53.75,-7.91667
+"Shannon Estuary North, OWENOGARNEY_050",139,River,OWENOGARNEY,52.7,-8.76667
+"Suir, BORRISOLEIGH STREAM_010",139,River,BORRISOLEIGH STREAM,,
+"foyal, Shindilla",138,Lake,Shindilla,53.45,-9.56667
+"Galway Bay North, Shindilla",138,Lake,Shindilla,53.45,-9.56667
+"Lee, Cork Harbour and Youghal Bay, LEE (CORK)_030",138,River,LEE,54.53583,-8.05944
+"Suir, CLASHAWLEY_030",137,River,CLASHAWLEY,52.35,-7.46667
+"Gweebarra-Sheephaven, Veagh",137,Lake,Veagh,55.03833,-7.97167
+"Foyle, FINN (DONEGAL)_080",137,River,FINN,54.86111,-8.13861
+"Nore, NORE_020",136,River,NORE,52.42417,-6.95806
+"Mal Bay, GLENDINE (CLARE)_010",136,River,GLENDINE,51.99389,-7.88778
+"Galway Bay North, Ardderry",136,Lake,Ardderry,53.45,-9.51667
+"Boyne, Bane Noggin Hill",136,Lake,Bane Noggin Hill,,
+"foyal, Ardderry",136,Lake,Ardderry,53.45,-9.51667
+"Slaney _ Wexford Harbour, SOW_010",136,River,SOW,52.37778,-6.45139
+"Shannon Estuary South, LOOBAGH_010",135,River,LOOBAGH,52.39944,-8.67278
+"Erriff-Clew Bay, Kylemore",135,Lake,Kylemore,53.56056,-9.8525
+"Nore, KING'S (KILKENNY)_030",135,River,KING'S,53.31528,-7.94722
+"Erriff-Clew Bay, Doo MO",135,Lake,Doo MO,,
+"Corrib, Mask",135,Lake,Mask,53.61667,-9.35
+"Gweebarra-Sheephaven, Salt",134,Lake,Salt,55.08278,-7.80611
+"Cork Harbour, Moy Killala, FINN (DONEGAL)_080",134,River,FINN,54.86111,-8.13861
+"Cork Harbour, Moy Killala, LEE (CORK)_030",134,River,LEE,54.53583,-8.05944
+"Foyle, Mourne DL",134,Lake,Mourne DL,54.0822,-6.65282
+"Foyle, DEELE (DONEGAL)_030",134,River,DEELE,54.9,-7.88333
+"Sligo Bay _ Drowse, OWENMORE (MANORHAMILTON)_020",134,River,OWENMORE,54.12034,-9.83337
+"Cork Harbour, Moy Killala, Talt",134,Lake,Talt,54.08389,-8.92139
+"Nore, NUENNA_020",134,River,NUENNA,52.73056,-7.365
+"Upper Shannon (E), JIGGY (HIND)_010",134,River,JIGGY,,
+"Slaney _ Wexford Harbour, SLANEY_110",133,River,SLANEY,52.65662,-6.65117
+"Nore, ERKINA_020",133,River,ERKINA,52.84667,-7.37583
+"Upper Shannon (E), HIND_030",133,River,HIND,,
+"Newry, Fane, Glyde and Dee, KILMAINHAM (DEE)_020",132,River,KILMAINHAM,53.85,-6.80917
+"Ovoca-Vartry, Tay",132,Lake,Tay,53.10472,-6.26861
+"Upper Shannon (C), MOUNTAIN (ROSCOMMON)_010",132,River,MOUNTAIN,52.58806,-6.9225
+"Erriff-Clew Bay, Glencullin",132,Lake,Glencullin,54.19167,-9.77111
+"Lower Shannon (B), GLENFELLY STREAM_010",132,River,GLENFELLY STREAM,,
+"Shannon Estuary South, CHARLEVILLE STREAM_020",131,River,CHARLEVILLE STREAM,,
+"Slaney _ Wexford Harbour, Ballaghmore Distributary_010",131,River,Ballaghmore Distributary,,
+"Lough Swilly, Fern",130,Lake,Fern,55.05944,-7.71861
+"Nore, DININ (NORTH)_030",129,River,DININ,52.59611,-6.91889
+"Moy _ Killala Bay, Clare-Corrib",129,River,Clare-Corrib,,
+"Mal Bay, Lickeen",129,Lake,Lickeen,52.96667,-9.23
+"Gweebarra-Sheephaven, Barra",129,Lake,Barra,54.95583,-8.10472
+"Owenavorragh, CLONOUGH_010",129,River,CLONOUGH,52.73434,-6.20359
+"Lower Shannon (B), BLACKWATER (SHANNONBRIDGE)_020",129,River,BLACKWATER,51.85,-9.75
+"Nanny-Delvin, NANNY (MEATH)_010",129,River,NANNY,53.66667,-6.23333
+"Lower Shannon (B), BLACKWATER (SHANNONBRIDGE)_010",128,River,BLACKWATER,51.85,-9.75
+"Shannon Estuary South, LOOBAGH_030",128,River,LOOBAGH,52.39944,-8.67278
+"Upper Shannon (F), YELLOW (CASTLEPOLLARD)_010",128,River,YELLOW,53.38556,-7.08361
+"Owenavorragh, BANOGE_020",128,River,BANOGE,52.64417,-6.28417
+"Slaney _ Wexford Harbour, DERRY_020",128,River,DERRY,53.76861,-8.9387
+"Nore, ERKINA_030",128,River,ERKINA,52.84667,-7.37583
+"Cork Harbour, Moy Killala, GLENFELLY STREAM_010",127,River,GLENFELLY STREAM,,
+"Suir, Templemore",127,River,Templemore,52.79472,-7.83389
+"Nore, Templemore",127,River,Templemore,52.79472,-7.83389
+"Lower Shannon (D), Templemore",127,River,Templemore,52.79472,-7.83389
+"Lower Shannon (C), Templemore",127,River,Templemore,52.79472,-7.83389
+"Slaney _ Wexford Harbour, BORO_040",127,River,BORO,52.46778,-6.56111
+"Lower Shannon (B), Templemore",127,River,Templemore,52.79472,-7.83389
+"Nanny-Delvin, BROADMEADOW_020",126,River,BROADMEADOW,,
+"Liffey and Dublin Bay, LIFFEY_150",126,River,LIFFEY,53.34556,-6.21694
+"Erne, FINN (MONAGHAN)_020",126,River,FINN,54.86111,-8.13861
+"Gweebarra-Sheephaven, Glen DL",126,Lake,Glen DL,,
+"Gweebarra-Sheephaven, Keel Kilmacrenan",126,Lake,Keel Kilmacrenan,,
+"Nanny-Delvin, HURLEY_010",125,River,HURLEY,,
+"Gweebarra-Sheephaven, Anure",125,Lake,Anure,54.99361,-8.28333
+"Erne, LEGGA STREAM_020",125,River,LEGGA STREAM,,
+"Gweebarra-Sheephaven, Dunglow",124,Lake,Dunglow,54.95611,-8.34111
+"Lower Shannon (A), BROSNA_050",124,River,BROSNA,53.16556,-8.075
+"Cork Harbour, Moy Killala, GLENCULLEN_010",124,River,GLENCULLEN,53.19111,-6.13667
+"Tralee Bay-Feale, FEALE_010",124,River,FEALE,52.444,-9.62211
+"Boyne, BLACKWATER (KELLS)_120",123,River,BLACKWATER,51.85,-9.75
+"Cork Harbour, Moy Killala, Clare-Corrib",123,River,Clare-Corrib,,
+"Galway Bay South East, Clare-Corrib",123,River,Clare-Corrib,,
+"Lee, Cork Harbour and Youghal Bay, Lough Mahon",123,Transitional,Lough Mahon,51.88167,-8.35389
+"Moy _ Killala Bay, CASTLEBAR_030",123,River,CASTLEBAR,53.83893,-9.3466
+"Slaney _ Wexford Harbour, DERRY_030",123,River,DERRY,53.76861,-8.9387
+"Slaney _ Wexford Harbour, MINE_020",123,River,MINE,52.82861,-6.23028
+"Corrib, Clare-Corrib",123,River,Clare-Corrib,,
+"Lee, Cork Harbour and Youghal Bay, WOMANAGH_010",123,River,WOMANAGH,51.92444,-7.97056
+"Suir, SUIR_100",123,River,SUIR,52.27333,-6.99556
+"Upper Shannon (D), Clare-Corrib",123,River,Clare-Corrib,,
+"Upper Shannon (E), Suck South",122,River,Suck South,,
+"Slaney _ Wexford Harbour, DOUGLAS (KILTEGAN)_020",122,River,DOUGLAS,52.88333,-6.95
+"Lough Neagh _ Lower Bann, CLONTIBRET STREAM_030",122,River,CLONTIBRET STREAM,,
+"Lower Shannon (D), Limerick Dock",122,Transitional,Limerick Dock,,
+"Boyne, BLACKWATER (LONGWOOD)_050",122,River,BLACKWATER,51.85,-9.75
+"Upper Shannon (C), Suck South",122,River,Suck South,,
+"Corrib, Suck South",122,River,Suck South,,
+"Donagh-Moville, DONAGH_030",122,River,DONAGH,55.27806,-7.26667
+"Nore, MOUNTRATH_030",122,River,MOUNTRATH,52.9625,-7.37028
+"Lee, Cork Harbour and Youghal Bay, Lee (Cork) Estuary Lower",122,Transitional,Lee Estuary Lower,,
+"Upper Shannon (B), Suck South",122,River,Suck South,,
+"Shannon Estuary North, RINE_030",122,River,RINE,52.79861,-8.91028
+"Newry, Fane, Glyde and Dee, DEE_060",122,River,DEE,53.8825,-6.34972
+"Newry, Fane, Glyde and Dee, FANE_010",122,River,FANE,53.95222,-6.46583
+"Galway Bay South East, Suck South",122,River,Suck South,,
+"Mal Bay, Doo CE",122,Lake,Doo CE,,
+"Upper Shannon (D), Suck South",122,River,Suck South,,
+"Upper Shannon (C), FALLAN_020",121,River,FALLAN,53.73333,-7.86667
+"Erne, White Rockcorry",121,Lake,White Rockcorry,,
+"Upper Shannon (A), Meelagh",121,Lake,Meelagh,54.05833,-8.16917
+"Moy _ Killala Bay, YELLOW (KNOCK)_010",121,River,YELLOW,53.38556,-7.08361
+"Corrib, ROBE_020",121,River,ROBE,53.63333,-9.28333
+"Suir, SUIR_090",121,River,SUIR,52.27333,-6.99556
+"Slaney _ Wexford Harbour, BROWN'S BECK BROOK_010",121,River,BROWN'S BECK BROOK,,
+"Lough Swilly, MAGGY'S BURN_010",120,River,MAGGY'S BURN,,
+"Upper Shannon (B), Cavetown",120,Lake,Cavetown,53.93333,-8.25
+"Cork Harbour, Moy Killala, CASTLEBAR_030",120,River,CASTLEBAR,53.83893,-9.3466
+"Lee, Cork Harbour and Youghal Bay, LEE (CORK)_040",120,River,LEE,54.53583,-8.05944
+"Slaney _ Wexford Harbour, DERREEN_050",120,River,DERREEN,53.82816,-9.17346
+"Galway Bay South East, Rea",120,Lake,Rea,53.18806,-8.58194
+"Tralee Bay-Feale, BREANAGH_010",120,River,BREANAGH,52.28333,-9.21667
+"Cork Harbour, Moy Killala, YELLOW (KNOCK)_010",119,River,YELLOW,53.38556,-7.08361
+"Corrib, Carra",119,Lake,Carra,53.7,-9.25
+"Boyne, DEEL (RAHARNEY)_050",119,River,DEEL,52.61806,-8.98694
+"Suir, DRISH_050",119,River,DRISH,52.66639,-7.80306
+"Tralee Bay-Feale, BRICK_040",119,River,BRICK,53.17333,-8.54333
+"Cork Harbour, Moy Killala, AVONMORE_040",119,River,AVONMORE,52.88333,-6.23333
+"Boyne, MOYNALTY_060",119,River,MOYNALTY,53.78861,-6.88278
+"Upper Shannon (C), Annaghmore Lough",119,Lake,Annaghmore Lough,53.8,-8.15
+"Upper Shannon (F), INNY_030",119,River,INNY,51.85722,-10.18167
+"Nore, NORE_060",118,River,NORE,52.42417,-6.95806
+"Gweebarra-Sheephaven, GWEEBARRA_010",118,River,GWEEBARRA,54.84111,-8.33861
+"Suir, Durrow",118,River,Durrow,52.84417,-7.3925
+"Erne, Macnean Upper",118,Lake,Macnean Upper,,
+"Nore, Durrow",118,River,Durrow,52.84417,-7.3925
+"Cork Harbour, Moy Killala, LEE (CORK)_040",118,River,LEE,54.53583,-8.05944
+"Newry, Fane, Glyde and Dee, MOYNAGH_040",118,River,MOYNAGH,,
+"Shannon Estuary North, Inchicronan",118,Lake,Inchicronan,52.92028,-8.90417
+"Barrow, Durrow",118,River,Durrow,52.84417,-7.3925
+"Owenavorragh, OWENAVORRAGH_040",117,River,OWENAVORRAGH,52.64222,-6.22111
+"Shannon Estuary North, Castle CE",117,Lake,Castle CE,,
+"Galway Bay South East, CANNAHOWNA_010",117,River,CANNAHOWNA,,
+"Nore, BALLYROAN_010",117,River,BALLYROAN,52.94556,-7.30417
+"Suir, SUIR_150",117,River,SUIR,52.27333,-6.99556
+"Upper Shannon (B), LUNG_040",117,River,LUNG,53.88903,-8.5505
+"Slaney _ Wexford Harbour, BANN_050",116,River,BANN,52.545,-6.54306
+"Sligo Bay _ Drowse, Templehouse",116,Lake,Templehouse,54.10333,-8.58917
+"Suir, ARA_020",116,River,ARA,52.40556,-7.9475
+"Corrib, Ross GY",116,Lake,Ross GY,,
+"Erne, Corglass",116,Lake,Corglass,54.0275,-7.4675
+"Nore, ERKINA_050",116,River,ERKINA,52.84667,-7.37583
+"Moy _ Killala Bay, Cullin",116,Lake,Cullin,53.97014,-9.17805
+"Suir, MULLINAHONE STREAM_010",115,River,MULLINAHONE STREAM,,
+"Liffey and Dublin Bay, RYE WATER_010",115,River,RYE WATER,53.365,-6.49111
+"Erne, YELLOW (BALLINAMORE)_030",115,River,YELLOW,53.38556,-7.08361
+"Suir, ARA_030",115,River,ARA,52.40556,-7.9475
+"Boyne, Skeagh Upper",115,Lake,Skeagh Upper,53.95,-7.0
+"Erne, Derrybrick",115,Lake,Derrybrick,54.05167,-7.47083
+"Newry, Fane, Glyde and Dee, GLYDE_010",115,River,GLYDE,53.88306,-6.35
+"Corrib, Lettercraffroe",115,Lake,Lettercraffroe,53.38167,-9.41417
+"Nore, LITTLE ARRIGLE_010",114,River,LITTLE ARRIGLE,52.51556,-7.15472
+"Barrow, Bagenalstown Upper",114,River,Bagenalstown Upper,,
+"Lower Shannon (A), Bagenalstown Upper",114,River,Bagenalstown Upper,,
+"Sligo Bay _ Drowse, Arrow",114,Lake,Arrow,54.06389,-8.325
+"Nore, Bagenalstown Upper",114,River,Bagenalstown Upper,,
+"Suir, SUIR_160",114,River,SUIR,52.27333,-6.99556
+"Boyne, Bagenalstown Upper",114,River,Bagenalstown Upper,,
+"Suir, KILLENAULE STREAM_010",114,River,KILLENAULE STREAM,,
+"Ovoca-Vartry, AVONMORE_070",114,River,AVONMORE,52.88333,-6.23333
+"Shannon Estuary North, FERGUS_030",113,River,FERGUS,52.95528,-9.18167
+"Lower Shannon (A), CLODIAGH (TULLAMORE)_010",113,River,CLODIAGH,52.29,-7.28583
+"Cork Harbour, Moy Killala, KILMACANOGE_010",113,River,KILMACANOGE,53.16722,-6.13361
+"Mal Bay, AILLE (CLARE)_010",113,River,AILLE,53.76709,-9.40783
+"Corrib, DALGAN_010",113,River,DALGAN,53.61667,-8.86667
+"Sligo Bay _ Drowse, Glenade",113,Lake,Glenade,54.36722,-8.27167
+"Upper Shannon (B), BOYLE_020",113,River,BOYLE,53.95889,-8.11167
+"Lower Shannon (D), CAPPAWHITE STREAM_010",113,River,CAPPAWHITE STREAM,,
+"Lower Shannon (D), NEWPORT (TIPPERARY)_040",112,River,NEWPORT,53.88504,-9.55674
+"Liffey and Dublin Bay, Golden Falls",112,Lake,Golden Falls,,
+"Colligan-Mahon, MAHON_020",112,River,MAHON,52.13806,-7.36278
+"Erriff-Clew Bay, Nambrackmore Cushatrower",112,Lake,Nambrackmore Cushatrower,,
+"Erriff-Clew Bay, Aughrusbeg",112,Lake,Aughrusbeg,53.55472,-10.175
+"Upper Shannon (D), AHASCRAGH_030",112,River,AHASCRAGH,53.34639,-8.24417
+"Nore, OWVEG (NORE)_050",112,River,OWVEG,52.35,-9.35
+"Erne, Egish",112,Lake,Egish,54.06667,-6.8
+"Cork Harbour, Moy Killala, DARGLE_040",112,River,DARGLE,53.27361,-6.26778
+"Upper Shannon (B), LUNG_030",111,River,LUNG,53.88903,-8.5505
+"Cork Harbour, Moy Killala, Cullin",111,Lake,Cullin,53.97014,-9.17805
+"Shannon Estuary North, Atedaun",111,Lake,Atedaun,52.94472,-9.04556
+"Gweebarra-Sheephaven, Kindrum",111,Lake,Kindrum,55.23444,-7.70694
+"Shannon Estuary South, Mitchelstown",111,River,Mitchelstown,52.26583,-8.26806
+"Newry, Fane, Glyde and Dee, COUNTY WATER_010",111,River,COUNTY WATER,52.2725,-7.13667
+"Gweebarra-Sheephaven, Kiltooris",110,Lake,Kiltooris,54.82,-8.50083
+"Slaney _ Wexford Harbour, DERRY_060",110,River,DERRY,53.76861,-8.9387
+"Dunmanus-Bantry-Kenmare, Glenbeg",110,Lake,Glenbeg,51.72083,-9.87278
+"Tralee Bay-Feale, TYSHE_020",110,River,TYSHE,,
+"Ovoca-Vartry, Southwestern Irish Sea (HAs 11;12)",110,Coastal,Southwestern Irish Sea,,
+"Upper Shannon (D), ISLAND_030",110,River,ISLAND,52.19111,-6.38806
+"Erne, MAGHERY_020",110,River,MAGHERY,54.91667,-8.45
+"Corrib, SINKING_020",109,River,SINKING,,
+"Sligo Bay _ Drowse, Kilsellagh",109,Lake,Kilsellagh,,
+"Lee, Cork Harbour and Youghal Bay, Allua",109,Lake,Allua,51.85111,-9.17278
+"Gweebarra-Sheephaven, an tSeisigh",108,Lake,an tSeisigh,,
+"Lower Shannon (C), BALLINLOUGH STREAM_020",108,River,BALLINLOUGH STREAM,,
+"Bandonllen, Abisdealy",108,Lake,Abisdealy,,
+"Shannon Estuary North, Muckanagh CE",108,Lake,Muckanagh CE,,
+"Suir, BREAGAGH (TIPPERARY)_020",108,River,BREAGAGH,52.68611,-7.76472
+"Galway Bay South East, Bunny",107,Lake,Bunny,53.01806,-8.92944
+"Gweebarra-Sheephaven, Nasnanida",107,Lake,Nasnanida,,
+"Erne, DROMORE_060",107,River,DROMORE,52.91962,-8.97256
+"Lower Shannon (C), KILCROW_050",107,River,KILCROW,53.08611,-8.30583
+"Lower Shannon (C), KILCROW_040",107,River,KILCROW,53.08611,-8.30583
+"Lower Shannon (C), KILCROW_060",107,River,KILCROW,53.08611,-8.30583
+"Foyle, Derg DL",107,Lake,Derg DL,,
+"Shannon Estuary North, Cullaun",107,Lake,Cullaun,52.96389,-9.0225
+"Lower Shannon (C), COOS_010",106,River,COOS,53.00083,-8.3525
+"Cork Harbour, Moy Killala, Allua",106,Lake,Allua,51.85111,-9.17278
+"Shannon Estuary North, Dromore",106,Lake,Dromore,52.91962,-8.97256
+"Lower Shannon (C), Alewnaghta",106,Lake,Alewnaghta,52.96889,-8.35833
+"Lee, Cork Harbour and Youghal Bay, OWENBOY (CORK)_030",106,River,OWENBOY,55.15,-7.4
+"Erne, YELLOW (BALLINAMORE)_020",106,River,YELLOW,53.38556,-7.08361
+"Lower Shannon (D), KILMASTULLA_030",106,River,KILMASTULLA,52.7775,-8.44833
+"Corrib, CLARE (GALWAY)_090",105,River,CLARE,52.91962,-8.97256
+"Corrib, CLOONDAVER STREAM (NORTH)_010",105,River,CLOONDAVER STREAM,,
+"Dunmanus-Bantry-Kenmare, Currane",105,Lake,Currane,51.8375,-10.1325
+"Upper Shannon (D), SUCK_150",105,River,SUCK,53.27222,-8.05306
+"Upper Shannon (D), LAURENCETOWN STREAM_020",105,River,LAURENCETOWN STREAM,,
+"Upper Shannon (C), OWENUR_020",105,River,OWENUR,53.81667,-8.1
+"Lower Shannon (B), EYRECOURT STREAM_010",105,River,EYRECOURT STREAM,,
+"Erne, CULLIES_050",104,River,CULLIES,53.96222,-7.60361
+"Cork Harbour, Moy Killala, Derg DL",104,Lake,Derg DL,,
+"Foyle, DEELE (DONEGAL)_050",103,River,DEELE,54.9,-7.88333
+"Corrib, ROBE_060",103,River,ROBE,53.63333,-9.28333
+"Moy _ Killala Bay, DEEL (CROSSMOLINA)_040",103,River,DEEL,52.61806,-8.98694
+"Erne, Bawn MN",103,Lake,Bawn MN,,
+"Lower Shannon (D), KILMASTULLA_020",103,River,KILMASTULLA,52.7775,-8.44833
+"Boyne, BOYNE_170",102,River,BOYNE,53.72236,-6.24629
+"Boyne, Annagh-White",102,Lake,Annagh-White,,
+"Suir, SUIR_210",102,River,SUIR,52.27333,-6.99556
+"Corrib, ROBE_030",102,River,ROBE,53.63333,-9.28333
+"Galway Bay South East, KILCOLGAN_020",102,River,KILCOLGAN,53.21667,-8.91667
+"Shannon Estuary North, LISKENNY_010",102,River,LISKENNY,52.84056,-8.75444
+"Lower Shannon (C), BLEACH_010",102,River,BLEACH,52.63972,-8.82111
+"Foyle, SWILLY BURN_010",102,River,SWILLY BURN,54.88806,-7.44917
+"Galway Bay South East, KILCOLGAN_010",102,River,KILCOLGAN,53.21667,-8.91667
+"Lower Shannon (C), DUNIRY_020",102,River,DUNIRY,53.12833,-8.41417
+"Bandonllen, Ilen Estuary",101,Transitional,Ilen Estuary,,
+"Lower Shannon (D), BLACKWATER (CLARE)_020",101,River,BLACKWATER,51.85,-9.75
+"Shannon Estuary North, SPANCELHILL_010",101,River,SPANCELHILL,52.86667,-8.9
+"Gweebarra-Sheephaven, Greenan",100,Lake,Greenan,55.08361,-7.81694
+"Boyne, MATTOCK_010",100,River,MATTOCK,53.7225,-6.43028
+"Slaney _ Wexford Harbour, BLACKLION STREAM (CARLOW)_020",100,River,BLACKLION STREAM,,
+"Cork Harbour, Moy Killala, DEEL (CROSSMOLINA)_040",100,River,DEEL,52.61806,-8.98694
+"Sligo Bay _ Drowse, OWENMORE (SLIGO)_050",100,River,OWENMORE,54.12034,-9.83337
+"Lower Shannon (C), GRANEY (SHANNON)_020",100,River,GRANEY,52.9825,-8.66056
+"Sligo Bay _ Drowse, OWENMORE (SLIGO)_030",100,River,OWENMORE,54.12034,-9.83337
+"Moy _ Killala Bay, Conn",99,Lake,Conn,54.03345,-9.25829
+"Boyne, Ramor",99,Lake,Ramor,53.8275,-7.08694
+"Boyne, BLACKWATER (KELLS)_020",99,River,BLACKWATER,51.85,-9.75
+"Boyne, MATTOCK_030",99,River,MATTOCK,53.7225,-6.43028
+"Newry, Fane, Glyde and Dee, DEE_070",99,River,DEE,53.8825,-6.34972
+"Boyne, MATTOCK_020",99,River,MATTOCK,53.7225,-6.43028
+"Moy _ Killala Bay, POLLAGH_030",99,River,POLLAGH,53.27667,-7.70806
+"Cork Harbour, Moy Killala, SWILLY BURN_010",99,River,SWILLY BURN,54.88806,-7.44917
+"Corrib, BALLINDINE_010",99,River,BALLINDINE,53.66667,-8.96667
+"Ovoca-Vartry, GLENCULLEN_010",99,River,GLENCULLEN,53.19111,-6.13667
+"Upper Shannon (F), MOUNTNUGENT_020",99,River,MOUNTNUGENT,53.81783,-7.2557
+"Lower Shannon (C), NENAGH_030",98,River,NENAGH,52.92639,-8.27278
+"Lower Shannon (C), NENAGH_070",98,River,NENAGH,52.92639,-8.27278
+"Shannon Estuary North, WOOD_020",98,River,WOOD,54.0875,-7.05472
+"Shannon Estuary North, BROADFORD_010",98,River,BROADFORD,52.81111,-8.66389
+"Lower Shannon (C), CAPPAGH (GALWAY)_010",98,River,CAPPAGH,52.0,-9.4
+"Upper Shannon (D), SHIVEN (SOUTH)_050",98,River,SHIVEN,53.51667,-8.45
+"Upper Shannon (D), KILLIAN_030",98,River,KILLIAN,53.48333,-8.38333
+"Shannon Estuary North, MOYANA_010",98,River,MOYANA,,
+"Shannon Estuary North, CLAREEN (FERGUS)_010",98,River,CLAREEN,52.93806,-8.23722
+"Mal Bay, KILMIHIL STREAM_010",98,River,KILMIHIL STREAM,,
+"Shannon Estuary South, MAIGUE_070",97,River,MAIGUE,52.65667,-8.79778
+"Sligo Bay _ Drowse, GRANGE (SLIGO)_010",97,River,GRANGE,52.77444,-8.01194
+"Erne, DROWES_010",97,River,DROWES,54.46667,-8.31667
+"Mal Bay, ANNAGEERAGH_010",97,River,ANNAGEERAGH,,
+"Ovoca-Vartry, AVONBEG_020",97,River,AVONBEG,52.88333,-6.23333
+"Cork Harbour, Moy Killala, POLLAGH_030",97,River,POLLAGH,53.27667,-7.70806
+"Mal Bay, ANNAGEERAGH_020",97,River,ANNAGEERAGH,,
+"Upper Shannon (D), DERRYMULLAN STREAM_020",97,River,DERRYMULLAN STREAM,,
+"Lower Shannon (D), KILMASTULLA_050",97,River,KILMASTULLA,52.7775,-8.44833
+"Boyne, BOYNE_040",97,River,BOYNE,53.72236,-6.24629
+"Lower Shannon (C), YOUGHAL (TIPPERARY)_010",97,River,YOUGHAL,52.89944,-8.30361
+"Erriff-Clew Bay, Beltra",97,Lake,Beltra,53.9221,-9.41662
+"Lower Shannon (C), NEWTOWN_010",97,River,NEWTOWN,53.65707,-7.03427
+"Lower Shannon (C), CAPPAGH (GALWAY)_020",97,River,CAPPAGH,52.0,-9.4
+"Moy _ Killala Bay, LOUGHNAMINOO STREAM_010",97,River,LOUGHNAMINOO STREAM,,
+"Lower Shannon (C), KILCROW_010",97,River,KILCROW,53.08611,-8.30583
+"Shannon Estuary North, SHALLEE_010",96,River,SHALLEE,52.87056,-8.99528
+"Mal Bay, INAGH (ENNISTYMON)_040",96,River,INAGH,53.5154,-9.74298
+"Slaney _ Wexford Harbour, DERREEN_010",96,River,DERREEN,53.82816,-9.17346
+"Lower Shannon (C), OLLATRIM_030",96,River,OLLATRIM,52.87417,-8.18806
+"Shannon Estuary South, MAIGUE_090",96,River,MAIGUE,52.65667,-8.79778
+"Lower Shannon (C), WOODFORD (GALWAY)_030",96,River,WOODFORD,53.02028,-8.31639
+"Ovoca-Vartry, BALLYCREEN BROOK_020",96,River,BALLYCREEN BROOK,52.85551,-6.32248
+"Erne, MAGHERY_010",96,River,MAGHERY,54.91667,-8.45
+"Mal Bay, DOONBEG_020",96,River,DOONBEG,52.73367,-9.52573
+"Moy _ Killala Bay, MOY_100",96,River,MOY,54.18524,-9.1396
+"Corrib, Bofin GY",96,Lake,Bofin GY,,
+"Cork Harbour, Moy Killala, Conn",96,Lake,Conn,54.03345,-9.25829
+"Lough Swilly, Gartan",95,Lake,Gartan,54.99,-7.91667
+"Mal Bay, DOONBEG_030",95,River,DOONBEG,52.73367,-9.52573
+"Erriff-Clew Bay, Fadda",95,Lake,Fadda,53.27917,-9.45556
+"Cork Harbour, Moy Killala, BALLYCREEN BROOK_020",95,River,BALLYCREEN BROOK,52.85551,-6.32248
+"Erriff-Clew Bay, Ballynakill",95,Lake,Ballynakill,53.55472,-10.04917
+"Ovoca-Vartry, Vartry  Upper",95,Lake,Vartry Upper,,
+"Colligan-Mahon, Barrow Suir Nore Estuary",95,Transitional,Barrow Suir Nore Estuary,,
+"Suir, Barrow Suir Nore Estuary",95,Transitional,Barrow Suir Nore Estuary,,
+"Erriff-Clew Bay, Enask",95,Lake,Enask,,
+"Lower Shannon (C), OLLATRIM_050",95,River,OLLATRIM,52.87417,-8.18806
+"Galway Bay North, Derryclare",95,Lake,Derryclare,53.46667,-9.76667
+"Galway Bay North, Loughaunwillan",95,Lake,Loughaunwillan,,
+"Lower Shannon (C), BALLINTOTTY_020",95,River,BALLINTOTTY,52.86194,-8.15444
+"Galway Bay North, Nahasleam",95,Lake,Nahasleam,,
+"foyal, Nahasleam",95,Lake,Nahasleam,,
+"Nore, NORE_160",95,River,NORE,52.42417,-6.95806
+"foyal, Loughaunwillan",95,Lake,Loughaunwillan,,
+"foyal, Derryclare",95,Lake,Derryclare,53.46667,-9.76667
+"foyal, Ballynahinch",95,Lake,Ballynahinch,53.46667,-9.83333
+"Lower Shannon (C), NENAGH_050",95,River,NENAGH,52.92639,-8.27278
+"Galway Bay North, Ballynahinch",95,Lake,Ballynahinch,53.46667,-9.83333
+"Ballyteigue-Bannow, Barrow Suir Nore Estuary",95,Transitional,Barrow Suir Nore Estuary,,
+"Lough Swilly, Akibbon",95,Lake,Akibbon,55.0,-7.88333
+"Ovoca-Vartry, AVONBEG_010",95,River,AVONBEG,52.88333,-6.23333
+"Barrow, Barrow Suir Nore Estuary",95,Transitional,Barrow Suir Nore Estuary,,
+"Lee, Cork Harbour and Youghal Bay, LEE (CORK)_080",95,River,LEE,54.53583,-8.05944
+"Erriff-Clew Bay, Beaghcauneen",95,Lake,Beaghcauneen,53.45806,-9.98639
+"Lough Neagh _ Lower Bann, MOUNTAIN WATER_010",94,River,MOUNTAIN WATER,54.33225,-6.86812
+"Galway Bay North, Illauntrasna",94,Lake,Illauntrasna,53.27167,-9.66528
+"foyal, Illauntrasna",94,Lake,Illauntrasna,53.27167,-9.66528
+"Lower Shannon (B), BUNOW_020",94,River,BUNOW,52.9625,-7.83861
+"Lower Shannon (D), ANNAGH (TIPPERARY)_030",94,River,ANNAGH,53.77698,-8.77445
+"Lower Shannon (D), ANNAGH (TIPPERARY)_020",94,River,ANNAGH,53.77698,-8.77445
+"Cork Harbour, Moy Killala, GLENCULLEN_020",94,River,GLENCULLEN,53.19111,-6.13667
+"Erriff-Clew Bay, Pollacappul",94,Lake,Pollacappul,53.55806,-9.87306
+"Cork Harbour, Moy Killala, MOY_100",94,River,MOY,54.18524,-9.1396
+"Cork Harbour, Moy Killala, LOUGHNAMINOO STREAM_010",94,River,LOUGHNAMINOO STREAM,,
+"Suir, MULTEEN_010",94,River,MULTEEN,52.51667,-8.01667
+"Lough Neagh _ Lower Bann, MOUNTAIN WATER_030",94,River,MOUNTAIN WATER,54.33225,-6.86812
+"Slaney _ Wexford Harbour, DERREEN_100",94,River,DERREEN,53.82816,-9.17346
+"Moy _ Killala Bay, SONNAGH (MOY)_010",94,River,SONNAGH,53.98627,-8.90825
+"Erne, Unshin",94,Lake,Unshin,54.52028,-8.07917
+"Lough Neagh _ Lower Bann, CONAWARY (LOWER)_020",94,River,CONAWARY,,
+"Corrib, Loughanillaun Maam Cross",94,Lake,Loughanillaun Maam Cross,,
+"Boyne, BLACKWATER (LONGWOOD)_040",94,River,BLACKWATER,51.85,-9.75
+"Colligan-Mahon, TAY_030",93,River,TAY,53.10472,-6.26861
+"Moy _ Killala Bay, MANULLA_020",93,River,MANULLA,53.83333,-9.18333
+"Shannon Estuary South, TARBERT_010",93,River,TARBERT,52.59222,-9.34694
+"Boyne, MOYNALTY_010",93,River,MOYNALTY,53.78861,-6.88278
+"Lower Shannon (C), WOODFORD (GALWAY)_020",93,River,WOODFORD,53.02028,-8.31639
+"Upper Shannon (A), OWENGAR (LEITRIM)_020",93,River,OWENGAR,54.16361,-8.09917
+"Moy _ Killala Bay, SWINFORD_010",93,River,SWINFORD,53.93941,-8.94346
+"Lower Shannon (B), GOLDEN GROVE STREAM_020",93,River,GOLDEN GROVE STREAM,,
+"Moy _ Killala Bay, MANULLA_030",93,River,MANULLA,53.83333,-9.18333
+"Erne, Mushlin",93,Lake,Mushlin,53.95361,-7.04833
+"Cork Harbour, Moy Killala, LEE (CORK)_080",93,River,LEE,54.53583,-8.05944
+"Upper Shannon (F), YELLOW (CASTLEPOLLARD)_020",93,River,YELLOW,53.38556,-7.08361
+"Liffey and Dublin Bay, COCK BROOK_010",93,River,COCK BROOK,,
+"Ovoca-Vartry, Upper Glendalough",93,Lake,Upper Glendalough,53.00498,-6.35926
+"Lower Shannon (D), GROODY_010",93,River,GROODY,52.66861,-8.58833
+"Ovoca-Vartry, NEWTOWNMOUNTKENNEDY_010",93,River,NEWTOWNMOUNTKENNEDY,53.09052,-6.11149
+"Boyne, CASTLETOWN TARA STREAM_010",93,River,CASTLETOWN TARA STREAM,,
+"Ovoca-Vartry, OW_010",92,River,OW,52.85101,-6.34037
+"Suir, ANNER_040",92,River,ANNER,52.42472,-7.6375
+"Ovoca-Vartry, AUGHRIM (WICKLOW)_020",92,River,AUGHRIM,52.82917,-6.22432
+"Ovoca-Vartry, ASKANAGAP STREAM_010",92,River,ASKANAGAP STREAM,,
+"Mal Bay, AILLE (CLARE)_020",92,River,AILLE,53.76709,-9.40783
+"Liffey and Dublin Bay, BALLYDONNELL BROOK_010",92,River,BALLYDONNELL BROOK,53.15972,-6.41389
+"Ovoca-Vartry, AVONBEG_030",92,River,AVONBEG,52.88333,-6.23333
+"Liffey and Dublin Bay, KING'S (LIFFEY)_020",92,River,KING'S,53.31528,-7.94722
+"Liffey and Dublin Bay, BALLYLOW BROOK_010",92,River,BALLYLOW BROOK,53.16028,-6.41389
+"Liffey and Dublin Bay, BALLINAGEE_010",92,River,BALLINAGEE,53.05944,-6.45667
+"Ovoca-Vartry, AVONMORE_030",92,River,AVONMORE,52.88333,-6.23333
+"Ovoca-Vartry, OW_030",92,River,OW,52.85101,-6.34037
+"Ovoca-Vartry, DERRY WATER_010",92,River,DERRY WATER,52.84963,-6.34154
+"Ovoca-Vartry, DARGLE_040",92,River,DARGLE,53.27361,-6.26778
+"Slaney _ Wexford Harbour, DERRY_010",92,River,DERRY,53.76861,-8.9387
+"Ovoca-Vartry, DERRY WATER_030",92,River,DERRY WATER,52.84963,-6.34154
+"Cork Harbour, Moy Killala, SONNAGH (MOY)_010",92,River,SONNAGH,53.98627,-8.90825
+"Nore, DININ (NORTH)_010",92,River,DININ,52.59611,-6.91889
+"Liffey and Dublin Bay, Trim",91,River,Trim,53.555,-6.79167
+"Liffey and Dublin Bay, LIFFEY_020",91,River,LIFFEY,53.34556,-6.21694
+"Barrow, Trim",91,River,Trim,53.555,-6.79167
+"Cork Harbour, Moy Killala, SWINFORD_010",91,River,SWINFORD,53.93941,-8.94346
+"Erriff-Clew Bay, BUNOWEN (LOUISBURGH)_030",91,River,BUNOWEN,53.76667,-9.81667
+"Corrib, Aille",91,Lake,Aille,53.76709,-9.40783
+"Cork Harbour, Moy Killala, ASKANAGAP STREAM_010",91,River,ASKANAGAP STREAM,,
+"Suir, AHERLOW_060",91,River,AHERLOW,52.41889,-7.995
+"Boyne, Trim",91,River,Trim,53.555,-6.79167
+"Nanny-Delvin, Trim",91,River,Trim,53.555,-6.79167
+"Moy _ Killala Bay, CHARLESTOWN STREAM_010",91,River,CHARLESTOWN STREAM,,
+"Moy _ Killala Bay, MOY_040",91,River,MOY,54.18524,-9.1396
+"Nanny-Delvin, RATOATH STREAM_010",90,River,RATOATH STREAM,,
+"Nanny-Delvin, FAIRYHOUSE STREAM_010",90,River,FAIRYHOUSE STREAM,,
+"Boyne, MOYNALTY_030",90,River,MOYNALTY,53.78861,-6.88278
+"Liffey and Dublin Bay, LIFFEY_120",90,River,LIFFEY,53.34556,-6.21694
+"Corrib, BLACK (SHRULE)_020",90,River,BLACK,54.08222,-7.14611
+"Cork Harbour, Moy Killala, MANULLA_030",90,River,MANULLA,53.83333,-9.18333
+"Liffey and Dublin Bay, LIFFEY_130",90,River,LIFFEY,53.34556,-6.21694
+"Liffey and Dublin Bay, LIFFEY_010",90,River,LIFFEY,53.34556,-6.21694
+"Nore, TULLAROAN STREAM_030",90,River,TULLAROAN STREAM,,
+"Corrib, HEADFORD STREAM_010",90,River,HEADFORD STREAM,,
+"Boyne, MULLAGH LOUGH STREAM_010",90,River,MULLAGH LOUGH STREAM,,
+"Liffey and Dublin Bay, LIFFEY_140",90,River,LIFFEY,53.34556,-6.21694
+"Cork Harbour, Moy Killala, MANULLA_020",90,River,MANULLA,53.83333,-9.18333
+"Lough Neagh _ Lower Bann, MOUNTAIN WATER_060",90,River,MOUNTAIN WATER,54.33225,-6.86812
+"Dunmanus-Bantry-Kenmare, Cloonaghlin",90,Lake,Cloonaghlin,51.87417,-10.01944
+"Erne, Sillan",89,Lake,Sillan,54.00222,-6.92222
+"Laune-Maine-Dingle Bay, BROWN FLESK_020",89,River,BROWN FLESK,52.19667,-9.56417
+"Ovoca-Vartry, GLENCULLEN_020",89,River,GLENCULLEN,53.19111,-6.13667
+"Shannon Estuary North, DOONAHA_010",89,River,DOONAHA,52.62338,-9.64684
+"Newry, Fane, Glyde and Dee, DEE_080",89,River,DEE,53.8825,-6.34972
+"Lough Swilly, SWILLY_030",89,River,SWILLY,55.16667,-7.53333
+"Moy _ Killala Bay, TRIMOGE_010",89,River,TRIMOGE,53.91199,-9.02275
+"Slaney _ Wexford Harbour, LITTLE SLANEY_010",89,River,LITTLE SLANEY,52.97778,-6.61139
+"Lough Swilly, SKEOGE_010",89,River,SKEOGE,,
+"Ovoca-Vartry, CLOGHOGE BROOK_010",89,River,CLOGHOGE BROOK,53.08944,-6.26917
+"Shannon Estuary North, Gortglass",88,Lake,Gortglass,52.68444,-9.15111
+"Liffey and Dublin Bay, CLONSHANBO_010",88,River,CLONSHANBO,53.35167,-6.70306
+"Liffey and Dublin Bay, LYREEN_020",88,River,LYREEN,53.38278,-6.62139
+"Ovoca-Vartry, Bray Lower",88,Lake,Bray Lower,53.18444,-6.30111
+"Suir, ST JOHN'S_020",88,River,ST JOHN'S,53.36415,-6.20558
+"Liffey and Dublin Bay, RYE WATER_040",88,River,RYE WATER,53.365,-6.49111
+"Tralee Bay-Feale, FEALE_030",88,River,FEALE,52.444,-9.62211
+"Dunmanus-Bantry-Kenmare, Inner Bantry Bay",88,Transitional,Inner Bantry Bay,,
+"Moy _ Killala Bay, Cong-Robe",88,River,Cong-Robe,,
+"Boyne, GLASH_010",88,River,GLASH,54.26611,-9.88803
+"Liffey and Dublin Bay, PAINESTOWN_010",88,River,PAINESTOWN,53.28778,-6.61861
+"Liffey and Dublin Bay, RATHMORE STREAM_010",88,River,RATHMORE STREAM,,
+"Newry, Fane, Glyde and Dee, GLYDE_070",88,River,GLYDE,53.88306,-6.35
+"Liffey and Dublin Bay, LYREEN_010",88,River,LYREEN,53.38278,-6.62139
+"Liffey and Dublin Bay, MORELL_010",88,River,MORELL,53.30528,-6.61167
+"Liffey and Dublin Bay, MORELL_020",88,River,MORELL,53.30528,-6.61167
+"Liffey and Dublin Bay, MORELL_030",87,River,MORELL,53.30528,-6.61167
+"Gweebarra-Sheephaven, Keel Crotty",87,Lake,Keel Crotty,,
+"Mal Bay, Naminna",87,Lake,Naminna,52.78333,-9.2175
+"Bandonllen, Ballinhassig East",87,River,Ballinhassig East,,
+"Boyne, ATHBOY_060",87,River,ATHBOY,53.59191,-6.88222
+"Suir, ANNER_060",87,River,ANNER,52.42472,-7.6375
+"Lee, Cork Harbour and Youghal Bay, Ballinhassig East",87,River,Ballinhassig East,,
+"Cork Harbour, Moy Killala, TRIMOGE_010",87,River,TRIMOGE,53.91199,-9.02275
+"Newry, Fane, Glyde and Dee, PROULES_010",87,River,PROULES,,
+"Ovoca-Vartry, NEWTOWNMOUNTKENNEDY_020",87,River,NEWTOWNMOUNTKENNEDY,53.09052,-6.11149
+"Moy _ Killala Bay, Belmullet",86,River,Belmullet,54.2228,-10.0308
+"Erriff-Clew Bay, Swinford",86,River,Swinford,53.93941,-8.94346
+"Moy _ Killala Bay, Swinford",86,River,Swinford,53.93941,-8.94346
+"Cork Harbour, Moy Killala, Ballinhassig East",86,River,Ballinhassig East,,
+"Sligo Bay _ Drowse, Swinford",86,River,Swinford,53.93941,-8.94346
+"Shannon Estuary South, MORNINGSTAR_050",86,River,MORNINGSTAR,52.45028,-8.6825
+"Tralee Bay-Feale, Rathmore West",86,River,Rathmore West,,
+"Lee, Cork Harbour and Youghal Bay, SULLANE_020",86,River,SULLANE,51.88333,-8.93333
+"Laune-Maine-Dingle Bay, Rathmore West",86,River,Rathmore West,,
+"Newry, Fane, Glyde and Dee, WHITE (LOUTH)_020",86,River,WHITE,54.1125,-6.97194
+"Newry, Fane, Glyde and Dee, PROULES_030",86,River,PROULES,,
+"Newry, Fane, Glyde and Dee, GLYDE_060",86,River,GLYDE,53.88306,-6.35
+"Erriff-Clew Bay, Belmullet",86,River,Belmullet,54.2228,-10.0308
+"Suir, DUAG_020",86,River,DUAG,52.28028,-7.9825
+"Nore, KING'S (KILKENNY)_010",86,River,KING'S,53.31528,-7.94722
+"Cork Harbour, Moy Killala, Bray Lower",86,Lake,Bray Lower,53.18444,-6.30111
+"Nanny-Delvin, BROADMEADOW_010",85,River,BROADMEADOW,,
+"Suir, AHERLOW_040",85,River,AHERLOW,52.41889,-7.995
+"Newry, Fane, Glyde and Dee, DEE_020",85,River,DEE,53.8825,-6.34972
+"Sligo Bay _ Drowse, EASKY_040",85,River,EASKY,54.15667,-8.84944
+"Lower Shannon (C), LORRHA STREAM_010",85,River,LORRHA STREAM,,
+"Erne, ANNALEE_040",85,River,ANNALEE,54.04,-7.4075
+"Tralee Bay-Feale, Outer Tralee Bay",85,Coastal,Outer Tralee Bay,,
+"Moy _ Killala Bay, TUBBERCURRY_010",85,River,TUBBERCURRY,54.05,-8.73333
+"Suir, AHERLOW_020",85,River,AHERLOW,52.41889,-7.995
+"Boyne, KNIGHTSBROOK_020",85,River,KNIGHTSBROOK,53.53229,-6.77584
+"Liffey and Dublin Bay, TOLKA_020",85,River,TOLKA,53.35781,-6.23287
+"Newry, Fane, Glyde and Dee, KILLARY WATER_020",85,River,KILLARY WATER,,
+"Boyne, DEEL (RAHARNEY)_060",85,River,DEEL,52.61806,-8.98694
+"Nore, ARRIGLE_030",85,River,ARRIGLE,52.49694,-7.10111
+"Nore, ARRIGLE_010",85,River,ARRIGLE,52.49694,-7.10111
+"Liffey and Dublin Bay, TOLKA_010",85,River,TOLKA,53.35781,-6.23287
+"Suir, SUIR_120",85,River,SUIR,52.27333,-6.99556
+"Boyne, CLADY (MEATH)_010",85,River,CLADY,55.05806,-8.31417
+"Suir, SUIR_130",85,River,SUIR,52.27333,-6.99556
+"Boyne, BLACKWATER (KELLS)_090",85,River,BLACKWATER,51.85,-9.75
+"Lee, Cork Harbour and Youghal Bay, DISSOUR_020",85,River,DISSOUR,51.90306,-7.92889
+"Lee, Cork Harbour and Youghal Bay, DRIPSEY_020",85,River,DRIPSEY,51.91556,-8.745
+"Liffey and Dublin Bay, DUNBOYNE STREAM_010",85,River,DUNBOYNE STREAM,,
+"Slaney _ Wexford Harbour, BANN_030",84,River,BANN,52.545,-6.54306
+"Boyne, SKANE_020",84,River,SKANE,,
+"Boyne, SKANE_030",84,River,SKANE,,
+"Boyne, YELLOW (Blackwater Kells)_020",84,River,YELLOW,53.38556,-7.08361
+"Slaney _ Wexford Harbour, LASK_020",84,River,LASK,52.67056,-6.36028
+"Corrib, Cong-Robe",84,River,Cong-Robe,,
+"Nore, STONYFORD STREAM (KILKENNY)_010",84,River,STONYFORD STREAM,,
+"Cork Harbour, Moy Killala, SULLANE_020",84,River,SULLANE,51.88333,-8.93333
+"Nore, HOLLY PARK STREAM_010",84,River,HOLLY PARK STREAM,,
+"Owenavorragh, AUGHBOY (WEXFORD)_010",84,River,AUGHBOY,52.64389,-6.22583
+"Suir, DAWN_010",84,River,DAWN,52.2275,-7.3325
+"Suir, FIDAGHTA_010",84,River,FIDAGHTA,,
+"Nore, CASTLECOMER STREAM_010",84,River,CASTLECOMER STREAM,,
+"Nore, DININ (SOUTH)_020",84,River,DININ,52.59611,-6.91889
+"Lough Swilly, LEANNAN_060",84,River,LEANNAN,55.05,-7.71667
+"Suir, CLODIAGH (PORTLAW)_040",84,River,CLODIAGH,52.29,-7.28583
+"Suir, ARA_010",84,River,ARA,52.40556,-7.9475
+"Cork Harbour, Moy Killala, DRIPSEY_020",84,River,DRIPSEY,51.91556,-8.745
+"Suir, CLODIAGH (PORTLAW)_030",84,River,CLODIAGH,52.29,-7.28583
+"Cork Harbour, Moy Killala, Cong-Robe",84,River,Cong-Robe,,
+"Owenavorragh, INCH (WEXFORD)_020",84,River,INCH,53.27167,-9.16833
+"Nanny-Delvin, MOSNEY_010",84,River,MOSNEY,53.66639,-6.24083
+"Lough Neagh _ Lower Bann, SCOTSTOWN_020",84,River,SCOTSTOWN,54.2775,-7.065
+"Barrow, DUNRALLY STREAM_020",84,River,DUNRALLY STREAM,,
+"Nanny-Delvin, NANNY (MEATH)_020",84,River,NANNY,53.66667,-6.23333
+"Boyne, Wilkinstown",83,River,Wilkinstown,53.73556,-6.71306
+"Suir, ANNER_020",83,River,ANNER,52.42472,-7.6375
+"Lower Shannon (D), BRIDGETOWN (CLARE)_010",83,River,BRIDGETOWN,52.21748,-6.65242
+"Upper Shannon (C), Ree",83,Lake,Ree,53.53333,-7.96667
+"Slaney _ Wexford Harbour, SOW_030",83,River,SOW,52.37778,-6.45139
+"Slaney _ Wexford Harbour, BORO_060",83,River,BORO,52.46778,-6.56111
+"Slaney _ Wexford Harbour, URRIN_050",83,River,URRIN,52.49278,-6.56722
+"Slaney _ Wexford Harbour, BANN_070",83,River,BANN,52.545,-6.54306
+"Boyne, SKANE_040",83,River,SKANE,,
+"Boyne, CASTLEJORDAN_030",83,River,CASTLEJORDAN,53.39194,-7.11361
+"Lower Shannon (C), DUNIRY_010",83,River,DUNIRY,53.12833,-8.41417
+"Erriff-Clew Bay, Knappaghbeg",83,Lake,Knappaghbeg,53.76209,-9.50162
+"Suir, CLASHAWLEY_040",83,River,CLASHAWLEY,52.35,-7.46667
+"Boyne, BOYCETOWN_010",83,River,BOYCETOWN,53.55084,-6.74318
+"Boyne, BOYCETOWN_020",83,River,BOYCETOWN,53.55084,-6.74318
+"Owenavorragh, INCH (WEXFORD)_010",83,River,INCH,53.27167,-9.16833
+"Suir, CLASHAWLEY_020",83,River,CLASHAWLEY,52.35,-7.46667
+"Upper Shannon (A), FEORISH (BALLYFARNON)_010",83,River,FEORISH,54.03333,-8.08333
+"Suir, FIDAGHTA_020",83,River,FIDAGHTA,,
+"Upper Shannon (E), Ree",83,Lake,Ree,53.53333,-7.96667
+"Ovoca-Vartry, POTTER'S_020",83,River,POTTER'S,,
+"Suir, SUIR_170",83,River,SUIR,52.27333,-6.99556
+"Newry, Fane, Glyde and Dee, Wilkinstown",83,River,Wilkinstown,53.73556,-6.71306
+"Cork Harbour, Moy Killala, Swinford",83,River,Swinford,53.93941,-8.94346
+"Corrib, Swinford",83,River,Swinford,53.93941,-8.94346
+"Colligan-Mahon, DUNHILL_010",83,River,DUNHILL,52.17236,-7.26429
+"Nore, MUCKALEE_010",83,River,MUCKALEE,52.74722,-7.24722
+"Suir, LINGAUN_040",82,River,LINGAUN,52.35,-7.36667
+"Suir, THONOGE_030",82,River,THONOGE,52.33472,-7.90278
+"Suir, TAR_020",82,River,TAR,52.28333,-7.83333
+"Suir, ANNER_050",82,River,ANNER,52.42472,-7.6375
+"Ovoca-Vartry, BALLYDUFF STREAM (WICKLOW)_010",82,River,BALLYDUFF STREAM,,
+"Nore, RATHDOWNEY STREAM_010",82,River,RATHDOWNEY STREAM,,
+"Slaney _ Wexford Harbour, DOUGLAS (BALLON)_020",82,River,DOUGLAS,52.88333,-6.95
+"Suir, SUIR_180",82,River,SUIR,52.27333,-6.99556
+"Cork Harbour, Moy Killala, Belmullet",82,River,Belmullet,54.2228,-10.0308
+"Nore, BROWNSTOWN (POCOCKE)_010",82,River,BROWNSTOWN,53.13815,-6.84024
+"Suir, LINGAUN_050",82,River,LINGAUN,52.35,-7.36667
+"Nore, BREGAGH (KILKENNY)_030",82,River,BREGAGH,,
+"Nanny-Delvin, HURLEY_030",82,River,HURLEY,,
+"Suir, SUIR_010",82,River,SUIR,52.27333,-6.99556
+"Tralee Bay-Feale, Big River (Tralee)_010",82,River,Big River,53.36278,-7.28806
+"Suir, SUIR_070",82,River,SUIR,52.27333,-6.99556
+"Nore, OWVEG (NORE)_030",82,River,OWVEG,52.35,-9.35
+"Slaney _ Wexford Harbour, SLANEY_080",81,River,SLANEY,52.65662,-6.65117
+"Ballyteigue-Bannow, Ballyglass",81,River,Ballyglass,53.17361,-8.75778
+"Slaney _ Wexford Harbour, SOW_020",81,River,SOW,52.37778,-6.45139
+"Lower Shannon (B), Tullamore",81,River,Tullamore,53.27722,-7.5775
+"Lower Shannon (C), CARRIGAHORIG STREAM_010",81,River,CARRIGAHORIG STREAM,,
+"Lower Shannon (C), KILFADDA CASTLE STREAM_010",81,River,KILFADDA CASTLE STREAM,,
+"Slaney _ Wexford Harbour, TINNACROSS STREAM_020",81,River,TINNACROSS STREAM,,
+"Boyne, CASTLEJORDAN_020",81,River,CASTLEJORDAN,53.39194,-7.11361
+"Slaney _ Wexford Harbour, Ballyglass",81,River,Ballyglass,53.17361,-8.75778
+"Slaney _ Wexford Harbour, COOLBOY_010",81,River,COOLBOY,52.75944,-6.46028
+"Boyne, MOYNALTY_050",81,River,MOYNALTY,53.78861,-6.88278
+"Liffey and Dublin Bay, Ballyglass",81,River,Ballyglass,53.17361,-8.75778
+"Slaney _ Wexford Harbour, URRIN_030",81,River,URRIN,52.49278,-6.56722
+"Slaney _ Wexford Harbour, DOUGLAS (KILTEGAN)_010",81,River,DOUGLAS,52.88333,-6.95
+"Nore, MUNSTER_010",81,River,MUNSTER,52.91962,-8.97256
+"Lower Shannon (A), Tullamore",81,River,Tullamore,53.27722,-7.5775
+"Suir, ANNER_010",81,River,ANNER,52.42472,-7.6375
+"Suir, SUIR_050",81,River,SUIR,52.27333,-6.99556
+"Suir, SUIR_060",81,River,SUIR,52.27333,-6.99556
+"Suir, LINGAUN_010",81,River,LINGAUN,52.35,-7.36667
+"Suir, GLENBROOK_010",81,River,GLENBROOK,51.86556,-8.35111
+"Owenavorragh, Ballyglass",81,River,Ballyglass,53.17361,-8.75778
+"Nore, MUNSTER_030",81,River,MUNSTER,52.91962,-8.97256
+"Owenavorragh, OWENAVORRAGH_030",81,River,OWENAVORRAGH,52.64222,-6.22111
+"Suir, Clonmel",81,River,Clonmel,52.355,-7.70389
+"Owenavorragh, OWENAVORRAGH_060",81,River,OWENAVORRAGH,52.64222,-6.22111
+"Suir, LINGAUN_020",81,River,LINGAUN,52.35,-7.36667
+"Nore, CLOGH_010",81,River,CLOGH,53.7,-9.3
+"Nore, GULLY_020",81,River,GULLY,52.94306,-7.44722
+"Suir, THONOGE_020",81,River,THONOGE,52.33472,-7.90278
+"Nore, Clonmel",81,River,Clonmel,52.355,-7.70389
+"Erne, ERNE_100",81,River,ERNE,54.50534,-8.24507
+"Erne, KNAPPAGH_010",81,River,KNAPPAGH,54.0325,-6.96583
+"Bandonllen, Roaring Water Bay",81,Coastal,Roaring Water Bay,,
+"Barrow, Ballyglass",81,River,Ballyglass,53.17361,-8.75778
+"Suir, MULTEEN (EAST)_040",80,River,MULTEEN,52.51667,-8.01667
+"Suir, MULTEEN (EAST)_020",80,River,MULTEEN,52.51667,-8.01667
+"Erne, Major Lough Stream_010",80,River,Major Lough Stream,,
+"Suir, LINGAUN_030",80,River,LINGAUN,52.35,-7.36667
+"Suir, TAR_010",80,River,TAR,52.28333,-7.83333
+"Laune-Maine-Dingle Bay, DEENAGH_010",80,River,DEENAGH,52.05,-9.53333
+"Donegal Bay North, GLEN (CARRICK)_030",80,River,GLEN,54.34111,-8.38667
+"Suir, CLODIAGH (PORTLAW)_050",80,River,CLODIAGH,52.29,-7.28583
+"Suir, WHELAN'S BRIDGE STREAM_010",80,River,WHELAN'S BRIDGE STREAM,,
+"Nore, DININ (SOUTH)_010",80,River,DININ,52.59611,-6.91889
+"Newry, Fane, Glyde and Dee, WHITE (LOUTH)_010",80,River,WHITE,54.1125,-6.97194
+"Suir, BURNCOURT_020",80,River,BURNCOURT,52.31278,-8.03778
+"Colligan-Mahon, BRICKEY_020",80,River,BRICKEY,52.06278,-7.64083
+"Boyne, YELLOW (CASTLEJORDAN)_030",80,River,YELLOW,53.38556,-7.08361
+"Moy _ Killala Bay, YELLOW (KNOCK)_020",80,River,YELLOW,53.38556,-7.08361
+"Nore, MUNSTER_020",80,River,MUNSTER,52.91962,-8.97256
+"Corrib, TERRYLAND_010",80,River,TERRYLAND,53.28889,-9.05472
+"Newry, Fane, Glyde and Dee, GLYDE_050",79,River,GLYDE,53.88306,-6.35
+"Suir, DRISH_030",79,River,DRISH,52.66639,-7.80306
+"Cork Harbour, Moy Killala, CARRIGAHORIG STREAM_010",79,River,CARRIGAHORIG STREAM,,
+"Suir, FISHMOYNE_020",79,River,FISHMOYNE,52.72722,-7.93583
+"Nore, KING'S (KILKENNY)_040",79,River,KING'S,53.31528,-7.94722
+"Suir, MULTEEN_040",79,River,MULTEEN,52.51667,-8.01667
+"Colligan-Mahon, DALLIGAN_010",79,River,DALLIGAN,52.10583,-7.51111
+"Suir, ROSSESTOWN_030",79,River,ROSSESTOWN,52.71389,-7.80139
+"Suir, ROSSESTOWN_020",79,River,ROSSESTOWN,52.71389,-7.80139
+"Laune-Maine-Dingle Bay, Long Range",79,Lake,Long Range,52.0,-9.55
+"Suir, CLODIAGH (TIPPERARY)_040",79,River,CLODIAGH,52.29,-7.28583
+"Colligan-Mahon, ARAGLIN (COLLIGAN)_010",79,River,ARAGLIN,52.15639,-8.22722
+"Lower Shannon (A), Ennell",79,Lake,Ennell,53.46667,-7.4
+"Suir, Slieve Phelim",79,River,Slieve Phelim,,
+"Lower Shannon (D), Slieve Phelim",79,River,Slieve Phelim,,
+"Suir, KILLENAULE STREAM_020",79,River,KILLENAULE STREAM,,
+"Suir, CLODIAGH (PORTLAW)_010",79,River,CLODIAGH,52.29,-7.28583
+"Suir, FISHMOYNE_030",79,River,FISHMOYNE,52.72722,-7.93583
+"Suir, CLODIAGH (TIPPERARY)_030",79,River,CLODIAGH,52.29,-7.28583
+"Colligan-Mahon, KILMURRIN COVE STREAM_010",79,River,KILMURRIN COVE STREAM,,
+"Colligan-Mahon, COLLIGAN_040",79,River,COLLIGAN,52.10444,-7.63667
+"Lower Shannon (C), Slieve Phelim",79,River,Slieve Phelim,,
+"Slaney _ Wexford Harbour, GLASHA (SLANEY)_010",79,River,GLASHA,52.61861,-6.60222
+"Suir, ROCKWELL STREAM_010",79,River,ROCKWELL STREAM,,
+"Lower Shannon (D), BILBOA_020",79,River,BILBOA,52.58222,-8.32972
+"Liffey and Dublin Bay, LEMONSTOWN STREAM_010",78,River,LEMONSTOWN STREAM,,
+"Moy _ Killala Bay, CASTLEBAR_010",78,River,CASTLEBAR,53.83893,-9.3466
+"Suir, ROSSESTOWN_010",78,River,ROSSESTOWN,52.71389,-7.80139
+"Colligan-Mahon, MAHON_010",78,River,MAHON,52.13806,-7.36278
+"Colligan-Mahon, BRICKEY_010",78,River,BRICKEY,52.06278,-7.64083
+"Suir, BLACK STREAM (CASHEL)_010",78,River,BLACK STREAM,51.96167,-8.42778
+"Newry, Fane, Glyde and Dee, BALLYMASCANLAN_010",78,River,BALLYMASCANLAN,54.01978,-6.36125
+"Cork Harbour, Moy Killala, YELLOW (KNOCK)_020",78,River,YELLOW,53.38556,-7.08361
+"Suir, OUTERAGH STREAM_020",78,River,OUTERAGH STREAM,,
+"Boyne, MOYNALTY_040",78,River,MOYNALTY,53.78861,-6.88278
+"Colligan-Mahon, TAY_010",78,River,TAY,53.10472,-6.26861
+"Colligan-Mahon, Belle",78,Lake,Belle,52.18806,-7.02306
+"Suir, Carrigavantry",78,Lake,Carrigavantry,,
+"Lough Neagh _ Lower Bann, BLACKWATER (MONAGHAN)_020",78,River,BLACKWATER,51.85,-9.75
+"Nore, DELOUR_010",78,River,DELOUR,52.97611,-7.54389
+"Erne, ERNE_110",78,River,ERNE,54.50534,-8.24507
+"Suir, MULTEEN_030",78,River,MULTEEN,52.51667,-8.01667
+"Erne, BUNNOE_030",78,River,BUNNOE,54.05806,-7.22806
+"Suir, NIER_030",78,River,NIER,52.27722,-7.78444
+"Suir, NIER_010",78,River,NIER,52.27722,-7.78444
+"Suir, DRISH_060",78,River,DRISH,52.66639,-7.80306
+"Suir, DRISH_040",78,River,DRISH,52.66639,-7.80306
+"Ovoca-Vartry, GLENMACNASS_010",78,River,GLENMACNASS,53.00361,-6.29694
+"Suir, DAWN_020",78,River,DAWN,52.2275,-7.3325
+"Erne, Lower Lough Macnean",78,Lake,Lower Lough Macnean,,
+"Suir, CLODIAGH (TIPPERARY)_020",78,River,CLODIAGH,52.29,-7.28583
+"Slaney _ Wexford Harbour, CLONMORE STREAM_010",78,River,CLONMORE STREAM,53.27722,-7.5775
+"Lough Neagh _ Lower Bann, CLONTIBRET STREAM_010",77,River,CLONTIBRET STREAM,,
+"Owenavorragh, BRACKAN_010",77,River,BRACKAN,52.62889,-6.30056
+"Moy _ Killala Bay, EIGNAGH_010",77,River,EIGNAGH,54.01585,-8.86641
+"Nore, DONAGHMORE STREAM_010",77,River,DONAGHMORE STREAM,,
+"Newry, Fane, Glyde and Dee, FLURRY_030",77,River,FLURRY,,
+"Nore, DELOUR_030",77,River,DELOUR,52.97611,-7.54389
+"Galway Bay South East, RAFORD_010",77,River,RAFORD,53.22778,-8.72972
+"Moy _ Killala Bay, POLLAGH_040",77,River,POLLAGH,53.27667,-7.70806
+"Moy _ Killala Bay, POLLAGH_010",77,River,POLLAGH,53.27667,-7.70806
+"Corrib, SINKING_010",77,River,SINKING,,
+"Newry, Fane, Glyde and Dee, CASTLETOWN_020",77,River,CASTLETOWN,52.8475,-8.90861
+"Galway Bay South East, RAFORD_020",77,River,RAFORD,53.22778,-8.72972
+"Suir, BREAGAGH (TIPPERARY)_010",77,River,BREAGAGH,52.68611,-7.76472
+"Newry, Fane, Glyde and Dee, DEE_090",77,River,DEE,53.8825,-6.34972
+"Bandonllen, Clonakilty Harbour",77,Transitional,Clonakilty Harbour,51.61062,-8.8539
+"Nore, TONET_030",77,River,TONET,,
+"Slaney _ Wexford Harbour, SOW_040",77,River,SOW,52.37778,-6.45139
+"Nore, TONET_020",77,River,TONET,,
+"Foyle, BURN DAURNETT_010",77,River,BURN DAURNETT,54.79611,-7.77778
+"Corrib, DALGAN_050",77,River,DALGAN,53.61667,-8.86667
+"Moy _ Killala Bay, CLYDAGH (CASTLEBAR)_020",77,River,CLYDAGH,53.94833,-9.17894
+"Moy _ Killala Bay, MANULLA_010",77,River,MANULLA,53.83333,-9.18333
+"Corrib, SINKING_030",77,River,SINKING,,
+"Nore, MOUNTRATH_020",77,River,MOUNTRATH,52.9625,-7.37028
+"Sligo Bay _ Drowse, FINNED_010",77,River,FINNED,54.29444,-8.99861
+"Newry, Fane, Glyde and Dee, CULLY WATER_010",77,River,CULLY WATER,,
+"Cork Harbour, Moy Killala, BURN DAURNETT_010",76,River,BURN DAURNETT,54.79611,-7.77778
+"Corrib, HEADFORD STREAM_020",76,River,HEADFORD STREAM,,
+"Nore, KILLEEN (DELOUR)_010",76,River,KILLEEN,53.00917,-7.57167
+"Newry, Fane, Glyde and Dee, GLYDE_040",76,River,GLYDE,53.88306,-6.35
+"Ovoca-Vartry, AUGHRIM (WICKLOW)_010",76,River,AUGHRIM,52.82917,-6.22432
+"Nore, NORE_010",76,River,NORE,52.42417,-6.95806
+"Moy _ Killala Bay, SLIEVECLAUR_010",76,River,SLIEVECLAUR,,
+"Moy _ Killala Bay, YELLOW (FOXFORD)_010",76,River,YELLOW,53.38556,-7.08361
+"Cork Harbour, Moy Killala, YELLOW (FOXFORD)_010",76,River,YELLOW,53.38556,-7.08361
+"Slaney _ Wexford Harbour, MINE_010",76,River,MINE,52.82861,-6.23028
+"Moy _ Killala Bay, CARROWKERIBLY LOUGH STREAM_010",76,River,CARROWKERIBLY LOUGH STREAM,,
+"Mal Bay, INAGH (ENNISTYMON)_030",76,River,INAGH,53.5154,-9.74298
+"Shannon Estuary South, Limerick Dock",76,Transitional,Limerick Dock,,
+"Galway Bay North, OWENGOWLA_010",76,River,OWENGOWLA,53.39694,-9.7875
+"Corrib, CLARE (GALWAY)_010",76,River,CLARE,52.91962,-8.97256
+"Suir, DRISH_020",76,River,DRISH,52.66639,-7.80306
+"Corrib, CONG CANAL_010",76,River,CONG CANAL,,
+"foyal, OWENGOWLA_010",76,River,OWENGOWLA,53.39694,-9.7875
+"Ovoca-Vartry, REDCROSS_020",76,River,REDCROSS,52.84179,-6.09992
+"Bandonllen, Lower Bandon Estuary",76,Transitional,Lower Bandon Estuary,,
+"Erne, FINN (MONAGHAN)_010",76,River,FINN,54.86111,-8.13861
+"Owenavorragh, OWENAVORRAGH_020",76,River,OWENAVORRAGH,52.64222,-6.22111
+"Moy _ Killala Bay, GLENREE_030",76,River,GLENREE,54.11667,-9.15
+"Nore, DININ (MAIN CHANNEL)_010",76,River,DININ,52.59611,-6.91889
+"Corrib, CLARE (GALWAY)_050",76,River,CLARE,52.91962,-8.97256
+"Corrib, GLENSAUL_010",76,River,GLENSAUL,,
+"Foyle, REELAN_020",76,River,REELAN,55.09167,-7.79306
+"Slaney _ Wexford Harbour, BORO_010",76,River,BORO,52.46778,-6.56111
+"Suir, BLACK (TWOMILEBORRIS)_010",76,River,BLACK,54.08222,-7.14611
+"Tralee Bay-Feale, Lee K Estuary",76,Transitional,Lee K Estuary,,
+"Tralee Bay-Feale, OWENMORE (KERRY)_010",76,River,OWENMORE,54.12034,-9.83337
+"Corrib, CLARE (GALWAY)_070",76,River,CLARE,52.91962,-8.97256
+"Suir, ARGLO_020",76,River,ARGLO,52.54361,-7.92972
+"Moy _ Killala Bay, MAD_010",75,River,MAD,54.09912,-8.77438
+"Sligo Bay _ Drowse, EASKY_030",75,River,EASKY,54.15667,-8.84944
+"Ovoca-Vartry, AVONMORE_040",75,River,AVONMORE,52.88333,-6.23333
+"Newry, Fane, Glyde and Dee, TERMONFECKIN_010",75,River,TERMONFECKIN,53.76333,-6.26778
+"Erriff-Clew Bay, CULFIN_010",75,River,CULFIN,,
+"Sligo Bay _ Drowse, BUNCROWEY_010",75,River,BUNCROWEY,54.23306,-8.91833
+"Erriff-Clew Bay, DAWROS_030",75,River,DAWROS,53.57167,-9.96167
+"Erne, ROO_010",75,River,ROO,53.91646,-9.15559
+"Suir, OUTERAGH STREAM_010",75,River,OUTERAGH STREAM,,
+"Erriff-Clew Bay, CARROWBEG (WESTPORT)_030",75,River,CARROWBEG,53.89952,-9.63526
+"Corrib, FINNY_010",75,River,FINNY,53.56667,-9.48333
+"Cork Harbour, Moy Killala, CASTLEBAR_010",75,River,CASTLEBAR,53.83893,-9.3466
+"Erriff-Clew Bay, BALLINABOY_020",75,River,BALLINABOY,51.79944,-8.53167
+"Cork Harbour, Moy Killala, EIGNAGH_010",75,River,EIGNAGH,54.01585,-8.86641
+"Erriff-Clew Bay, OWENGLIN_010",75,River,OWENGLIN,53.48719,-10.01435
+"Corrib, ROBE_040",75,River,ROBE,53.63333,-9.28333
+"Slaney _ Wexford Harbour, BANN_010",75,River,BANN,52.545,-6.54306
+"Erriff-Clew Bay, DAWROS_040",75,River,DAWROS,53.57167,-9.96167
+"Corrib, ABBERT_030",75,River,ABBERT,53.41667,-8.88333
+"Erriff-Clew Bay, BUNDORRAGHA_010",75,River,BUNDORRAGHA,53.6,-9.75
+"Moy _ Killala Bay, TUBBERCURRY STREAM_010",75,River,TUBBERCURRY STREAM,,
+"Corrib, AILLE (MAYO)_030",75,River,AILLE,53.76709,-9.40783
+"Erriff-Clew Bay, NEWPORT (MAYO)_010",75,River,NEWPORT,53.88504,-9.55674
+"Galway Bay South East, CARRA STREAM_010",75,River,CARRA STREAM,,
+"Sligo Bay _ Drowse, OWENBEG (COOLANEY)_030",75,River,OWENBEG,52.85167,-7.32833
+"Suir, ARGLO_010",75,River,ARGLO,52.54361,-7.92972
+"Sligo Bay _ Drowse, OWENMORE (SLIGO)_020",75,River,OWENMORE,54.12034,-9.83337
+"Foyle, BUNADAOWEN_010",75,River,BUNADAOWEN,54.73806,-7.87361
+"Erriff-Clew Bay, TRAHEEN_010",75,River,TRAHEEN,53.54694,-9.98167
+"Nore, CAPPANACLOGHY_010",75,River,CAPPANACLOGHY,,
+"Cork Harbour, Moy Killala, POLLAGH_040",75,River,POLLAGH,53.27667,-7.70806
+"Lower Shannon (A), CLODIAGH (TULLAMORE)_040",75,River,CLODIAGH,52.29,-7.28583
+"Cork Harbour, Moy Killala, POLLAGH_010",75,River,POLLAGH,53.27667,-7.70806
+"Lower Shannon (D), SMALL (TIPPERARY)_010",74,River,SMALL,52.71111,-8.405
+"Corrib, BLACK (SHRULE)_030",74,River,BLACK,54.08222,-7.14611
+"Galway Bay North, OWENRIFF (SOUTH GALWAY)_010",74,River,OWENRIFF,,
+"Moy _ Killala Bay, DEEL (CROSSMOLINA)_020",74,River,DEEL,52.61806,-8.98694
+"Corrib, DALGAN_020",74,River,DALGAN,53.61667,-8.86667
+"Slaney _ Wexford Harbour, KNICKEEN_010",74,River,KNICKEEN,52.99667,-6.5475
+"Corrib, DALGAN_030",74,River,DALGAN,53.61667,-8.86667
+"Sligo Bay _ Drowse, OWENBEG (COOLANEY)_010",74,River,OWENBEG,52.85167,-7.32833
+"Sligo Bay _ Drowse, CLOONEEN (SLIGO)_030",74,River,CLOONEEN,52.97778,-9.14528
+"Sligo Bay _ Drowse, DUNNEILL_010",74,River,DUNNEILL,54.265,-8.85972
+"Corrib, GRANGE (GALWAY)_020",74,River,GRANGE,52.77444,-8.01194
+"Corrib, AILLE (MAYO)_040",74,River,AILLE,53.76709,-9.40783
+"Cork Harbour, Moy Killala, CLYDAGH (CASTLEBAR)_020",74,River,CLYDAGH,53.94833,-9.17894
+"Cork Harbour, Moy Killala, CARROWKERIBLY LOUGH STREAM_010",74,River,CARROWKERIBLY LOUGH STREAM,,
+"Corrib, LEVALLY STREAM_010",74,River,LEVALLY STREAM,,
+"Lower Shannon (D), DOON STREAM_010",74,River,DOON STREAM,,
+"Corrib, CREGG_010",74,River,CREGG,53.49667,-9.93917
+"Cork Harbour, Moy Killala, MANULLA_010",74,River,MANULLA,53.83333,-9.18333
+"Cork Harbour, Moy Killala, GLENREE_030",74,River,GLENREE,54.11667,-9.15
+"Nore, BREGAGH (KILKENNY)_020",74,River,BREGAGH,,
+"Ovoca-Vartry, GLENMACNASS_020",74,River,GLENMACNASS,53.00361,-6.29694
+"Slaney _ Wexford Harbour, DERREEN_080",74,River,DERREEN,53.82816,-9.17346
+"Ovoca-Vartry, THREE MILE WATER_020",74,River,THREE MILE WATER,52.92275,-6.02844
+"Moy _ Killala Bay, EIGNAGH_030",74,River,EIGNAGH,54.01585,-8.86641
+"Moy _ Killala Bay, OWENGARVE (SLIGO)_020",74,River,OWENGARVE,53.43333,-9.7
+"foyal, OWENRIFF (SOUTH GALWAY)_010",74,River,OWENRIFF,,
+"Sligo Bay _ Drowse, BALLYMOTE STREAM_010",74,River,BALLYMOTE STREAM,,
+"Suir, MOYLE_030",74,River,MOYLE,52.40056,-7.63528
+"Galway Bay South East, KILCOLGAN_040",74,River,KILCOLGAN,53.21667,-8.91667
+"Galway Bay South East, Kinvarra Bay",74,Transitional,Kinvarra Bay,53.16389,-8.95667
+"Galway Bay South East, CLARINBRIDGE_040",74,River,CLARINBRIDGE,53.22639,-8.88306
+"Galway Bay South East, CLARINBRIDGE_050",74,River,CLARINBRIDGE,53.22639,-8.88306
+"Sligo Bay _ Drowse, DOONOWNEY_010",74,River,DOONOWNEY,54.36722,-8.56806
+"Sligo Bay _ Drowse, DOONFLIN_010",74,River,DOONFLIN,54.24186,-8.76313
+"Sligo Bay _ Drowse, UNSHIN_010",74,River,UNSHIN,54.52028,-8.07917
+"Boyne, NADREEGEEL LOUGH STREAM_020",74,River,NADREEGEEL LOUGH STREAM,,
+"Sligo Bay _ Drowse, BUNNANADDAN STREAM_010",74,River,BUNNANADDAN STREAM,,
+"Galway Bay South East, KILCOLGAN_050",74,River,KILCOLGAN,53.21667,-8.91667
+"Colligan-Mahon, Lower Blackwater M Estuary / Youghal Harbour",74,Transitional,Lower Blackwater M Estuary / Youghal Harbour,,
+"Sligo Bay _ Drowse, DRUMCLIFF_010",74,River,DRUMCLIFF,54.33,-8.50917
+"Sligo Bay _ Drowse, FINNED_020",74,River,FINNED,54.29444,-8.99861
+"Sligo Bay _ Drowse, OWENMORE (SLIGO)_060",74,River,OWENMORE,54.12034,-9.83337
+"Erne, SWANLINBAR_010",73,River,SWANLINBAR,54.24073,-7.60112
+"Erne, ERNE_020",73,River,ERNE,54.50534,-8.24507
+"Slaney _ Wexford Harbour, DERREEN_040",73,River,DERREEN,53.82816,-9.17346
+"Liffey and Dublin Bay, MAYNE_010",73,River,MAYNE,53.40643,-6.1295
+"Corrib, SRAH STREAM_010",73,River,SRAH STREAM,,
+"Corrib, FAILMORE_010",73,River,FAILMORE,,
+"Cork Harbour, Moy Killala, SLIEVECLAUR_010",73,River,SLIEVECLAUR,,
+"Corrib, DOOGHTA_020",73,River,DOOGHTA,,
+"Cork Harbour, Moy Killala, TRIMOGE_020",73,River,TRIMOGE,53.91199,-9.02275
+"Erriff-Clew Bay, ERRIFF_040",73,River,ERRIFF,53.61667,-9.66667
+"Corrib, CLARE (GALWAY)_030",73,River,CLARE,52.91962,-8.97256
+"Nanny-Delvin, WARD_020",73,River,WARD,53.62444,-6.88611
+"Corrib, ROBE_010",73,River,ROBE,53.63333,-9.28333
+"Donagh-Moville, CLONMANY_020",73,River,CLONMANY,55.27972,-7.435
+"Sligo Bay _ Drowse, OWENMORE (SLIGO)_040",73,River,OWENMORE,54.12034,-9.83337
+"Nanny-Delvin, WARD_040",73,River,WARD,53.62444,-6.88611
+"Moy _ Killala Bay, TRIMOGE_020",73,River,TRIMOGE,53.91199,-9.02275
+"Sligo Bay _ Drowse, WILLSBOROUGH STREAM_010",73,River,WILLSBOROUGH STREAM,,
+"Erriff-Clew Bay, NEWPORT (MAYO)_030",73,River,NEWPORT,53.88504,-9.55674
+"Erriff-Clew Bay, OWENGLIN_030",73,River,OWENGLIN,53.48719,-10.01435
+"Ovoca-Vartry, AVONMORE_010",73,River,AVONMORE,52.88333,-6.23333
+"Erriff-Clew Bay, ERRIFF_020",73,River,ERRIFF,53.61667,-9.66667
+"Erriff-Clew Bay, ERRIFF_030",73,River,ERRIFF,53.61667,-9.66667
+"Slaney _ Wexford Harbour, ASSALY_010",73,River,ASSALY,,
+"Moy _ Killala Bay, CLOONAGHMORE_040",72,River,CLOONAGHMORE,54.23333,-9.26667
+"Moy _ Killala Bay, CLOONAGHMORE_020",72,River,CLOONAGHMORE,54.23333,-9.26667
+"Upper Shannon (E), Coosan",72,Lake,Coosan,,
+"Corrib, ABBERT_020",72,River,ABBERT,53.41667,-8.88333
+"Upper Shannon (E), Ballaghkeeran",72,Lake,Ballaghkeeran,,
+"Upper Shannon (D), BALLINURE_010",72,River,BALLINURE,53.27667,-8.185
+"Lower Shannon (C), BALLINTOTTY_010",72,River,BALLINTOTTY,52.86194,-8.15444
+"Galway Bay South East, CARROWMONEASH (Oranmore)_010",72,River,CARROWMONEASH,,
+"Nanny-Delvin, BROADMEADOW_040",72,River,BROADMEADOW,,
+"Erne, BUNNOE_010",72,River,BUNNOE,54.05806,-7.22806
+"Galway Bay North, Barna (Stream)_010",72,River,Barna,53.25194,-9.14972
+"Galway Bay North, POLLEEN_010",72,River,POLLEEN,,
+"Cork Harbour, Moy Killala, SHANGANAGH_010",72,River,SHANGANAGH,52.63694,-9.58385
+"Liffey and Dublin Bay, Powerstown (Dublin)_010",72,River,Powerstown,52.61806,-6.98361
+"Cork Harbour, Moy Killala, CLOONAGHMORE_020",72,River,CLOONAGHMORE,54.23333,-9.26667
+"Liffey and Dublin Bay, CAMAC_040",72,River,CAMAC,,
+"Donegal Bay North, Eske",72,Lake,Eske,54.7,-8.03333
+"Cork Harbour, Moy Killala, CLOONAGHMORE_040",72,River,CLOONAGHMORE,54.23333,-9.26667
+"Cork Harbour, Moy Killala, EIGNAGH_030",72,River,EIGNAGH,54.01585,-8.86641
+"Cork Harbour, Moy Killala, BELLAWADDY_020",72,River,BELLAWADDY,54.21,-9.1
+"Corrib, SRAHNALONG_010",72,River,SRAHNALONG,,
+"Galway Bay North, CASHLA_010",72,River,CASHLA,53.28167,-9.53306
+"Nanny-Delvin, WARD_030",72,River,WARD,53.62444,-6.88611
+"foyal, CASHLA_010",72,River,CASHLA,53.28167,-9.53306
+"Liffey and Dublin Bay, TOLKA_040",72,River,TOLKA,53.35781,-6.23287
+"foyal, POLLEEN_010",72,River,POLLEEN,,
+"Bandonllen, Upper Bandon Estuary",72,Transitional,Upper Bandon Estuary,,
+"foyal, Barna (Stream)_010",72,River,Barna,53.25194,-9.14972
+"Liffey and Dublin Bay, TOLKA_050",72,River,TOLKA,53.35781,-6.23287
+"Cork Harbour, Moy Killala, LEAFFONY_020",72,River,LEAFFONY,54.26667,-9.06667
+"Liffey and Dublin Bay, SANTRY_010",72,River,SANTRY,53.39812,-6.25268
+"Liffey and Dublin Bay, TOLKA_030",72,River,TOLKA,53.35781,-6.23287
+"Cork Harbour, Moy Killala, KILL OF THE GRANGE STREAM_010",72,River,KILL OF THE GRANGE STREAM,,
+"Nore, COALBROOK STREAM_010",72,River,COALBROOK STREAM,,
+"Erne, MADABAWN STREAM_010",71,River,MADABAWN STREAM,,
+"Sligo Bay _ Drowse, UNSHIN_030",71,River,UNSHIN,54.52028,-8.07917
+"Boyne, BLACKWATER (KELLS)_040",71,River,BLACKWATER,51.85,-9.75
+"Shannon Estuary South, Slieve Phelim",71,River,Slieve Phelim,,
+"Sligo Bay _ Drowse, DRUMCLIFF_020",71,River,DRUMCLIFF,54.33,-8.50917
+"Galway Bay South East, KILCOLGAN_030",71,River,KILCOLGAN,53.21667,-8.91667
+"Corrib, GRANGE (GALWAY)_010",71,River,GRANGE,52.77444,-8.01194
+"Corrib, GRANGE (GALWAY)_040",71,River,GRANGE,52.77444,-8.01194
+"Erne, ANNALEE_070",71,River,ANNALEE,54.04,-7.4075
+"Boyne, RIVERSTOWN_010",71,River,RIVERSTOWN,54.13167,-8.39444
+"Foyle, CROSS ROADS STREAM_010",71,River,CROSS ROADS STREAM,,
+"Tralee Bay-Feale, OWVEG (KERRY)_020",71,River,OWVEG,52.35,-9.35
+"Donegal Bay North, CLOGHANMORE_010",71,River,CLOGHANMORE,,
+"Cork Harbour, Moy Killala, DEEL (CROSSMOLINA)_020",71,River,DEEL,52.61806,-8.98694
+"Slaney _ Wexford Harbour, DERREEN_030",71,River,DERREEN,53.82816,-9.17346
+"Lower Shannon (D), Derg HMWB",71,Lake,Derg HMWB,,
+"Cork Harbour, Moy Killala, BELLAWADDY_010",71,River,BELLAWADDY,54.21,-9.1
+"Lower Shannon (A), GORRAGH_010",71,River,GORRAGH,53.15806,-7.51556
+"Nore, CAPPANACLOGHY_020",71,River,CAPPANACLOGHY,,
+"Boyne, CHAPEL LAKE STREAM_010",71,River,CHAPEL LAKE STREAM,,
+"Boyne, BLACKWATER (KELLS)_010",71,River,BLACKWATER,51.85,-9.75
+"Suir, MOYLE_020",70,River,MOYLE,52.40056,-7.63528
+"Boyne, MILLTOWNPASS_010",70,River,MILLTOWNPASS,53.43417,-7.24194
+"Corrib, BEALANABRACK_020",70,River,BEALANABRACK,53.5,-9.53333
+"Sligo Bay _ Drowse, UNSHIN_050",70,River,UNSHIN,54.52028,-8.07917
+"Erne, ANNALEE_080",70,River,ANNALEE,54.04,-7.4075
+"Sligo Bay _ Drowse, DRUMFIN_010",70,River,DRUMFIN,54.13106,-8.44387
+"Foyle, ST JOHNSTON_010",70,River,ST JOHNSTON,54.93553,-7.46109
+"Tralee Bay-Feale, GALEY_050",70,River,GALEY,52.43982,-9.60695
+"Tralee Bay-Feale, GOWLANE_010",70,River,GOWLANE,51.69917,-9.90222
+"Cork Harbour, Moy Killala, CROSS ROADS STREAM_010",70,River,CROSS ROADS STREAM,,
+"Lower Shannon (B), KILCOMIN STREAM_030",70,River,KILCOMIN STREAM,,
+"Lee, Cork Harbour and Youghal Bay, BUTLERSTOWN_030",70,River,BUTLERSTOWN,51.92639,-8.39167
+"Lee, Cork Harbour and Youghal Bay, BUTLERSTOWN_020",70,River,BUTLERSTOWN,51.92639,-8.39167
+"Ovoca-Vartry, NEWCASTLE (WICKLOW)_010",70,River,NEWCASTLE,52.44917,-9.06111
+"Laune-Maine-Dingle Bay, FLESK (KERRY)_050",70,River,FLESK,52.03333,-9.51667
+"Laune-Maine-Dingle Bay, GADDAGH_020",70,River,GADDAGH,52.08333,-9.7
+"Upper Shannon (A), OWENGAR (LEITRIM)_010",70,River,OWENGAR,54.16361,-8.09917
+"Boyne, LISLEA_010",70,River,LISLEA,54.11278,-7.25306
+"Boyne, BLACKWATER (KELLS)_050",70,River,BLACKWATER,51.85,-9.75
+"Liffey and Dublin Bay, DOUGLAS (LIFFEY)_010",70,River,DOUGLAS,52.88333,-6.95
+"foyal, CRUMLIN (GALWAY BAY)_010",69,River,CRUMLIN,53.23694,-9.43972
+"Laune-Maine-Dingle Bay, MILLTOWN (KERRY)_020",69,River,MILLTOWN,52.63389,-8.92278
+"Gweebarra-Sheephaven, BRACKY_010",69,River,BRACKY,54.75306,-8.42389
+"Gweebarra-Sheephaven, Shannagh",69,Lake,Shannagh,55.25417,-7.66417
+"Tralee Bay-Feale, SMEARLAGH_030",69,River,SMEARLAGH,52.43917,-9.42889
+"Galway Bay North, Anaserd",69,Lake,Anaserd,53.43222,-10.09528
+"Lee, Cork Harbour and Youghal Bay, BLARNEY_010",69,River,BLARNEY,51.92167,-8.57389
+"Galway Bay North, CRUMLIN (GALWAY BAY)_010",69,River,CRUMLIN,53.23694,-9.43972
+"Donegal Bay North, TULLINTEANE_010",69,River,TULLINTEANE,,
+"Donegal Bay North, BALLAGHDOO_020",69,River,BALLAGHDOO,54.63194,-8.59611
+"Dunmanus-Bantry-Kenmare, CROANSHAGH_020",69,River,CROANSHAGH,51.76306,-9.78111
+"Erne, AVAGHON LAKE STREAM_010",69,River,AVAGHON LAKE STREAM,,
+"Dunmanus-Bantry-Kenmare, BLACKWATER (KERRY)_010",69,River,BLACKWATER,51.85,-9.75
+"Tralee Bay-Feale, LEE (TRALEE)_030",69,River,LEE,54.53583,-8.05944
+"Lough Swilly, CRANA_030",69,River,CRANA,55.13611,-7.46417
+"Lough Swilly, CRANA_010",69,River,CRANA,55.13611,-7.46417
+"Lee, Cork Harbour and Youghal Bay, OWENNACURRA_040",69,River,OWENNACURRA,51.90722,-8.17778
+"foyal, Anaserd",69,Lake,Anaserd,53.43222,-10.09528
+"Erne, Oughter South",68,Lake,Oughter South,,
+"foyal, Loughaunore",68,Lake,Loughaunore,,
+"Gweebarra-Sheephaven, Kinny",68,Lake,Kinny,55.24472,-7.67944
+"Liffey and Dublin Bay, DODDER_030",68,River,DODDER,53.34356,-6.23037
+"Liffey and Dublin Bay, OWENADOHER_010",68,River,OWENADOHER,,
+"Moy _ Killala Bay, Castlebar",68,Lake,Castlebar,53.83893,-9.3466
+"Lee, Cork Harbour and Youghal Bay, OWENBOY (CORK)_040",68,River,OWENBOY,55.15,-7.4
+"Liffey and Dublin Bay, Tolka Estuary",68,Transitional,Tolka Estuary,,
+"Lee, Cork Harbour and Youghal Bay, OWENBOY (CORK)_010",68,River,OWENBOY,55.15,-7.4
+"Ovoca-Vartry, OW_020",68,River,OW,52.85101,-6.34037
+"Moy _ Killala Bay, Levally",68,Lake,Levally,53.98083,-9.30389
+"Galway Bay North, Loughaunore",68,Lake,Loughaunore,,
+"Erriff-Clew Bay, Tully",68,Lake,Tully,53.58972,-9.97972
+"Donagh-Moville, KEENAGH_020",68,River,KEENAGH,55.35306,-7.34778
+"Erne, Vearty",67,Lake,Vearty,,
+"Erne, Gowna South",67,Lake,Gowna South,,
+"Foyle, CLOGHER (FINN)_010",67,River,CLOGHER,53.79361,-6.2375
+"Erne, Gowna North",67,Lake,Gowna North,,
+"Lower Shannon (C), OLLATRIM_020",67,River,OLLATRIM,52.87417,-8.18806
+"Cork Harbour, Moy Killala, Glenville",67,River,Glenville,52.04389,-8.42472
+"Erne, Garty",67,Lake,Garty,,
+"Lower Shannon (D), KILMASTULLA_010",67,River,KILMASTULLA,52.7775,-8.44833
+"Sligo Bay _ Drowse, Belhavel",67,Lake,Belhavel,54.21063,-8.19346
+"Corrib, Ballyquirke",67,Lake,Ballyquirke,,
+"Cork Harbour, Moy Killala, ST JOHNSTON_010",67,River,ST JOHNSTON,54.93553,-7.46109
+"Donagh-Moville, Fad Meendoran",67,Lake,Fad Meendoran,,
+"Donagh-Moville, River Foyle",67,River,River Foyle,54.98532,-7.33277
+"Liffey and Dublin Bay, LIFFEY_090",67,River,LIFFEY,53.34556,-6.21694
+"Liffey and Dublin Bay, DODDER_020",67,River,DODDER,53.34356,-6.23037
+"Upper Shannon (F), Nadreegeal",67,Lake,Nadreegeal,,
+"Galway Bay South East, RAFORD_030",67,River,RAFORD,53.22778,-8.72972
+"Laune-Maine-Dingle Bay, Glenville",67,River,Glenville,52.04389,-8.42472
+"Liffey and Dublin Bay, DODDER_040",67,River,DODDER,53.34356,-6.23037
+"Liffey and Dublin Bay, CAMAC_030",67,River,CAMAC,,
+"Boyne, Nadreegeal",67,Lake,Nadreegeal,,
+"Colligan-Mahon, Glenville",67,River,Glenville,52.04389,-8.42472
+"Erne, Tullynassidagh",67,Lake,Tullynassidagh,,
+"Erriff-Clew Bay, Ballin MO",67,Lake,Ballin MO,,
+"Moy _ Killala Bay, Washpool",67,Lake,Washpool,53.80021,-9.18681
+"Erne, Golagh",67,Lake,Golagh,54.54194,-8.05389
+"Lee, Cork Harbour and Youghal Bay, BUTLERSTOWN_010",67,River,BUTLERSTOWN,51.92639,-8.39167
+"Lough Swilly, River Foyle",67,River,River Foyle,54.98532,-7.33277
+"Lee, Cork Harbour and Youghal Bay, Glenville",67,River,Glenville,52.04389,-8.42472
+"Erne, Bunerky",66,Lake,Bunerky,54.11667,-7.71556
+"Erne, CULLIES_040",66,River,CULLIES,53.96222,-7.60361
+"Erne, LAHEEN STREAM_010",66,River,LAHEEN STREAM,,
+"Tralee Bay-Feale, Gill KY",66,Lake,Gill KY,,
+"Erne, Glasshouse",66,Lake,Glasshouse,54.00333,-7.58333
+"Cork Harbour, Moy Killala, Levally",66,Lake,Levally,53.98083,-9.30389
+"Erne, Annagh",66,Lake,Annagh,53.77698,-8.77445
+"Erne, Bawn CN",66,Lake,Bawn CN,,
+"Shannon Estuary South, DEEL (NEWCASTLEWEST)_030",66,River,DEEL,52.61806,-8.98694
+"Laune-Maine-Dingle Bay, OWENROE (CARAGH)_010",66,River,OWENROE,51.94972,-9.87722
+"Upper Shannon (B), Key",66,Lake,Key,54.0,-8.25
+"Bandonllen, Skeagh",66,Lake,Skeagh,53.95,-7.0
+"Liffey and Dublin Bay, SANTRY_020",66,River,SANTRY,53.39812,-6.25268
+"Nore, TULLAROAN STREAM_010",66,River,TULLAROAN STREAM,,
+"Cork Harbour, Moy Killala, Castlebar",66,Lake,Castlebar,53.83893,-9.3466
+"Erriff-Clew Bay, Feeagh",66,Lake,Feeagh,53.93889,-9.57583
+"Lee, Cork Harbour and Youghal Bay, SULLANE_060",66,River,SULLANE,51.88333,-8.93333
+"Boyne, Drumkeery",66,Lake,Drumkeery,53.94472,-6.99278
+"Liffey and Dublin Bay, BRITTAS_010",66,River,BRITTAS,53.56667,-7.28333
+"Lee, Cork Harbour and Youghal Bay, OWENBOY (CORK)_020",66,River,OWENBOY,55.15,-7.4
+"Erne, Drumlona",65,Lake,Drumlona,54.1025,-7.02583
+"Slaney _ Wexford Harbour, Lower Slaney Estuary",65,Transitional,Lower Slaney Estuary,52.36045,-6.48064
+"Foyle, Finn DL",65,Lake,Finn DL,,
+"Erne, Derrycassan Mid",65,Lake,Derrycassan Mid,,
+"Cork Harbour, Moy Killala, LEE (CORK)_050",65,River,LEE,54.53583,-8.05944
+"Cork Harbour, Moy Killala, Washpool",65,Lake,Washpool,53.80021,-9.18681
+"Erne, Ardan",65,Lake,Ardan,54.05833,-7.4575
+"Dunmanus-Bantry-Kenmare, Bofinna",65,Lake,Bofinna,51.69222,-9.3875
+"Erne, Drumore",65,Lake,Drumore,,
+"Erne, Garadice",65,Lake,Garadice,54.0525,-7.71222
+"Erne, Scur",65,Lake,Scur,54.02667,-7.95222
+"Foyle, CARRIGANS_010",65,River,CARRIGANS,54.95,-7.43333
+"Shannon Estuary South, Maigue Estuary",65,Transitional,Maigue Estuary,,
+"Boyne, Acurry",65,Lake,Acurry,,
+"Liffey and Dublin Bay, CAMAC_020",65,River,CAMAC,,
+"Boyne, TROMMAN STREAM_010",65,River,TROMMAN STREAM,,
+"Tralee Bay-Feale, LEE (TRALEE)_010",65,River,LEE,54.53583,-8.05944
+"Lee, Cork Harbour and Youghal Bay, LEE (CORK)_050",65,River,LEE,54.53583,-8.05944
+"Laune-Maine-Dingle Bay, Cummernamuck",65,Lake,Cummernamuck,52.04889,-9.82778
+"Lough Swilly, LESLIE HILL STREAM_020",65,River,LESLIE HILL STREAM,,
+"Upper Shannon (C), Grange",65,Lake,Grange,52.77444,-8.01194
+"Upper Shannon (C), Forbes",65,Lake,Forbes,53.78333,-7.88333
+"Upper Shannon (C), Rowan",65,Lake,Rowan,54.00167,-7.87167
+"Liffey and Dublin Bay, Poddle_010",65,River,Poddle,,
+"Upper Shannon (C), Rinn",65,Lake,Rinn,53.88333,-7.85
+"Upper Shannon (F), Pound (Mountnugent)_010",65,River,Pound,54.50861,-8.19583
+"Bandonllen, Tooreen",65,Lake,Tooreen,52.32361,-9.61417
+"Bandonllen, Curraghalicky",65,Lake,Curraghalicky,51.67667,-9.10972
+"Upper Shannon (E), Killinure",64,Lake,Killinure,53.45,-7.9
+"Erne, Avaghon",64,Lake,Avaghon,54.06333,-6.95
+"Lough Swilly, CARN LOW_010",64,River,CARN LOW,,
+"Cork Harbour, Moy Killala, SULLANE_060",64,River,SULLANE,51.88333,-8.93333
+"Lee, Cork Harbour and Youghal Bay, GLASHEEN (Cork City)_010",64,River,GLASHEEN,,
+"Erne, Inner",64,Lake,Inner,54.10028,-7.05917
+"Lough Swilly, LEANNAN_020",64,River,LEANNAN,55.05,-7.71667
+"Lee, Cork Harbour and Youghal Bay, Carrigdrohid",64,Lake,Carrigdrohid,,
+"Lee, Cork Harbour and Youghal Bay, DRIPSEY_010",64,River,DRIPSEY,51.91556,-8.745
+"Lee, Cork Harbour and Youghal Bay, BRIDE (Cork City)_020",64,River,BRIDE,52.07278,-7.87222
+"Bandonllen, Ballin CK",64,River,Ballin CK,,
+"Erne, Mill CN",64,Lake,Mill CN,,
+"Upper Shannon (A), Allen",64,Lake,Allen,54.11667,-8.05
+"Upper Shannon (F), Kinale",64,Lake,Kinale,53.76667,-7.4
+"Lee, Cork Harbour and Youghal Bay, LEE (CORK)_060",63,River,LEE,54.53583,-8.05944
+"Cork Harbour, Moy Killala, LEE (CORK)_070",63,River,LEE,54.53583,-8.05944
+"Lee, Cork Harbour and Youghal Bay, TWO POT (Cork City)_010",63,River,TWO POT,52.1861,-8.67035
+"Lee, Cork Harbour and Youghal Bay, LEE (CORK)_070",63,River,LEE,54.53583,-8.05944
+"Lee, Cork Harbour and Youghal Bay, GLENNAMOUGHT TRIB BRIDE_010",63,River,GLENNAMOUGHT TRIB BRIDE,,
+"Erne, Tacker",63,Lake,Tacker,54.01667,-6.95
+"Donagh-Moville, CLONMANY_010",63,River,CLONMANY,55.27972,-7.435
+"Cork Harbour, Moy Killala, LEE (CORK)_060",63,River,LEE,54.53583,-8.05944
+"Cork Harbour, Moy Killala, River Foyle",63,River,River Foyle,54.98532,-7.33277
+"Cork Harbour, Moy Killala, DRIPSEY_010",63,River,DRIPSEY,51.91556,-8.745
+"Upper Shannon (C), Bofin LM",63,Lake,Bofin LM,,
+"Cork Harbour, Moy Killala, CARRIGANS_010",63,River,CARRIGANS,54.95,-7.43333
+"Foyle, River Foyle",63,River,River Foyle,54.98532,-7.33277
+"Newry, Fane, Glyde and Dee, Monalty",62,Lake,Monalty,53.96472,-6.68028
+"Sligo Bay _ Drowse, DIFFREEN_010",62,River,DIFFREEN,54.33833,-8.36611
+"Lough Neagh _ Lower Bann, Emy",62,Lake,Emy,54.33917,-6.93556
+"Donagh-Moville, LONG GLEN_010",62,River,LONG GLEN,55.25861,-7.00972
+"Shannon Estuary North, Inchiquin CE",62,Lake,Inchiquin CE,,
+"Foyle, Finn River",62,River,Finn River,,
+"Upper Shannon (C), Boderg",62,Lake,Boderg,53.86667,-7.98333
+"Bandonllen, Rosscarbery Bay",62,Coastal,Rosscarbery Bay,51.56583,-9.00417
+"Lee, Cork Harbour and Youghal Bay, AUGHNABOY (CORK)_010",62,River,AUGHNABOY,51.80167,-8.64667
+"Cork Harbour, Moy Killala, Carrigdrohid",62,Lake,Carrigdrohid,,
+"Newry, Fane, Glyde and Dee, Naglack",62,Lake,Naglack,53.96333,-6.69917
+"Nore, NORE_140",62,River,NORE,52.42417,-6.95806
+"Upper Shannon (E), ROCKSAVAGE_010",62,River,ROCKSAVAGE,53.99361,-6.63278
+"Lower Shannon (C), BALLYFINBOY_010",62,River,BALLYFINBOY,53.0325,-8.25111
+"Slaney _ Wexford Harbour, SLANEY_150",61,River,SLANEY,52.65662,-6.65117
+"Lee, Cork Harbour and Youghal Bay, North Channel Great Island",61,Transitional,North Channel Great Island,51.87953,-8.24844
+"Erne, BALLINAGH_010",61,River,BALLINAGH,53.93333,-7.41667
+"Lough Swilly, LESLIE HILL STREAM_010",61,River,LESLIE HILL STREAM,,
+"Dunmanus-Bantry-Kenmare, Namona",61,Lake,Namona,51.87833,-10.03861
+"Donagh-Moville, LOUGH NASTACKAN STREAM_010",61,River,LOUGH NASTACKAN STREAM,,
+"Slaney _ Wexford Harbour, KILLEEN STREAM (BORO)_010",61,River,KILLEEN STREAM,53.00917,-7.57167
+"Lee, Cork Harbour and Youghal Bay, CURRAGHEEN (Cork City)_010",61,River,CURRAGHEEN,,
+"Lower Shannon (B), SHANNON (LOWER)_030",61,River,SHANNON,52.58194,-9.68167
+"Slaney _ Wexford Harbour, BORO_030",61,River,BORO,52.46778,-6.56111
+"Upper Shannon (A), Acres",61,Lake,Acres,54.03889,-8.05194
+"Lower Shannon (C), Graney",60,Lake,Graney,52.9825,-8.66056
+"Upper Shannon (F), Derravaragh",60,Lake,Derravaragh,53.65,-7.36667
+"Suir, SUIR_040",60,River,SUIR,52.27333,-6.99556
+"Lee, Cork Harbour and Youghal Bay, BRIDE (Cork City)_010",60,River,BRIDE,52.07278,-7.87222
+"Nore, OWVEG (NORE)_010",60,River,OWVEG,52.35,-9.35
+"Ovoca-Vartry, POTTER'S_010",60,River,POTTER'S,,
+"Upper Shannon (D), LAURENCETOWN STREAM_010",60,River,LAURENCETOWN STREAM,,
+"Lough Swilly, BULLABA_010",60,River,BULLABA,54.98167,-7.94389
+"Cork Harbour, Moy Killala, Finn River",59,River,Finn River,,
+"Mal Bay, Keagh",59,Lake,Keagh,52.87417,-9.33278
+"Dunmanus-Bantry-Kenmare, Inchiquin KY",59,Lake,Inchiquin KY,,
+"Lee, Cork Harbour and Youghal Bay, SHOURNAGH_040",59,River,SHOURNAGH,51.89833,-8.57111
+"Shannon Estuary North, Bridget",59,Lake,Bridget,52.87333,-8.64889
+"Shannon Estuary North, Cullaunyheeda",59,Lake,Cullaunyheeda,52.82056,-8.76667
+"Shannon Estuary North, Rosroe",59,Lake,Rosroe,52.77167,-8.82306
+"Laune-Maine-Dingle Bay, Castlemaine Harbour",59,Transitional,Castlemaine Harbour,52.14333,-9.86778
+"Lee, Cork Harbour and Youghal Bay, BRIDE (LEE)_030",59,River,BRIDE,52.07278,-7.87222
+"Owenavorragh, CAHORE CANAL_010",59,River,CAHORE CANAL,,
+"Upper Shannon (B), Gara",59,Lake,Gara,53.92373,-8.45425
+"Suir, GLENARY_010",58,River,GLENARY,52.31556,-7.79111
+"Cork Harbour, Moy Killala, SHOURNAGH_040",58,River,SHOURNAGH,51.89833,-8.57111
+"Nore, KING'S (KILKENNY)_020",58,River,KING'S,53.31528,-7.94722
+"Nore, GLORY_020",58,River,GLORY,52.53861,-7.28861
+"Gweebarra-Sheephaven, RAY_010",58,River,RAY,55.16167,-8.08056
+"Suir, DUAG_030",58,River,DUAG,52.28028,-7.9825
+"Upper Shannon (B), CARRICKNABRAHER_010",58,River,CARRICKNABRAHER,,
+"Boyne, Dublin",57,River,Dublin,53.33444,-6.11056
+"Liffey and Dublin Bay, Dublin",57,River,Dublin,53.33444,-6.11056
+"Barrow, Dublin",57,River,Dublin,53.33444,-6.11056
+"Slaney _ Wexford Harbour, CARRIGOWER_020",57,River,CARRIGOWER,,
+"Nanny-Delvin, Dublin",57,River,Dublin,53.33444,-6.11056
+"Slaney _ Wexford Harbour, ROSNASTRAW STREAM_010",56,River,ROSNASTRAW STREAM,,
+"Donegal Bay North, BUNLACKY_010",56,River,BUNLACKY,,
+"Lough Swilly, GLASHAGH (UPPER)_020",56,River,GLASHAGH,55.025,-7.695
+"Liffey and Dublin Bay, BRITTAS_020",56,River,BRITTAS,53.56667,-7.28333
+"Ovoca-Vartry, REDCROSS_010",56,River,REDCROSS,52.84179,-6.09992
+"Upper Shannon (A), SHANNON (Upper)_010",56,River,SHANNON,52.58194,-9.68167
+"Ovoca-Vartry, DERRY WATER_020",56,River,DERRY WATER,52.84963,-6.34154
+"Boyne, YELLOW (CASTLEJORDAN)_020",56,River,YELLOW,53.38556,-7.08361
+"Slaney _ Wexford Harbour, ROSNASTRAW STREAM_020",56,River,ROSNASTRAW STREAM,,
+"Slaney _ Wexford Harbour, CARRIGOWER_010",56,River,CARRIGOWER,,
+"Nore, MOUNTRATH_010",56,River,MOUNTRATH,52.9625,-7.37028
+"Shannon Estuary South, Bruree",55,River,Bruree,52.42194,-8.66417
+"Lough Neagh _ Lower Bann, CLONTIBRET STREAM_020",55,River,CLONTIBRET STREAM,,
+"Newry, Fane, Glyde and Dee, GENTLE OWEN'S LAKE STREAM_020",55,River,GENTLE OWEN'S LAKE STREAM,,
+"Shannon Estuary North, Lower Shannon Estuary",55,Transitional,Lower Shannon Estuary,,
+"Newry, Fane, Glyde and Dee, ROSSDREENAGH STREAM_020",55,River,ROSSDREENAGH STREAM,,
+"Foyle, DEELE (DONEGAL)_010",55,River,DEELE,54.9,-7.88333
+"Lee, Cork Harbour and Youghal Bay, DUNGOURNEY_020",54,River,DUNGOURNEY,51.96833,-8.09722
+"Slaney _ Wexford Harbour, COOLBOY_020",54,River,COOLBOY,52.75944,-6.46028
+"Ovoca-Vartry, AVONMORE_050",54,River,AVONMORE,52.88333,-6.23333
+"Slaney _ Wexford Harbour, SHILLELAGH_010",54,River,SHILLELAGH,52.68194,-6.66694
+"Cork Harbour, Moy Killala, GWEESTION_010",54,River,GWEESTION,53.92921,-9.07359
+"Corrib, Mask Upper",54,Lake,Mask Upper,,
+"Lee, Cork Harbour and Youghal Bay, BRIDE (LEE)_050",54,River,BRIDE,52.07278,-7.87222
+"Galway Bay North, TRUSKY STREAM_010",54,River,TRUSKY STREAM,,
+"Lough Swilly, OWENERK_020",54,River,OWENERK,55.20278,-7.53944
+"foyal, TRUSKY STREAM_010",54,River,TRUSKY STREAM,,
+"Moy _ Killala Bay, GWEESTION_010",54,River,GWEESTION,53.92921,-9.07359
+"Newry, Fane, Glyde and Dee, Spring",54,Lake,Spring,53.975,-6.68667
+"Erne, DROMORE_050",54,River,DROMORE,52.91962,-8.97256
+"Galway Bay South East, Cutra",54,Lake,Cutra,53.03556,-8.78167
+"Upper Shannon (A), BELLAVALLY STREAM_010",54,River,BELLAVALLY STREAM,,
+"Boyne, BLACKWATER (KELLS)_080",54,River,BLACKWATER,51.85,-9.75
+"Corrib, CLARE (GALWAY)_020",53,River,CLARE,52.91962,-8.97256
+"Moy _ Killala Bay, MOY_050",53,River,MOY,54.18524,-9.1396
+"Lough Neagh _ Lower Bann, More MN",53,Lake,More MN,,
+"Donegal Bay North, CORABBER_010",53,River,CORABBER,54.72056,-8.04222
+"Moy _ Killala Bay, CLOONAGHMORE_060",53,River,CLOONAGHMORE,54.23333,-9.26667
+"Erne, Killcoran",53,Lake,Killcoran,,
+"Erne, Farnharn",53,Lake,Farnharn,,
+"Liffey and Dublin Bay, Dublin Bay",53,Coastal,Dublin Bay,53.33444,-6.11056
+"Lough Swilly, LURGY_010",53,River,LURGY,55.03583,-7.76556
+"Erne, Cullinaghan",53,Lake,Cullinaghan,,
+"Erne, FINN (MONAGHAN)_030",53,River,FINN,54.86111,-8.13861
+"Erne, Drumlaheen",53,Lake,Drumlaheen,54.01389,-7.86472
+"Ovoca-Vartry, KILMACANOGE_010",53,River,KILMACANOGE,53.16722,-6.13361
+"Galway Bay North, RECESS_020",53,River,RECESS,53.46667,-9.73333
+"Cork Harbour, Moy Killala, CLOONAGHMORE_060",53,River,CLOONAGHMORE,54.23333,-9.26667
+"foyal, RECESS_020",53,River,RECESS,53.46667,-9.73333
+"Barrow, Athy-Bagnelstown Gravels",53,River,Athy-Bagnelstown Gravels,,
+"Foyle, DEELE (DONEGAL)_020",53,River,DEELE,54.9,-7.88333
+"Donagh-Moville, STRAID_010",52,River,STRAID,53.03806,-7.08972
+"foyal, RECESS_030",52,River,RECESS,53.46667,-9.73333
+"Gweebarra-Sheephaven, Naglea",52,Lake,Naglea,55.21972,-7.74417
+"Donegal Bay North, CROW_010",52,River,CROW,54.70389,-8.60194
+"Erne, Corconnelly",52,Lake,Corconnelly,,
+"Erriff-Clew Bay, CARROWBEG (WESTPORT)_020",52,River,CARROWBEG,53.89952,-9.63526
+"Erriff-Clew Bay, BUNOWEN (KILLARY HARBOUR)_010",52,River,BUNOWEN,53.76667,-9.81667
+"Galway Bay North, RECESS_030",52,River,RECESS,53.46667,-9.73333
+"Nore, NORE_230",52,River,NORE,52.42417,-6.95806
+"Moy _ Killala Bay, OWENAHER_020",52,River,OWENAHER,54.06861,-8.82194
+"Moy _ Killala Bay, CORSALLAGH STREAM_010",52,River,CORSALLAGH STREAM,,
+"Lower Shannon (D), North Ballycannan_010",52,River,North Ballycannan,,
+"Donegal Bay North, FINTRAGH_010",52,River,FINTRAGH,54.62583,-8.4925
+"Corrib, CLOGHBRACK STREAM_010",52,River,CLOGHBRACK STREAM,,
+"Lough Swilly, OWENBOY (CRANA)_010",51,River,OWENBOY,55.15,-7.4
+"Foyle, FINN (DONEGAL)_040",51,River,FINN,54.86111,-8.13861
+"Lough Swilly, OWENNASOP_010",51,River,OWENNASOP,,
+"foyal, Seecon",51,Lake,Seecon,,
+"Newry, Fane, Glyde and Dee, Brackan",51,Lake,Brackan,52.62889,-6.30056
+"Cork Harbour, Moy Killala, LEAFFONY_010",51,River,LEAFFONY,54.26667,-9.06667
+"Boyne, STONYFORD_040",51,River,STONYFORD,52.53639,-7.22
+"Foyle, FINN (DONEGAL)_070",51,River,FINN,54.86111,-8.13861
+"Shannon Estuary South, Deel Estuary",51,Transitional,Deel Estuary,,
+"Galway Bay North, Seecon",51,Lake,Seecon,,
+"Boyne, STONYFORD_030",51,River,STONYFORD,52.53639,-7.22
+"Erne, Gorman",51,Lake,Gorman,54.54667,-8.13222
+"Dunmanus-Bantry-Kenmare, INNY (KERRY)_030",50,River,INNY,51.85722,-10.18167
+"Ovoca-Vartry, GLENDASAN_010",50,River,GLENDASAN,53.0125,-6.35611
+"Lough Swilly, Swilly Estuary",50,Transitional,Swilly Estuary,,
+"Lough Swilly, MILL (DONEGAL)_020",50,River,MILL,54.14417,-6.71083
+"Dunmanus-Bantry-Kenmare, MEALAGH_020",50,River,MEALAGH,51.69448,-9.4418
+"Newry, Fane, Glyde and Dee, TERMONFECKIN_020",50,River,TERMONFECKIN,53.76333,-6.26778
+"Corrib, ABBERT_010",50,River,ABBERT,53.41667,-8.88333
+"Slaney _ Wexford Harbour, DERREEN_020",50,River,DERREEN,53.82816,-9.17346
+"Sligo Bay _ Drowse, Carrowmore East",49,River,Carrowmore East,,
+"Erne, Atrain",49,Lake,Atrain,53.99417,-7.44417
+"Dunmanus-Bantry-Kenmare, Inner Kenmare River",49,Transitional,Inner Kenmare River,,
+"Suir, Cappoquin Kiltorcan",49,River,Cappoquin Kiltorcan,,
+"Donegal Bay North, GLEN (CARRICK)_010",49,River,GLEN,54.34111,-8.38667
+"Boyne, DEVLIN'S_010",49,River,DEVLIN'S,,
+"Boyne, DEVLIN'S_020",49,River,DEVLIN'S,,
+"Shannon Estuary South, Rathmore West",49,River,Rathmore West,,
+"Foyle, FINN (DONEGAL)_030",49,River,FINN,54.86111,-8.13861
+"Nore, Nore Estuary",49,Transitional,Nore Estuary,,
+"Barrow, Nore Estuary",49,River,Nore Estuary,,
+"Shannon Estuary South, BALLYLONGFORD_020",49,River,BALLYLONGFORD,52.5729,-9.48154
+"Lee, Cork Harbour and Youghal Bay, BRIDE (LEE)_020",49,River,BRIDE,52.07278,-7.87222
+"Colligan-Mahon, Cappoquin Kiltorcan",49,River,Cappoquin Kiltorcan,,
+"Gweebarra-Sheephaven, GWEEDORE_010",49,River,GWEEDORE,55.04944,-8.32444
+"Upper Shannon (A), OWENNAYLE_020",48,River,OWENNAYLE,54.18333,-8.03333
+"Tralee Bay-Feale, Cashen",48,Transitional,Cashen,52.48,-9.65722
+"Nanny-Delvin, Rogerstown Estuary",48,Transitional,Rogerstown Estuary,,
+"Suir, FARNEYBRIDGE_020",48,River,FARNEYBRIDGE,52.64028,-7.91944
+"Slaney _ Wexford Harbour, SLANEY_130",48,River,SLANEY,52.65662,-6.65117
+"Erne, DROMORE_020",48,River,DROMORE,52.91962,-8.97256
+"Cork Harbour, Moy Killala, FINN (DONEGAL)_070",48,River,FINN,54.86111,-8.13861
+"Foyle, FINN (DONEGAL)_010",48,River,FINN,54.86111,-8.13861
+"Boyne, CROSSKEYS STREAM_010",47,River,CROSSKEYS STREAM,,
+"Boyne, ATHBOY_020",47,River,ATHBOY,53.59191,-6.88222
+"Boyne, ATHBOY_010",47,River,ATHBOY,53.59191,-6.88222
+"Lower Shannon (D), Upper Shannon Estuary",47,Transitional,Upper Shannon Estuary,,
+"Shannon Estuary North, Upper Shannon Estuary",47,Transitional,Upper Shannon Estuary,,
+"Boyne, CLADY (MEATH)_020",47,River,CLADY,55.05806,-8.31417
+"Newry, Fane, Glyde and Dee, DEE_040",47,River,DEE,53.8825,-6.34972
+"Newry, Fane, Glyde and Dee, FANE_020",47,River,FANE,53.95222,-6.46583
+"Nore, NORE_190",47,River,NORE,52.42417,-6.95806
+"Nanny-Delvin, DUNSHAUGHLIN STREAM_010",47,River,DUNSHAUGHLIN STREAM,,
+"Newry, Fane, Glyde and Dee, KILMAINHAM (DEE)_010",47,River,KILMAINHAM,53.85,-6.80917
+"Nanny-Delvin, HURLEY_020",47,River,HURLEY,,
+"Suir, Ballyscanlan",47,Lake,Ballyscanlan,52.17389,-7.20417
+"Lough Swilly, GLAR_010",46,River,GLAR,,
+"Nore, ERRILL_010",46,River,ERRILL,52.85889,-7.68528
+"Slaney _ Wexford Harbour, SLANEY_040",46,River,SLANEY,52.65662,-6.65117
+"Donagh-Moville, ARDAGH_010",46,River,ARDAGH,52.03528,-9.48028
+"Donegal Bay North, Killybegs Harbour",46,Coastal,Killybegs Harbour,54.63333,-8.43333
+"Liffey and Dublin Bay, Liffey Estuary Lower",46,Transitional,Liffey Estuary Lower,,
+"Donegal Bay North, OWENTESKINY_010",46,River,OWENTESKINY,54.70972,-8.60444
+"Donagh-Moville, ROOSKY_010",46,River,ROOSKY,54.02963,-9.07864
+"Foyle, ROUGH BURN_010",45,River,ROUGH BURN,,
+"Boyne, D'ARCY'S CROSSROADS STREAM_010",45,River,D'ARCY'S CROSSROADS STREAM,,
+"Newry, Fane, Glyde and Dee, Drogheda",45,River,Drogheda,53.71889,-6.34778
+"Nanny-Delvin, Drogheda",45,River,Drogheda,53.71889,-6.34778
+"Lough Neagh _ Lower Bann, MOUNTAIN WATER_050",45,River,MOUNTAIN WATER,54.33225,-6.86812
+"Cork Harbour, Moy Killala, Wicklow",45,River,Wicklow,53.10472,-6.26861
+"Liffey and Dublin Bay, Wicklow",45,River,Wicklow,53.10472,-6.26861
+"Owenavorragh, Wicklow",45,River,Wicklow,53.10472,-6.26861
+"Slaney _ Wexford Harbour, Wicklow",45,River,Wicklow,53.10472,-6.26861
+"Boyne, Drogheda",45,River,Drogheda,53.71889,-6.34778
+"Barrow, Curragh Gravels West",44,River,Curragh Gravels West,,
+"Cork Harbour, Moy Killala, ROUGH BURN_010",44,River,ROUGH BURN,,
+"Boyne, Lusk-Bog of the Ring",44,River,Lusk-Bog of the Ring,,
+"Liffey and Dublin Bay, Curragh Gravels West",44,River,Curragh Gravels West,,
+"Erne, KNAPPAGH_040",44,River,KNAPPAGH,54.0325,-6.96583
+"Liffey and Dublin Bay, Irish Sea Dublin (HA 09)",44,Coastal,Irish Sea Dublin,,
+"Liffey and Dublin Bay, Lusk-Bog of the Ring",44,River,Lusk-Bog of the Ring,,
+"Tralee Bay-Feale, CLYDAGH (FEALE)_020",44,River,CLYDAGH,53.94833,-9.17894
+"Tralee Bay-Feale, Ballylongford",44,River,Ballylongford,52.5729,-9.48154
+"Nanny-Delvin, Lusk-Bog of the Ring",44,River,Lusk-Bog of the Ring,,
+"Bandonllen, Outer Cork Harbour",44,Coastal,Outer Cork Harbour,,
+"Barrow, Lower Suir Estuary (Little Island - Cheekpoint)",43,River,Lower Suir Estuary,,
+"Liffey and Dublin Bay, Liffey Estuary Upper",43,Transitional,Liffey Estuary Upper,,
+"Erne, Clones",43,River,Clones,54.18333,-7.23333
+"Lee, Cork Harbour and Youghal Bay, Outer Cork Harbour",43,Coastal,Outer Cork Harbour,,
+"Sligo Bay _ Drowse, Ballymote",43,River,Ballymote,54.08333,-8.51667
+"Moy _ Killala Bay, Ballymote",43,River,Ballymote,54.08333,-8.51667
+"Owenavorragh, LITTER_MORE_010",43,River,LITTER_MORE,,
+"Colligan-Mahon, Lismore",43,River,Lismore,52.13667,-7.93083
+"Dunmanus-Bantry-Kenmare, Derriana",43,Lake,Derriana,51.89528,-10.01417
+"Suir, Lower Suir Estuary (Little Island - Cheekpoint)",43,Transitional,Lower Suir Estuary,,
+"Suir, MULTEEN (EAST)_010",43,River,MULTEEN,52.51667,-8.01667
+"Boyne, Boyne Estuary",43,Transitional,Boyne Estuary,,
+"Moy _ Killala Bay, Carrick on Shannon",43,River,Carrick on Shannon,53.94694,-8.09
+"Nore, Lower Suir Estuary (Little Island - Cheekpoint)",43,Transitional,Lower Suir Estuary,,
+"Erne, Carrick on Shannon",43,River,Carrick on Shannon,53.94694,-8.09
+"Donegal Bay North, BRIDGETOWN (DONEGAL)_010",43,River,BRIDGETOWN,52.21748,-6.65242
+"Suir, Charleville",43,River,Charleville,52.35,-8.68333
+"Gweebarra-Sheephaven, FAYMORE_010",43,River,FAYMORE,55.13417,-7.90472
+"Donegal Bay North, BALLINTRA_010",43,River,BALLINTRA,54.57694,-8.11972
+"Lower Shannon (A), Clonaslee West",42,River,Clonaslee West,,
+"Lower Shannon (A), CLODIAGH (TULLAMORE)_020",42,River,CLODIAGH,52.29,-7.28583
+"Ballyteigue-Bannow, New Ross",42,River,New Ross,52.39667,-6.93667
+"Nore, Killkenny-Ballynakill Gravels",42,River,Killkenny-Ballynakill Gravels,,
+"Nore, New Ross",42,River,New Ross,52.39667,-6.93667
+"Lower Shannon (B), Clonaslee West",42,River,Clonaslee West,,
+"Barrow, Clonaslee West",42,River,Clonaslee West,,
+"Donegal Bay North, Ballyshannon",42,River,Ballyshannon,54.5,-8.18333
+"Boyne, Longwood",42,River,Longwood,53.45389,-6.92194
+"Moy _ Killala Bay, Foxford",42,River,Foxford,53.9807,-9.11551
+"Liffey and Dublin Bay, New Ross",42,River,New Ross,52.39667,-6.93667
+"Sligo Bay _ Drowse, Kilkelly Charlestown",42,River,Kilkelly Charlestown,,
+"Suir, Cahir",42,River,Cahir,52.37694,-7.92167
+"Donagh-Moville, East Inishowen",42,River,East Inishowen,,
+"Donegal Bay North, McSwines Bay",42,Coastal,McSwines Bay,,
+"Erne, Ballyshannon",42,River,Ballyshannon,54.5,-8.18333
+"Sligo Bay _ Drowse, Foxford",42,River,Foxford,53.9807,-9.11551
+"Lough Swilly, East Inishowen",42,River,East Inishowen,,
+"Donegal Bay North, Donegal Bay Northern",42,Coastal,Donegal Bay Northern,54.53333,-8.5
+"Erne, Knockatallon",42,River,Knockatallon,54.29439,-7.14867
+"Sligo Bay _ Drowse, Donegal Bay Northern",42,Coastal,Donegal Bay Northern,54.53333,-8.5
+"Erriff-Clew Bay, Foxford",42,River,Foxford,53.9807,-9.11551
+"Erne, Tydavnet",42,River,Tydavnet,54.29587,-7.01576
+"Erne, Glencar",42,River,Glencar,54.34111,-8.38667
+"Slaney _ Wexford Harbour, New Ross",42,River,New Ross,52.39667,-6.93667
+"Barrow, New Ross",42,River,New Ross,52.39667,-6.93667
+"Moy _ Killala Bay, Kilkelly Charlestown",42,River,Kilkelly Charlestown,,
+"Donagh-Moville, Carndonagh Gravels",42,River,Carndonagh Gravels,,
+"Lee, Cork Harbour and Youghal Bay, Ballinhassig West",41,River,Ballinhassig West,,
+"Dunmanus-Bantry-Kenmare, Ballinhassig West",41,River,Ballinhassig West,,
+"Upper Shannon (E), Carrick on Shannon",41,River,Carrick on Shannon,53.94694,-8.09
+"Shannon Estuary South, Herbertstown",41,River,Herbertstown,52.51861,-8.46556
+"Lower Shannon (B), Rathdowney",41,River,Rathdowney,52.85472,-7.58028
+"Lee, Cork Harbour and Youghal Bay, Cloyne",41,River,Cloyne,51.86278,-8.12444
+"Ovoca-Vartry, AVOCA_030",41,River,AVOCA,52.79342,-6.13793
+"Upper Shannon (D), Tynagh",41,River,Tynagh,53.14944,-8.3725
+"Cork Harbour, Moy Killala, Clonaslee West",41,River,Clonaslee West,,
+"Dunmanus-Bantry-Kenmare, OWNAGAPPUL_010",41,River,OWNAGAPPUL,,
+"Colligan-Mahon, Knockmealdown",41,River,Knockmealdown,52.22778,-7.91528
+"Upper Shannon (D), Carrick on Shannon",41,River,Carrick on Shannon,53.94694,-8.09
+"Shannon Estuary North, Ballyvaughan Uplands",41,River,Ballyvaughan Uplands,,
+"Owenavorragh, Cahore Point",41,River,Cahore Point,52.56417,-6.19111
+"Donagh-Moville, DONAGH_010",41,River,DONAGH,55.27806,-7.26667
+"Cork Harbour, Moy Killala, Ballinhassig West",41,River,Ballinhassig West,,
+"Galway Bay South East, Kinvara-Gort",41,River,Kinvara-Gort,,
+"Colligan-Mahon, Tramore",41,River,Tramore,51.87861,-8.43472
+"Upper Shannon (B), Carrick on Shannon",41,River,Carrick on Shannon,53.94694,-8.09
+"Lower Shannon (B), Cloughjordan-Moneygall Gravels",41,River,Cloughjordan-Moneygall Gravels,,
+"Owenavorragh, Enniscorthy",41,River,Enniscorthy,52.50083,-6.55778
+"Lower Shannon (A), Rhode",41,River,Rhode,53.35222,-7.20167
+"Galway Bay South East, Tynagh",41,River,Tynagh,53.14944,-8.3725
+"Laune-Maine-Dingle Bay, Ballinhassig West",41,River,Ballinhassig West,,
+"Lower Shannon (A), Daingean",41,River,Daingean,53.29611,-7.28944
+"Boyne, Rhode",41,River,Rhode,53.35222,-7.20167
+"Mal Bay, Ballyvaughan Uplands",41,River,Ballyvaughan Uplands,,
+"Barrow, Cushina",41,River,Cushina,53.18917,-7.09667
+"foyal, Maam-Clonbur",41,River,Maam-Clonbur,,
+"Donegal Bay North, Ballyshannon East",41,River,Ballyshannon East,,
+"Bandonllen, Ballinhassig West",41,River,Ballinhassig West,,
+"Upper Shannon (A), Carrick on Shannon",41,River,Carrick on Shannon,53.94694,-8.09
+"Suir, Knockmealdown",41,River,Knockmealdown,52.22778,-7.91528
+"Upper Shannon (A), Ballymote",41,River,Ballymote,54.08333,-8.51667
+"Ballyteigue-Bannow, Fardystown",41,River,Fardystown,,
+"Lower Shannon (D), Herbertstown",41,River,Herbertstown,52.51861,-8.46556
+"Lower Shannon (B), Tynagh",41,River,Tynagh,53.14944,-8.3725
+"Lower Shannon (C), Cloughjordan-Moneygall Gravels",41,River,Cloughjordan-Moneygall Gravels,,
+"Erne, Ballyshannon East",41,River,Ballyshannon East,,
+"Lower Shannon (C), Tynagh",41,River,Tynagh,53.14944,-8.3725
+"Cork Harbour, Moy Killala, Tynagh",41,River,Tynagh,53.14944,-8.3725
+"Suir, Rathdowney",41,River,Rathdowney,52.85472,-7.58028
+"Boyne, Daingean",41,River,Daingean,53.29611,-7.28944
+"Slaney _ Wexford Harbour, Upper Slaney Estuary",41,Transitional,Upper Slaney Estuary,,
+"Erne, Monaghan Town",41,River,Monaghan Town,54.13667,-6.69139
+"Suir, Tramore",41,River,Tramore,51.87861,-8.43472
+"Barrow, Daingean",41,Lake,Daingean,53.29611,-7.28944
+"Lee, Cork Harbour and Youghal Bay, Midleton",41,River,Midleton,51.91526,-8.18052
+"Upper Shannon (C), Carrick on Shannon",41,River,Carrick on Shannon,53.94694,-8.09
+"Suir, Middle Suir Estuary",41,Transitional,Middle Suir Estuary,,
+"Cork Harbour, Moy Killala, Carrick on Shannon",41,River,Carrick on Shannon,53.94694,-8.09
+"Erne, Newtown-Ballyconnell",41,River,Newtown-Ballyconnell,,
+"Barrow, Rathdowney",41,River,Rathdowney,52.85472,-7.58028
+"Suir, North Kilmallock",41,River,North Kilmallock,,
+"Lough Neagh _ Lower Bann, Clones",41,River,Clones,54.18333,-7.23333
+"Slaney _ Wexford Harbour, Enniscorthy",41,River,Enniscorthy,52.50083,-6.55778
+"Slaney _ Wexford Harbour, Fardystown",41,River,Fardystown,,
+"Erne, Louth",41,River,Louth,53.99306,-6.54167
+"Erriff-Clew Bay, Maam-Clonbur",41,River,Maam-Clonbur,,
+"Tralee Bay-Feale, Ardfert",41,River,Ardfert,52.32261,-9.77774
+"Tralee Bay-Feale, Ballybunnion",41,River,Ballybunnion,52.51534,-9.68548
+"Slaney _ Wexford Harbour, Cahore Point",41,River,Cahore Point,52.56417,-6.19111
+"Nore, Rathdowney",41,River,Rathdowney,52.85472,-7.58028
+"Galway Bay South East, Ballyvaughan Uplands",41,River,Ballyvaughan Uplands,,
+"Galway Bay North, Maam-Clonbur",41,River,Maam-Clonbur,,
+"Shannon Estuary North, Kinvara-Gort",41,River,Kinvara-Gort,,
+"Boyne, Cushina",41,River,Cushina,53.18917,-7.09667
+"Barrow, Rhode",41,River,Rhode,53.35222,-7.20167
+"Colligan-Mahon, Comeragh",40,River,Comeragh,52.27972,-7.56639
+"Owenavorragh, Inch",40,River,Inch,53.27167,-9.16833
+"Lower Shannon (D), Knockroe East",40,River,Knockroe East,,
+"Moy _ Killala Bay, Moy Estuary",40,Transitional,Moy Estuary,,
+"Barrow, Ballingarry",40,River,Ballingarry,52.58722,-7.54
+"Barrow, Bagenalstown Lower",40,River,Bagenalstown Lower,,
+"Bandonllen, Kinsale Harbour",40,Coastal,Kinsale Harbour,51.67028,-8.50639
+"Ballyteigue-Bannow, Adamstown",40,River,Adamstown,52.39417,-6.71694
+"Barrow, Adamstown",40,River,Adamstown,52.39417,-6.71694
+"Barrow, Barrow Nore Estuary Upper",40,Transitional,Barrow Nore Estuary Upper,,
+"Barrow, Portlaoise-Mountmellick Gravels",40,River,Portlaoise-Mountmellick Gravels,,
+"Laune-Maine-Dingle Bay, Castlemaine",40,River,Castlemaine,52.14333,-9.86778
+"Laune-Maine-Dingle Bay, Cahersiveen",40,River,Cahersiveen,51.94861,-10.22222
+"Gweebarra-Sheephaven, MURLIN_020",40,River,MURLIN,,
+"Colligan-Mahon, Dungarvan",40,River,Dungarvan,52.06806,-7.57806
+"Shannon Estuary North, GWDTE-Caherglassaun Turlough (SAC000238)",40,River,GWDTE-Caherglassaun Turlough,,
+"Galway Bay South East, Ennis",40,River,Ennis,52.84361,-8.98639
+"Galway Bay South East, Clarinbridge",40,River,Clarinbridge,53.22639,-8.88306
+"Galway Bay South East, Maam-Clonbur",40,River,Maam-Clonbur,,
+"Lower Shannon (A), Shinrone",40,River,Shinrone,52.9825,-7.92444
+"Lower Shannon (B), Coolrain",40,River,Coolrain,52.97972,-7.56861
+"Gweebarra-Sheephaven, STRACASHEL_020",40,River,STRACASHEL,54.81778,-8.18528
+"Laune-Maine-Dingle Bay, Laune Muckross",40,River,Laune Muckross,,
+"Upper Shannon (B), Kilkelly Charlestown",40,River,Kilkelly Charlestown,,
+"Colligan-Mahon, Waterford",40,River,Waterford,52.18122,-6.92877
+"Shannon Estuary North, Ennis",40,River,Ennis,52.84361,-8.98639
+"Tralee Bay-Feale, Castlemaine",40,River,Castlemaine,52.14333,-9.86778
+"Nore, Newtown",40,River,Newtown,53.65707,-7.03427
+"Lee, Cork Harbour and Youghal Bay, Cahersiveen",40,River,Cahersiveen,51.94861,-10.22222
+"Nore, Upper Barrow Estuary",40,Transitional,Upper Barrow Estuary,,
+"Nore, Waterford",40,River,Waterford,52.18122,-6.92877
+"Dunmanus-Bantry-Kenmare, Outer Kenmare River",40,Coastal,Outer Kenmare River,,
+"Dunmanus-Bantry-Kenmare, Cahersiveen",40,River,Cahersiveen,51.94861,-10.22222
+"Corrib, Maam-Clonbur",40,River,Maam-Clonbur,,
+"Corrib, Clarinbridge",40,River,Clarinbridge,53.22639,-8.88306
+"Lower Shannon (B), Banagher",40,River,Banagher,54.70389,-8.08806
+"Upper Shannon (E), Funshinagh",40,River,Funshinagh,53.51667,-8.1
+"Suir, Ballingarry",40,River,Ballingarry,52.58722,-7.54
+"Lower Shannon (B), Shinrone",40,River,Shinrone,52.9825,-7.92444
+"Suir, BALLYCLERIHAN STREAM_010",40,River,BALLYCLERIHAN STREAM,,
+"Upper Shannon (D), Funshinagh",40,River,Funshinagh,53.51667,-8.1
+"Barrow, Upper Barrow Estuary",40,River,Upper Barrow Estuary,,
+"Lower Shannon (A), Banagher",40,River,Banagher,54.70389,-8.08806
+"Nore, Bagenalstown Lower",40,River,Bagenalstown Lower,,
+"Upper Shannon (C), SHANNON (Upper)_090",40,River,SHANNON,52.58194,-9.68167
+"Galway Bay South East, GWDTE-Caherglassaun Turlough (SAC000238)",40,River,GWDTE-Caherglassaun Turlough,,
+"Galway Bay South East, GWDTE-Coy Turlough (SAC002117)",40,River,GWDTE-Coy Turlough,,
+"Shannon Estuary South, Knockroe East",40,River,Knockroe East,,
+"Cork Harbour, Moy Killala, Cahersiveen",40,River,Cahersiveen,51.94861,-10.22222
+"Ovoca-Vartry, Kilcoole Gravels",40,River,Kilcoole Gravels,,
+"Lower Shannon (C), Banagher",40,River,Banagher,54.70389,-8.08806
+"Cork Harbour, Moy Killala, Foxford",40,River,Foxford,53.9807,-9.11551
+"Suir, Waterford",40,River,Waterford,52.18122,-6.92877
+"Slaney _ Wexford Harbour, Adamstown",40,River,Adamstown,52.39417,-6.71694
+"Barrow, Narraghmore Gravels",40,River,Narraghmore Gravels,,
+"Barrow, Newtown",40,River,Newtown,53.65707,-7.03427
+"Barrow, Kilkenny",40,River,Kilkenny,52.31222,-7.09722
+"Slaney _ Wexford Harbour, Inch",40,River,Inch,53.27167,-9.16833
+"Slaney _ Wexford Harbour, MILLTOWN ROSLARE_010",40,River,MILLTOWN ROSLARE,,
+"Upper Shannon (D), Ballygar",40,River,Ballygar,53.52162,-8.32738
+"Boyne, Louth",40,River,Louth,53.99306,-6.54167
+"Lough Neagh _ Lower Bann, Tydavnet",40,River,Tydavnet,54.29587,-7.01576
+"Newry, Fane, Glyde and Dee, Louth",40,River,Louth,53.99306,-6.54167
+"Nore, Callan",40,River,Callan,52.545,-7.39111
+"Nore, Coolrain",40,River,Coolrain,52.97972,-7.56861
+"Lough Neagh _ Lower Bann, Monaghan Town",40,River,Monaghan Town,54.13667,-6.69139
+"Nore, Barrow Nore Estuary Upper",40,Transitional,Barrow Nore Estuary Upper,,
+"Upper Shannon (C), Funshinagh",40,River,Funshinagh,53.51667,-8.1
+"Nore, Shinrone",40,River,Shinrone,52.9825,-7.92444
+"Nore, Stoneyford Gravels",40,River,Stoneyford Gravels,,
+"Lee, Cork Harbour and Youghal Bay, Lee Valley Gravels",40,River,Lee Valley Gravels,,
+"Nore, Ballingarry",40,River,Ballingarry,52.58722,-7.54
+"Barrow, Goresbridge North",40,River,Goresbridge North,,
+"Nore, GULLY_030",40,River,GULLY,52.94306,-7.44722
+"Cork Harbour, Moy Killala, GWDTE-Caherglassaun Turlough (SAC000238)",40,River,GWDTE-Caherglassaun Turlough,,
+"Cork Harbour, Moy Killala, Shinrone",40,River,Shinrone,52.9825,-7.92444
+"Cork Harbour, Moy Killala, Kilkelly Charlestown",40,River,Kilkelly Charlestown,,
+"Erne, KNAPPAGH_030",40,River,KNAPPAGH,54.0325,-6.96583
+"Nore, Kilkenny",40,River,Kilkenny,52.31222,-7.09722
+"Nore, Goresbridge North",40,River,Goresbridge North,,
+"Cork Harbour, Moy Killala, Lee Valley Gravels",40,River,Lee Valley Gravels,,
+"Suir, Shinrone",40,River,Shinrone,52.9825,-7.92444
+"Lower Shannon (C), GWDTE-Coy Turlough (SAC002117)",40,River,GWDTE-Coy Turlough,,
+"Barrow, Coolrain",40,River,Coolrain,52.97972,-7.56861
+"Lower Shannon (C), Shinrone",40,River,Shinrone,52.9825,-7.92444
+"Donagh-Moville, MALIN STREAM_010",40,River,MALIN STREAM,,
+"Lower Shannon (C), GWDTE-Caherglassaun Turlough (SAC000238)",40,River,GWDTE-Caherglassaun Turlough,,
+"Lough Neagh _ Lower Bann, Louth",40,River,Louth,53.99306,-6.54167
+"Lough Neagh _ Lower Bann, Knockatallon",40,River,Knockatallon,54.29439,-7.14867
+"Suir, Comeragh",40,River,Comeragh,52.27972,-7.56639
+"Suir, Kilkenny",40,River,Kilkenny,52.31222,-7.09722
+"Suir, Hospital",39,River,Hospital,52.47306,-8.43056
+"Suir, Carrick-on-Suir",39,River,Carrick-on-Suir,52.34917,-7.41306
+"Upper Shannon (A), Newtown-Ballyconnell",39,River,Newtown-Ballyconnell,,
+"Lower Shannon (C), Nenagh",39,River,Nenagh,52.92639,-8.27278
+"Donegal Bay North, MOUNTCHARLES_010",39,River,MOUNTCHARLES,54.64639,-8.19556
+"Lower Shannon (D), Ballyneety",39,River,Ballyneety,54.13444,-9.28028
+"Lower Shannon (D), Nenagh",39,River,Nenagh,52.92639,-8.27278
+"Lower Shannon (D), Hospital",39,River,Hospital,52.47306,-8.43056
+"foyal, Outer Galway Bay",39,Coastal,Outer Galway Bay,,
+"Upper Shannon (C), SHANNON (Upper)_080",39,River,SHANNON,52.58194,-9.68167
+"Nore, Carrick-on-Suir",39,River,Carrick-on-Suir,52.34917,-7.41306
+"Suir, Nenagh",39,River,Nenagh,52.92639,-8.27278
+"Suir, Slieveardagh Hills",39,River,Slieveardagh Hills,52.65278,-7.52056
+"Suir, Shanahoe",39,River,Shanahoe,52.92528,-7.42472
+"Colligan-Mahon, MAHON_030",39,River,MAHON,52.13806,-7.36278
+"Galway Bay South East, Slieve Elva",39,River,Slieve Elva,53.08373,-9.26924
+"Cork Harbour, Moy Killala, Ballyshannon East",39,River,Ballyshannon East,,
+"Galway Bay South East, Outer Galway Bay",39,Coastal,Outer Galway Bay,,
+"Mal Bay, Slieve Elva",39,River,Slieve Elva,53.08373,-9.26924
+"Nore, Bredagh",39,River,Bredagh,55.18333,-7.03333
+"Nore, Shanahoe",39,River,Shanahoe,52.92528,-7.42472
+"Nore, Slieveardagh Hills",39,River,Slieveardagh Hills,52.65278,-7.52056
+"Erriff-Clew Bay, Clifden Bay",39,Transitional,Clifden Bay,53.48917,-10.07
+"Foyle, Ballyshannon East",39,River,Ballyshannon East,,
+"Lower Shannon (B), Bredagh",39,River,Bredagh,55.18333,-7.03333
+"Lower Shannon (B), Nenagh",39,River,Nenagh,52.92639,-8.27278
+"Galway Bay North, Outer Galway Bay",39,Coastal,Outer Galway Bay,,
+"Lower Shannon (A), Bredagh",39,River,Bredagh,55.18333,-7.03333
+"Foyle, REELAN_010",39,River,REELAN,55.09167,-7.79306
+"Lee, Cork Harbour and Youghal Bay, GLASHABOY (LOUGH MAHON)_020",39,River,GLASHABOY,51.90167,-8.3975
+"Shannon Estuary North, Slieve Elva",39,River,Slieve Elva,53.08373,-9.26924
+"Upper Shannon (C), Newtown-Ballyconnell",39,River,Newtown-Ballyconnell,,
+"Owenavorragh, BANOGE_010",39,River,BANOGE,52.64417,-6.28417
+"Ovoca-Vartry, TEMPLERAINY STREAM_010",39,River,TEMPLERAINY STREAM,,
+"Lough Swilly, DRUMHALLAGH_010",38,River,DRUMHALLAGH,55.13333,-7.56667
+"Owenavorragh, Gorey",38,River,Gorey,52.67472,-6.2925
+"Newry, Fane, Glyde and Dee, Carrickmacross",38,River,Carrickmacross,53.97278,-6.71889
+"Gweebarra-Sheephaven, OWENEA_030",38,River,OWENEA,54.74833,-8.3375
+"Upper Shannon (F), Derravarragh",38,River,Derravarragh,,
+"Nanny-Delvin, Bettystown",38,River,Bettystown,53.70139,-6.24611
+"Barrow, GWDTE-Pollardstown Fen (SAC000396)",38,River,GWDTE-Pollardstown Fen,,
+"Barrow, Kilcullen",38,River,Kilcullen,53.13028,-6.74444
+"Suir, Mullinavat",38,River,Mullinavat,52.36722,-7.16472
+"Liffey and Dublin Bay, GWDTE-Pollardstown Fen (SAC000396)",38,River,GWDTE-Pollardstown Fen,,
+"Nore, Mullinavat",38,River,Mullinavat,52.36722,-7.16472
+"Boyne, Derravarragh",38,River,Derravarragh,,
+"Upper Shannon (F), BELLSGROVE STREAM_010",38,River,BELLSGROVE STREAM,,
+"Lower Shannon (A), Derravarragh",38,River,Derravarragh,,
+"Boyne, Bettystown",38,River,Bettystown,53.70139,-6.24611
+"Cork Harbour, Moy Killala, Kilcullen",38,River,Kilcullen,53.13028,-6.74444
+"Liffey and Dublin Bay, Kilcullen",38,River,Kilcullen,53.13028,-6.74444
+"Cork Harbour, Moy Killala, Bredagh",38,River,Bredagh,55.18333,-7.03333
+"Erne, WOODFORD (CAVAN)_020",38,River,WOODFORD,53.02028,-8.31639
+"Donegal Bay North, OWENWEE (CARRICK)_010",38,River,OWENWEE,53.78055,-9.58144
+"Slaney _ Wexford Harbour, Kilcullen",38,River,Kilcullen,53.13028,-6.74444
+"Slaney _ Wexford Harbour, Gorey",38,River,Gorey,52.67472,-6.2925
+"Cork Harbour, Moy Killala, Moy Estuary",38,Transitional,Moy Estuary,,
+"Ovoca-Vartry, COOLALUG STREAM_010",38,River,COOLALUG STREAM,,
+"Boyne, BLACKWATER (KELLS)_030",38,River,BLACKWATER,51.85,-9.75
+"Shannon Estuary South, Ballyneety",38,River,Ballyneety,54.13444,-9.28028
+"Donegal Bay North, EANYMORE WATER_020",37,River,EANYMORE WATER,54.68167,-8.245
+"Owenavorragh, Wexford Harbour",37,Coastal,Wexford Harbour,52.33833,-6.40417
+"Suir, ST JOHN'S_010",37,River,ST JOHN'S,53.36415,-6.20558
+"Lower Shannon (C), GWDTE-Rahasane Turlough (SAC000322)",37,River,GWDTE-Rahasane Turlough,,
+"Lower Shannon (D), Fedamore",37,River,Fedamore,52.54528,-8.6025
+"Ovoca-Vartry, Inch",37,River,Inch,53.27167,-9.16833
+"Tralee Bay-Feale, CLOOSGUIRE_010",37,River,CLOOSGUIRE,,
+"Slaney _ Wexford Harbour, Wexford Harbour",37,Coastal,Wexford Harbour,52.33833,-6.40417
+"Newry, Fane, Glyde and Dee, Dundalk",37,River,Dundalk,53.95,-6.25
+"Foyle, ELATAGH_010",37,River,ELATAGH,,
+"Donegal Bay North, Leitrim Hill Stream_010",37,River,Leitrim Hill Stream,,
+"Upper Shannon (D), GWDTE-Rahasane Turlough (SAC000322)",37,River,GWDTE-Rahasane Turlough,,
+"Corrib, GWDTE-Rahasane Turlough (SAC000322)",37,River,GWDTE-Rahasane Turlough,,
+"Donagh-Moville, CULDAFF_010",37,River,CULDAFF,55.28333,-7.16667
+"Galway Bay South East, GWDTE-Rahasane Turlough (SAC000322)",37,River,GWDTE-Rahasane Turlough,,
+"Colligan-Mahon, Waterford Harbour",37,Coastal,Waterford Harbour,52.18122,-6.92877
+"Gweebarra-Sheephaven, TULLAGHOBEGLY_020",37,River,TULLAGHOBEGLY,55.13583,-8.12139
+"Ballyteigue-Bannow, Waterford Harbour",37,Coastal,Waterford Harbour,52.18122,-6.92877
+"Upper Shannon (F), MOUNTNUGENT_030",36,River,MOUNTNUGENT,53.81783,-7.2557
+"Suir, Ballymoat (Stream)_010",36,River,Ballymoat,52.07528,-7.96028
+"Corrib, KILMAINE_010",36,River,KILMAINE,53.58135,-9.12256
+"Erne, DROMORE_080",36,River,DROMORE,52.91962,-8.97256
+"Erne, OWENSALLAGH_010",36,River,OWENSALLAGH,54.165,-7.71278
+"Erne, BLACKWATER (NEWTOWNGORE)_020",36,River,BLACKWATER,51.85,-9.75
+"Colligan-Mahon, Youghal Bay",36,Coastal,Youghal Bay,52.89944,-8.30361
+"Tralee Bay-Feale, BRICK_020",36,River,BRICK,53.17333,-8.54333
+"Erne, BAWNBOY_010",36,River,BAWNBOY,54.12139,-7.67556
+"Lower Shannon (D), CAHERNAHALLIA_010",36,River,CAHERNAHALLIA,52.57306,-8.27139
+"Lee, Cork Harbour and Youghal Bay, Youghal Bay",36,Coastal,Youghal Bay,52.89944,-8.30361
+"Upper Shannon (A), OWENMORE (GLANGEVLIN)_010",36,River,OWENMORE,54.12034,-9.83337
+"Newry, Fane, Glyde and Dee, Dundalk Gravels",36,River,Dundalk Gravels,,
+"Lower Shannon (A), LITTLE (CLOGHAN)_030",36,River,LITTLE,53.98472,-9.24122
+"Lower Shannon (B), BUNOW_010",36,River,BUNOW,52.9625,-7.83861
+"Erne, ANNALEE_060",35,River,ANNALEE,54.04,-7.4075
+"Sligo Bay _ Drowse, Garavoge Estuary",35,Transitional,Garavoge Estuary,,
+"Erne, CAVAN_020",35,River,CAVAN,54.00222,-6.92222
+"Corrib, Corrib Estuary",35,Transitional,Corrib Estuary,,
+"Erne, DERRADDA STREAM_010",35,River,DERRADDA STREAM,,
+"Erne, ANNALEE_010",35,River,ANNALEE,54.04,-7.4075
+"Erne, ANNALEE_050",35,River,ANNALEE,54.04,-7.4075
+"Erne, ANNALEE_090",35,River,ANNALEE,54.04,-7.4075
+"Erne, ANNALEE_030",35,River,ANNALEE,54.04,-7.4075
+"Erne, ERNE_080",35,River,ERNE,54.50534,-8.24507
+"Erne, BLACKWATER (NEWTOWNGORE)_010",35,River,BLACKWATER,51.85,-9.75
+"Erne, BUNNOE_040",35,River,BUNNOE,54.05806,-7.22806
+"Erne, RAG (CAVAN)_020",35,River,RAG,52.7148,-7.9053
+"Galway Bay North, Corrib Estuary",35,Transitional,Corrib Estuary,,
+"Galway Bay South East, Inner Galway Bay North",35,Coastal,Inner Galway Bay North,,
+"foyal, Inner Galway Bay North",35,Coastal,Inner Galway Bay North,,
+"Erne, ERNE_010",35,River,ERNE,54.50534,-8.24507
+"Erne, ERNE_040",35,River,ERNE,54.50534,-8.24507
+"Newry, Fane, Glyde and Dee, ANNAHALE STREAM_010",35,River,ANNAHALE STREAM,,
+"Upper Shannon (F), INNY_040",35,River,INNY,51.85722,-10.18167
+"Lough Swilly, SWILLY_020",35,River,SWILLY,55.16667,-7.53333
+"Galway Bay North, Inner Galway Bay North",35,Coastal,Inner Galway Bay North,,
+"Colligan-Mahon, Dungarvan Harbour",35,Coastal,Dungarvan Harbour,52.06806,-7.57806
+"Laune-Maine-Dingle Bay, BEHY (KERRY)_030",35,River,BEHY,52.06556,-9.95667
+"Gweebarra-Sheephaven, TULLAGHOBEGLY_010",35,River,TULLAGHOBEGLY,55.13583,-8.12139
+"Galway Bay South East, Corrib Estuary",35,Transitional,Corrib Estuary,,
+"Gweebarra-Sheephaven, MURLIN_010",35,River,MURLIN,,
+"Boyne, NADREEGEEL LOUGH STREAM_010",35,River,NADREEGEEL LOUGH STREAM,,
+"Upper Shannon (A), SHANNON (Upper)_020",35,River,SHANNON,52.58194,-9.68167
+"Erne, ERNE_060",35,River,ERNE,54.50534,-8.24507
+"Erne, ERNE_050",35,River,ERNE,54.50534,-8.24507
+"foyal, Corrib Estuary",35,Transitional,Corrib Estuary,,
+"Erne, ANNALEE_020",34,River,ANNALEE,54.04,-7.4075
+"Upper Shannon (A), OWENNAYLE_010",34,River,OWENNAYLE,54.18333,-8.03333
+"Foyle, DEELE (DONEGAL)_040",34,River,DEELE,54.9,-7.88333
+"Suir, Thurles",34,River,Thurles,52.68194,-7.80222
+"Erne, CULLIES_010",34,River,CULLIES,53.96222,-7.60361
+"Nore, Thurles",34,River,Thurles,52.68194,-7.80222
+"Newry, Fane, Glyde and Dee, DEE_010",33,River,DEE,53.8825,-6.34972
+"Liffey and Dublin Bay, Malahide Bay",33,Coastal,Malahide Bay,53.46258,-6.17347
+"Nanny-Delvin, Northwestern Irish Sea (HA 08)",33,Coastal,Northwestern Irish Sea,,
+"Boyne, BLACKWATER (KELLS)_060",33,River,BLACKWATER,51.85,-9.75
+"Liffey and Dublin Bay, Broadmeadow Water",33,Transitional,Broadmeadow Water,,
+"Nanny-Delvin, Broadmeadow Water",33,Transitional,Broadmeadow Water,,
+"Liffey and Dublin Bay, Northwestern Irish Sea (HA 08)",33,Coastal,Northwestern Irish Sea,,
+"Suir, BURNCOURT_010",33,River,BURNCOURT,52.31278,-8.03778
+"Suir, Upper Suir Estuary",33,Transitional,Upper Suir Estuary,,
+"Slaney _ Wexford Harbour, CAMOLIN STREAM_010",33,River,CAMOLIN STREAM,,
+"Boyne, Northwestern Irish Sea (HA 08)",33,Coastal,Northwestern Irish Sea,,
+"Shannon Estuary South, CHARLEVILLE STREAM_010",33,River,CHARLEVILLE STREAM,,
+"Colligan-Mahon, LEPERSTOWN STREAM_010",32,River,LEPERSTOWN STREAM,,
+"Laune-Maine-Dingle Bay, Ferta",32,Transitional,Ferta,51.96389,-10.18222
+"Ovoca-Vartry, GLENEALO_010",32,River,GLENEALO,53.0,-6.30167
+"Erne, MAGHERARNEY_010",32,River,MAGHERARNEY,,
+"Dunmanus-Bantry-Kenmare, Glengarriff Harbour",32,Transitional,Glengarriff Harbour,51.75111,-9.5375
+"Erne, KNAPPAGH_020",32,River,KNAPPAGH,54.0325,-6.96583
+"Erne, ERNE_030",31,River,ERNE,54.50534,-8.24507
+"Donagh-Moville, GLENNAGANNON_020",31,River,GLENNAGANNON,55.27861,-7.25306
+"Bandonllen, Oysterhaven",31,Transitional,Oysterhaven,51.69167,-8.44306
+"Donegal Bay North, EANYBEG WATER_020",31,River,EANYBEG WATER,54.68222,-8.245
+"Lee, Cork Harbour and Youghal Bay, Owenacurra Estuary",31,Transitional,Owenacurra Estuary,51.89686,-8.17787
+"Gweebarra-Sheephaven, Birroge",31,Lake,Birroge,,
+"Newry, Fane, Glyde and Dee, Inner Dundalk Bay",31,Transitional,Inner Dundalk Bay,,
+"Lee, Cork Harbour and Youghal Bay, Glashaboy Estuary",31,Transitional,Glashaboy Estuary,,
+"Lee, Cork Harbour and Youghal Bay, Lee (Cork) Estuary Upper",31,Transitional,Lee Estuary Upper,,
+"Newry, Fane, Glyde and Dee, GLYDE_030",30,River,GLYDE,53.88306,-6.35
+"Upper Shannon (C), Grange Lough",30,Lake,Grange Lough,52.77444,-8.01194
+"Lough Neagh _ Lower Bann, SCOTSTOWN_010",30,River,SCOTSTOWN,54.2775,-7.065
+"Mal Bay, INAGH (ENNISTYMON)_020",30,River,INAGH,53.5154,-9.74298
+"Donagh-Moville, GLENNAGANNON_010",30,River,GLENNAGANNON,55.27861,-7.25306
+"Donagh-Moville, CLOONTAGH_010",30,River,CLOONTAGH,55.24861,-7.37056
+"Dunmanus-Bantry-Kenmare, Berehaven",30,Coastal,Berehaven,51.65132,-9.9104
+"Slaney _ Wexford Harbour, COOLREE STREAM_010",30,River,COOLREE STREAM,,
+"Lower Shannon (C), LISDUFF (KILCROW)_020",29,River,LISDUFF,52.91556,-8.24111
+"Upper Shannon (D), CASTLEGAR_010",29,River,CASTLEGAR,53.2975,-9.01917
+"Lower Shannon (A), BROSNA_110",29,River,BROSNA,53.16556,-8.075
+"Lee, Cork Harbour and Youghal Bay, SULLANE_030",29,River,SULLANE,51.88333,-8.93333
+"Erne, Woodford River",29,River,Woodford River,53.02028,-8.31639
+"Cork Harbour, Moy Killala, Lee (Cork) Estuary Upper",29,Transitional,Lee Estuary Upper,,
+"Cork Harbour, Moy Killala, SULLANE_030",28,River,SULLANE,51.88333,-8.93333
+"Foyle, FINN (DONEGAL)_050",28,River,FINN,54.86111,-8.13861
+"Donagh-Moville, Northwestern Atlantic Seaboard (HAs 37;38)",28,Coastal,Northwestern Atlantic Seaboard,,
+"Ovoca-Vartry, GOLD MINE_010",28,River,GOLD MINE,52.82861,-6.23028
+"Liffey and Dublin Bay, CAMAC_010",28,River,CAMAC,,
+"Gweebarra-Sheephaven, Northwestern Atlantic Seaboard (HAs 37;38)",28,Coastal,Northwestern Atlantic Seaboard,,
+"Lough Swilly, Northwestern Atlantic Seaboard (HAs 37;38)",28,Coastal,Northwestern Atlantic Seaboard,,
+"Bandonllen, Glandore Harbour",28,Lake,Glandore Harbour,51.56639,-9.12083
+"Lough Swilly, LEANNAN_040",28,River,LEANNAN,55.05,-7.71667
+"Erriff-Clew Bay, Inner Clew Bay",28,Coastal,Inner Clew Bay,,
+"Cork Harbour, Moy Killala, FINN (DONEGAL)_050",28,River,FINN,54.86111,-8.13861
+"Foyle, FINN (DONEGAL)_020",28,River,FINN,54.86111,-8.13861
+"Erriff-Clew Bay, Westport Bay",28,Transitional,Westport Bay,53.80067,-9.60948
+"Erriff-Clew Bay, Newport Bay",28,Transitional,Newport Bay,53.87389,-9.62111
+"Donegal Bay North, BRIDGETOWN (DONEGAL)_020",28,River,BRIDGETOWN,52.21748,-6.65242
+"Donegal Bay North, Northwestern Atlantic Seaboard (HAs 37;38)",28,Coastal,Northwestern Atlantic Seaboard,,
+"Donagh-Moville, PORTALEEN_010",28,River,PORTALEEN,55.31667,-7.16667
+"Suir, FARNEYBRIDGE_040",28,River,FARNEYBRIDGE,52.64028,-7.91944
+"Dunmanus-Bantry-Kenmare, FINNIHY_020",27,River,FINNIHY,51.86667,-9.6
+"Erne, Erne Estuary",27,Transitional,Erne Estuary,,
+"Sligo Bay _ Drowse, Sligo Bay",27,Coastal,Sligo Bay,54.3,-8.7
+"Sligo Bay _ Drowse, CARTONKILLERDOO_010",27,River,CARTONKILLERDOO,,
+"Newry, Fane, Glyde and Dee, Castletown Estuary",27,Transitional,Castletown Estuary,,
+"Donegal Bay North, GLEN (CARRICK)_020",27,River,GLEN,54.34111,-8.38667
+"Donegal Bay North, ROECHROW_010",27,River,ROECHROW,,
+"Shannon Estuary North, Fergus Estuary",27,Transitional,Fergus Estuary,,
+"Cork Harbour, Moy Killala, POLLAGH_020",26,River,POLLAGH,53.27667,-7.70806
+"Upper Shannon (D), SUCK_130",26,River,SUCK,53.27222,-8.05306
+"Barrow, Portlaoise",26,River,Portlaoise,53.03441,-7.29979
+"Moy _ Killala Bay, POLLAGH_020",26,River,POLLAGH,53.27667,-7.70806
+"Lower Shannon (A), BROSNA_020",26,River,BROSNA,53.16556,-8.075
+"Liffey and Dublin Bay, RYE WATER_020",26,River,RYE WATER,53.365,-6.49111
+"Lough Neagh _ Lower Bann, LISAVARGY_010",26,River,LISAVARGY,,
+"Donegal Bay North, Inner Donegal Bay",26,Transitional,Inner Donegal Bay,,
+"Erne, DUFF_010",26,River,DUFF,53.78464,-9.61955
+"Dunmanus-Bantry-Kenmare, OWREAGH_010",26,River,OWREAGH,51.84306,-9.91
+"Donegal Bay North, ESKE_020",26,River,ESKE,54.7,-8.03333
+"Donagh-Moville, BALLYBOE_010",26,River,BALLYBOE,55.1,-8.01667
+"Laune-Maine-Dingle Bay, Valencia Harbour",26,Coastal,Valencia Harbour,,
+"Nore, Portlaoise",26,River,Portlaoise,53.03441,-7.29979
+"Lower Shannon (A), Portlaoise",26,River,Portlaoise,53.03441,-7.29979
+"Lough Swilly, LEANNAN_010",25,River,LEANNAN,55.05,-7.71667
+"Lower Shannon (C), BALLINLOUGH STREAM_010",25,River,BALLINLOUGH STREAM,,
+"Lough Swilly, OWENERK_010",25,River,OWENERK,55.20278,-7.53944
+"Gweebarra-Sheephaven, CLADY (DONEGAL)_010",25,River,CLADY,55.05806,-8.31417
+"Erriff-Clew Bay, Erriff Estuary",25,Transitional,Erriff Estuary,,
+"Corrib, ANNIES_010",25,River,ANNIES,,
+"Donegal Bay North, ESKE_010",25,River,ESKE,54.7,-8.03333
+"Dunmanus-Bantry-Kenmare, Sneem Harbour",25,Transitional,Sneem Harbour,51.8,-9.88333
+"Lough Neagh _ Lower Bann, River Blackwater (Annaghroe)",25,River,River Blackwater,51.85,-9.75
+"Laune-Maine-Dingle Bay, MAINE_050",25,River,MAINE,52.15,-9.75
+"Gweebarra-Sheephaven, OWENTOCKER_010",25,River,OWENTOCKER,54.76278,-8.42278
+"Colligan-Mahon, Eastern Celtic Sea (HAs 13;17)",24,Coastal,Eastern Celtic Sea,,
+"Lower Shannon (D), SHANNON (LOWER)_050",24,River,SHANNON,52.58194,-9.68167
+"Shannon Estuary North, HELL_010",24,River,HELL,52.82417,-8.8225
+"Erne, Derrycassan West",24,Lake,Derrycassan West,,
+"Moy _ Killala Bay, GLENREE_020",24,River,GLENREE,54.11667,-9.15
+"Donegal Bay North, LOWERYMORE_010",24,River,LOWERYMORE,54.68972,-8.03889
+"Erne, Derrycassan East",24,Lake,Derrycassan East,,
+"Erriff-Clew Bay, Killary Harbour",24,Coastal,Killary Harbour,53.60645,-9.80523
+"Slaney _ Wexford Harbour, BLACKLION STREAM (CARLOW)_010",24,River,BLACKLION STREAM,,
+"Lough Swilly, Swilly (Donegal)_010",24,River,Swilly,55.16667,-7.53333
+"Tralee Bay-Feale, Upper Feale Estuary",24,Transitional,Upper Feale Estuary,,
+"Shannon Estuary North, MANUSMORE_010",24,River,MANUSMORE,,
+"Donegal Bay North, CLOGHER (DONEGAL)_010",23,River,CLOGHER,53.79361,-6.2375
+"Newry, Fane, Glyde and Dee, FANE_060",23,River,FANE,53.95222,-6.46583
+"Newry, Fane, Glyde and Dee, Outer Dundalk Bay",23,Coastal,Outer Dundalk Bay,,
+"Upper Shannon (D), BALLINURE_020",23,River,BALLINURE,53.27667,-8.185
+"Lower Shannon (C), BALLYFINBOY_040",23,River,BALLYFINBOY,53.0325,-8.25111
+"Moy _ Killala Bay, OWENGARVE (SLIGO)_010",23,River,OWENGARVE,53.43333,-9.7
+"Gweebarra-Sheephaven, OWENCARROW_020",23,River,OWENCARROW,55.10083,-7.85806
+"Gweebarra-Sheephaven, Lough Swilly",23,Coastal,Lough Swilly,55.16667,-7.53333
+"Colligan-Mahon, Colligan Estuary",23,Transitional,Colligan Estuary,,
+"Gweebarra-Sheephaven, BIG BURN_010",23,River,BIG BURN,,
+"Gweebarra-Sheephaven, GLEN (LACKAGH)_010",23,River,GLEN,54.34111,-8.38667
+"Gweebarra-Sheephaven, KEEL LOUGH STREAM_010",23,River,KEEL LOUGH STREAM,,
+"Shannon Estuary North, Shannon Plume (HAs 27;28)",23,Coastal,Shannon Plume,,
+"Galway Bay South East, Shannon Plume (HAs 27;28)",23,Coastal,Shannon Plume,,
+"Moy _ Killala Bay, BLACK (SLIGO)_010",23,River,BLACK,54.08222,-7.14611
+"Mal Bay, Shannon Plume (HAs 27;28)",23,Coastal,Shannon Plume,,
+"Nanny-Delvin, WARD_010",23,River,WARD,53.62444,-6.88611
+"Lough Swilly, Lough Swilly",23,Coastal,Lough Swilly,55.16667,-7.53333
+"Slaney _ Wexford Harbour, BALLINGALE STREAM_010",23,River,BALLINGALE STREAM,,
+"Donegal Bay North, LAGHY STREAM_010",23,River,LAGHY STREAM,,
+"Donegal Bay North, DRUMMENY_010",23,River,DRUMMENY,,
+"Moy _ Killala Bay, LITTLE (STRADE)_010",23,River,LITTLE,53.98472,-9.24122
+"Lower Shannon (D), NEWPORT (TIPPERARY)_020",22,River,NEWPORT,53.88504,-9.55674
+"Mal Bay, ANNAGH (CLARE)_010",22,River,ANNAGH,53.77698,-8.77445
+"Lower Shannon (B), CLAREEN STREAM/FUARAWN_020",22,River,CLAREEN STREAM/FUARAWN,,
+"Lower Shannon (D), DOONANE_010",22,River,DOONANE,52.73667,-8.34417
+"Lough Swilly, AGHAWEEL_010",22,River,AGHAWEEL,55.19333,-7.47222
+"Lough Swilly, CASHELNACOR_010",22,River,CASHELNACOR,55.15694,-7.43778
+"Boyne, YELLOW (CASTLEJORDAN)_010",22,River,YELLOW,53.38556,-7.08361
+"Nore, LISDOWNEY_010",22,River,LISDOWNEY,52.78944,-7.38861
+"Gweebarra-Sheephaven, LOUGH AGHER STREAM_010",22,River,LOUGH AGHER STREAM,55.12833,-8.06417
+"Laune-Maine-Dingle Bay, Dingle Harbour",22,Coastal,Dingle Harbour,52.1325,-10.28611
+"Gweebarra-Sheephaven, Mulroy Bay Broadwater",22,Coastal,Mulroy Bay Broadwater,,
+"Tralee Bay-Feale, Mouth of the Shannon (HAs 23;27)",22,Coastal,Mouth of the Shannon,52.50167,-9.81694
+"Upper Shannon (B), BREEDOGE_010",22,River,BREEDOGE,53.91667,-8.41667
+"Gweebarra-Sheephaven, PORT STREAM_010",22,River,PORT STREAM,52.13806,-7.36278
+"Lough Swilly, DRUMBARNET STREAM_010",22,River,DRUMBARNET STREAM,,
+"Upper Shannon (C), FALLAN_010",22,River,FALLAN,53.73333,-7.86667
+"Cork Harbour, Moy Killala, GLENREE_020",22,River,GLENREE,54.11667,-9.15
+"Suir, BALLINTEMPLE STREAM_010",22,River,BALLINTEMPLE STREAM,,
+"Donegal Bay North, GLENADDRAGH_020",22,River,GLENADDRAGH,54.62667,-8.60389
+"Donagh-Moville, CABRY_010",22,River,CABRY,55.13333,-7.2
+"Suir, GLENGALLA_010",22,River,GLENGALLA,52.275,-7.89694
+"Donegal Bay North, Donegal Bay (Erne)",22,Coastal,Donegal Bay,54.53333,-8.5
+"Donegal Bay North, BALLAGHDOO_010",22,River,BALLAGHDOO,54.63194,-8.59611
+"Suir, CLASHAWLEY_010",22,River,CLASHAWLEY,52.35,-7.46667
+"Shannon Estuary North, Mouth of the Shannon (HAs 23;27)",22,Coastal,Mouth of the Shannon,52.50167,-9.81694
+"Sligo Bay _ Drowse, Donegal Bay (Erne)",22,Coastal,Donegal Bay,54.53333,-8.5
+"Tralee Bay-Feale, Inner Tralee Bay",22,Coastal,Inner Tralee Bay,,
+"Erne, Donegal Bay (Erne)",22,Coastal,Donegal Bay,54.53333,-8.5
+"Gweebarra-Sheephaven, CORVEEN_010",22,River,CORVEEN,55.10528,-8.26361
+"Gweebarra-Sheephaven, CATHEEN_010",22,River,CATHEEN,,
+"Suir, HALFWAY HOUSE STREAM_010",21,River,HALFWAY HOUSE STREAM,,
+"Galway Bay South East, CLARINBRIDGE_010",21,River,CLARINBRIDGE,53.22639,-8.88306
+"Lower Shannon (C), GORTADALAUN STREAM_010",21,River,GORTADALAUN STREAM,,
+"Lower Shannon (A), TULLAMORE_010",21,River,TULLAMORE,53.27722,-7.5775
+"Lough Neagh _ Lower Bann, MOUNTAIN WATER_020",21,River,MOUNTAIN WATER,54.33225,-6.86812
+"Nore, CAHERLESK STREAM_010",21,River,CAHERLESK STREAM,,
+"Tralee Bay-Feale, SCORID_010",21,River,SCORID,,
+"Lee, Cork Harbour and Youghal Bay, KEEL_010",21,River,KEEL,55.06111,-7.76167
+"Lee, Cork Harbour and Youghal Bay, SULLANE_040",21,River,SULLANE,51.88333,-8.93333
+"Nore, GULLY_010",21,River,GULLY,52.94306,-7.44722
+"Suir, CLOVER_010",21,River,CLOVER,52.685,-7.715
+"Dunmanus-Bantry-Kenmare, ARDSHEELHANE_010",21,River,ARDSHEELHANE,51.83333,-9.9
+"Erne, Summerhill",21,Lake,Summerhill,53.47694,-6.73639
+"Suir, CLONMORE STREAM (SUIR)_010",21,River,CLONMORE STREAM,53.27722,-7.5775
+"Lee, Cork Harbour and Youghal Bay, FOHERISH_020",21,River,FOHERISH,51.91667,-9.03333
+"Donagh-Moville, DRUNG_010",20,River,DRUNG,52.02509,-10.03748
+"Ballyteigue-Bannow, Corock Estuary",20,Transitional,Corock Estuary,,
+"Upper Shannon (F), MOUNTNUGENT_010",20,River,MOUNTNUGENT,53.81783,-7.2557
+"Cork Harbour, Moy Killala, CLAREEN STREAM/FUARAWN_020",20,River,CLAREEN STREAM/FUARAWN,,
+"Foyle, CLOGHROE_010",20,River,CLOGHROE,54.85,-7.73333
+"Foyle, CUMMIRK_020",20,River,CUMMIRK,54.86361,-8.00861
+"Slaney _ Wexford Harbour, CLASHAVEY RIVER_010",20,River,CLASHAVEY RIVER,52.705,-6.67806
+"Cork Harbour, Moy Killala, SULLANE_040",20,River,SULLANE,51.88333,-8.93333
+"Cork Harbour, Moy Killala, LITTLE (STRADE)_010",20,River,LITTLE,53.98472,-9.24122
+"Dunmanus-Bantry-Kenmare, SNEEM_010",20,River,SNEEM,51.81667,-9.9
+"Dunmanus-Bantry-Kenmare, Kilmakilloge Harbour",20,Transitional,Kilmakilloge Harbour,51.78,-9.82333
+"Laune-Maine-Dingle Bay, FINOW_010",20,River,FINOW,52.01306,-9.44028
+"Tralee Bay-Feale, TULLALEAGUE_010",20,River,TULLALEAGUE,52.32694,-9.36306
+"Tralee Bay-Feale, OWENAFEANNA_010",20,River,OWENAFEANNA,,
+"Gweebarra-Sheephaven, ABBERACHRIN_010",20,River,ABBERACHRIN,,
+"Nore, CLONAWOOLAN STREAM_010",20,River,CLONAWOOLAN STREAM,,
+"Liffey and Dublin Bay, PINKEEN_010",20,River,PINKEEN,,
+"Lower Shannon (D), WHITEHALL_010",20,River,WHITEHALL,53.383,-6.24019
+"Lower Shannon (D), MULKEAR (LIMERICK)_020",20,River,MULKEAR,52.67833,-8.54389

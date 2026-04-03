@@ -13,6 +13,9 @@ wheels/
 data/
 output/
 
+# Model artifacts
+*.joblib
+
 # Virtual environments
 .venv
 

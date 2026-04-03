@@ -1,3 +1,5 @@
+# Helper File to export station information for geocoding and validation study
+
 import os
 import pandas as pd
 

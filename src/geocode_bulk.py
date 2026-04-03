@@ -1,13 +1,14 @@
 """
 Bulk geocode all Ireland stations with >=MIN_OBS measurements via Geonames API.
-Resumes from existing output — safe to re-run if interrupted.
-
-Usage:
-    uv run python src/geocode_bulk.py
+Resumes from existing output, therefore safe to re-run if interrupted.
 
 Rate limit: Geonames free tier = 1000 req/hour. Script sleeps 3.7s between
 requests to stay safe (~970/hour). For 2188 stations expect ~2.5 hours.
 Already-geocoded stations are skipped.
+
+In order to use this Ireland_CSV variable needs to be pointed to the correct path.
+This script also relies on the GEONAMES_USER environment variable being set to a valid one.
+The output is to be found in the static/ dir, re-running would take the aforementioned ~2.5 hours.
 """
 
 import os, sys, time, re
@@ -21,7 +22,7 @@ IRELAND_CSV  = os.path.join(os.path.dirname(__file__), '..', 'data', 'Dataset',
                              'Country-Wise Data', 'Ireland_dataset.csv')
 OUT_CSV      = os.path.join(os.path.dirname(__file__), '..', 'output',
                              'ireland_stations_geocode_bulk.csv')
-GEONAMES_USER = os.getenv("GEONAMES_USER", "gecko1112")   # your Geonames username
+GEONAMES_USER = os.getenv("GEONAMES_USER")
 
 # ── Query cleaning ────────────────────────────────────────────────────────────
 def clean_query(area: str) -> str:

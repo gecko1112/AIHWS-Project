@@ -39,6 +39,7 @@ AIHWS/
 │   ├── minority_analysis.ipynb         # Minority class investigation (legacy)
 │   ├── china_eval.ipynb                # Cross-region evaluation on China
 │   └── export_stations.py              # Exports top-150 Ireland stations for geocoding
+├── test_data/                          # Smaller versions of the countries' datasets
 ├── data/
 │   └── Dataset/
 │       ├── Combined Data/              # Combined_dataset.csv (all 5 countries)
@@ -69,7 +70,7 @@ Replicates Table 6 & 7 with Linear Regression, Decision Tree, RF, XGBoost, ANN, 
 
 ### `src/autocorrelation_analysis.ipynb` — Autocorrelation
 - **Temporal:** ACF per station + Durbin-Watson; lag-1 mean=0.089, DW≈0.00 for densest stations
-- **Spatial proxy:** ICC=0.310 — no lat/lon in dataset, so Moran's I not computable here
+- **Spatial proxy:** ICC=0.310 — no lat/lon in dataset, so Moran's I not computable directly here
 
 ![ACF Top Stations](static/autocorr_acf.png)
 ![Lag-1 Distribution](static/autocorr_lag1_dist.png)
@@ -171,7 +172,7 @@ For a custom file also set:
 CUSTOM_PATH = "path/to/your_data.csv"
 ```
 
-`main.ipynb`, `baseline.ipynb`, and `src/autocorrelation_analysis.ipynb` all import from `config.py` automatically — no other files need to be changed.
+`main.ipynb`, `baseline.ipynb`, and `src/autocorrelation_analysis.ipynb` all import from `config.py` automatically
 
 ### Notes
 - All other settings (features, target, random seed, output dir) are also in `config.py`

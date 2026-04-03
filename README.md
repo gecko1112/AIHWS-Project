@@ -1,6 +1,6 @@
 # Water Quality Index Prediction — Multi-Model Ablation Study
 
-Multi-country water quality index (WQI) regression using ANN, LSTM, and Random Forest on CCME WQI data, with a progressive feature ablation study, temporal/spatial autocorrelation analysis, and baseline replication of Karim et al. (2025).
+Multi-country water quality index (WQI) regression using ANN, LSTM, and Random Forest on CCME WQI data, with a progressive feature ablation study, temporal/spatial autocorrelation analysis, and baseline replication of Karim et al. (2025). [Download Dataset](https://doi.org/10.6084/m9.figshare.27800394)
 
 **Research Question:** How does predictive performance degrade as physicochemical parameters are progressively removed — and which model architecture (ANN, LSTM, RF) is most robust to reduced input information?
 
